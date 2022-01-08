@@ -4,9 +4,11 @@ _For English, see [README.md](README.md)_
 
 **Selectie van FOSS Androidapps op F-Droid**
 
+> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759
+
 Veilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target="_blank" href="https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.
 
-Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" href="https://f-droid.org/">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.
+Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" href="https://f-droid.org/">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.
 
 <h2>Basis</h2>
 
@@ -22,6 +24,10 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.anysoftkeyboard.languagepack.dutch.5.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.dutch/">AnySoftKeyboard Dutch</a> - Nederlandse AnySoftKeyboard
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/de.nulide.findmydevice.14.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice/">FindMyDevice</a> - vind apparat terug
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/ru.seva.finder/en-US/icon_pNl-Jc-Eu0ycOM1aZr6ayzKmdFUi3UYGRfn-OLePpWM=.png"/>
 </td><td>
@@ -39,9 +45,9 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 &nbsp;&nbsp;&nbsp;<img alt="logo" width="32" src="https://prism-break.org/assets/logos/privacy-badger.svg"/>&nbsp;&nbsp;&nbsp;Privacy Badger<br/>
 &nbsp;&nbsp;&nbsp;<img alt="logo" width="32" src="https://prism-break.org/assets/logos/ublock-origin.svg"/>&nbsp;&nbsp;&nbsp;uBlock Origin
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/de.markusfisch.android.binaryeye/en-US/icon_Zlr61dIzIXmg2kzf9yAc8y1VfWljKyvwz66Lm3U0rTY=.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.example.barcodescanner/en-US/icon_gbgkQIJl8HO1zAqDFiUxTHRnzIJbzYBAYFsmrtwC0Us=.png"/>
 </td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/">Binary Eye</a> - scan QR- en barcodes
+<a target="_blank" href="https://f-droid.org/en/packages/com.example.barcodescanner/">QR &amp; Barcode Scanner</a> - scan QR- en barcodes
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
 </td><td>
@@ -83,7 +89,7 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.nextcloudpasswords/">NextcloudPasswords</a> - beheer en synchroniseer wachtwoorden
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.nextcloud.talk2.120020190.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.nextcloud.talk2.130000090.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2/">Nextcloud Talk</a> - videoconferentie
 </td></tr><tr><td>
@@ -91,13 +97,9 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.owncloud.notes/">Notes</a> - beheer en synchroniseer aantekeningen
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.schabi.nxbookmarks.13.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.schabi.nxbookmarks.16.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.schabi.nxbookmarks/">Nextcloud Bookmarks</a> - beheer en synchroniseer favorieten
-</td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/fr.unix_experience.owncloud_sms.69.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/fr.unix_experience.owncloud_sms/">Nextcloud SMS</a> - beheer en synchroniseer sms-berichten
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/it.niedermann.nextcloud.deck/en-US/icon_pl2kQsHgEl0STRpCuJp9-rtK0IY94nXH9_BHLy8pM_U=.png"/>
 </td><td>
@@ -107,7 +109,7 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack/">PhoneTrack</a> - log en upload posities
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/com.github.vauvenal5.yaga/en-US/icon_a4kgZbMbzg3nVNXDKa34ALuGPIWKBdGJqz7mE_r395c=.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.github.vauvenal5.yaga/en-US/icon_UuV_CBp_lUfFyBfOQm25pFpCimQ8FKJ9l-X5MBoXTfE=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.github.vauvenal5.yaga/">Yaga</a> - beheer en synchroniseer foto's
 </td></tr></table>
@@ -115,6 +117,14 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 <h2>Video</h2>
 
 <table><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/cz.martykan.webtube.17.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/cz.martykan.webtube/">WebTube</a> - YouTube, speelt ook in achtergrond en inloggen mogelijk
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe/">NewPipe</a> - YouTube, speelt ook in achtergrond
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/ua.gardenapple.trylbry.4.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/ua.gardenapple.trylbry/" rel="noopener">Try LBRY</a> - vind content van YouTube op LBRY (Odysee)
@@ -122,14 +132,6 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/io.lbry.browser.17001.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/io.lbry.browser/" rel="noopener">LBRY</a> - portemonee en mediaspeler voor LBRY (Odysee)
-</td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/cz.martykan.webtube.17.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/cz.martykan.webtube/">WebTube</a> - YouTube, speelt ook in achtergrond en inloggen is mogelijk
-</td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe/">NewPipe</a> - YouTube, speelt ook in achtergrond
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/org.videolan.vlc/en-US/icon_yAfSvPRJukZzMMfUzvbYqwaD1XmHXNtiPBtuPVHW-6s=.png"/>
 </td><td>
@@ -167,24 +169,20 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid/">ICSx⁵</a> - netwerkkalenders in ICS-formaat
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.birthdayadapter.19.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/saschpe.contactevents.160179.png"/>
 </td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/org.birthdayadapter/">Birthday Adapter</a> - verjaardagen uit adresboek <small>(zie ook voor <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>)</small>
-</td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/cz.dvratil.fbeventsync.43.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/cz.dvratil.fbeventsync/">Event Sync for Facebook</a> - evenementen en verjaardagen Facebook
+<a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents/">Birthday Adapter</a> - verjaardagen uit adresboek <small>(zie ook voor <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>)</small>
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/org.dmfs.tasks/en-GB/icon_IESscfW_lW1Q8sZGm07v9CeY3Irp1IuYKXgfrQOmHRo=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.dmfs.tasks/">OpenTasks</a> - taken in CalDAV
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/at.bitfire.davdroid.303080002.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/at.bitfire.davdroid/en-US/icon_NexNou7vmaD45rbdc8kjLj0Rv7FW128Mde9OQpHFXPE=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid/">DAVx⁵</a> - synchronisatie kalenders, taken en contacten in CalDAV en CardDav <small>(zie ook voor <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/">Thunderbird</a>)</small>
 </td></tr></table>
 
-<h2>Muziek</h2>
+<h2>Audio</h2>
 
 <table><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
@@ -210,6 +208,10 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 <img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.y20k.escapepod/">Escapepod</a> - podcasts
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.shabinder.spotiflyer/en-US/icon_thUbhx0uJAq4WiC069oqFjah8QZ5feyfQx2Hn3zj8mQ=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/com.shabinder.spotiflyer/">SpotiFlyer</a> - download van o.a. Spotify, SoundCloud, YouTube
 </td></tr></table>
 
 <h2>Navigatie en routeplanning</h2>
@@ -218,18 +220,14 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 <img alt="logo" width="64" src="https://f-droid.org/repo/net.osmand.plus/en-US/icon_R5cswkpVpZLwTsPD855ukLX_czuOczFwZLn7pCxaB-k=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd</a> - OpenStreetMap met navigatie en routeplanning lopend, fietsend, autorijdend en nautisch, online én offline
-</td></tr><!--tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.github.axet.maps.1062.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/com.github.axet.maps/">Maps</a> - OpenStreetMap met navigatie en routeplanning, online én offline
-</td></tr--><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/de.westnordost.streetcomplete/en/icon_c5kyb3mNYbAXLMH-TgXBTgn2BigTsobs06_a41nQuWQ=.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete/">StreetComplete</a> - eenvoudig aanvullen OpenStreetMap
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/de.grobox.liberario/en-US/icon_uq4KvLkKy1JRKWFDk5BCsNl7jAU2LWi3ZNqegNX4tPY=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/de.grobox.liberario/">Transportr</a> - ov-reisplanner o.a. NS en 9229
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/de.westnordost.streetcomplete/en/icon_c5kyb3mNYbAXLMH-TgXBTgn2BigTsobs06_a41nQuWQ=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete/">StreetComplete</a> - eenvoudig aanvullen OpenStreetMap
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/foss.cnugteren.nlweer.9.png"/>
 </td><td>
@@ -251,6 +249,10 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/">SlimSocial for Facebook</a> - Facebook
 </td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/me.zeeroooo.materialfb.75.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/me.zeeroooo.materialfb/">MaterialFBook</a> - Facebook
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/io.kuenzler.whatsappwebtogo.36.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo/" rel="noopener noreferrer">WhatsApp Web To Go</a> - web Whatsapp
@@ -271,9 +273,9 @@ Hieronder is een overzicht van gratis Anroid-apps die vanuit <a target="_blank" 
 <h2>Bestanden</h2>
 
 <table><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.github.axet.bookreader.408.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.gsnathan.pdfviewer/en-US/icon_5vClnRP_TQjbN12T9EL20e_o-jmNG2HGAMeKUrZgUdw=.png"/>
 </td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/com.github.axet.bookreader/">Book Reader</a> - bekijk o.a. PDF-bestanden
+<a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer/">Pdf Viewer Plus</a> - bekijk PDF-bestanden
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.documentfoundation.libreoffice.15.png"/>
 </td><td>
@@ -295,7 +297,11 @@ Zie ook LBRY elders op deze pagina.
 <table><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/eu.uwot.fabio.altcoinprices.81.png"/>
 </td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices/">Altcoin Prices</a> - volg prijzen en portfolio cryptovaluta's
+<a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices/">Altcoin Prices</a> - prijzen en portfolio cryptovaluta's
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/de.cloneapps.crypto_prices/en-US/icon_xCLsDVKLGHIPsCuXV2AJGEcHtDINC37j4gQA8nBOQSI=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/de.cloneapps.crypto_prices/">Crypto Prices</a> - prijzen en portfolio cryptovaluta's
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/hashengineering.darkcoin.wallet.70311.png"/>
 </td><td>
@@ -317,6 +323,10 @@ Zie ook LBRY elders op deze pagina.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.calyxinstitute.vpn/">Calyx VPN</a> - gratis VPN zonder handmatige instellingen
 </td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/de.csicar.ning.201.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/de.csicar.ning/">Ning</a> - LAN- en poortscanner
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.aaronjwood.portauthority.60.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority/">Port Authority</a> - LAN- en poortscanner
@@ -328,10 +338,17 @@ Zie ook LBRY elders op deze pagina.
 <img alt="logo" width="64" src="https://f-droid.org/repo/com.vrem.wifianalyzer/en-US/icon_B-8mijiFxN76HnwJkJfVB5gvwpb4fHmg12L0qW3Y030=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer/">WiFiAnalyzer</a> - optimaliseer wifinetwerken
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.manimarank.websitemonitor/en-US/icon_HKlMBEl7JWEb8JaRCr6ntlNJ1G5rxzfNjW0KD_ZfYlo=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor/">Website Monitor</a> - monitor websites
 </td></tr></table>
 
 <h2>LineageOS</h2>
 
 Als je nog een stap verder wil gaan, overweeg om <a target="_blank" href="https://en.wikipedia.org/wiki/LineageOS">LineageOS</a> op je apparaat te installeren. Dit is Android zonder voorgeïnstalleerde apps van Google, zonder voorgeïnstalleerde apps van de fabrikant van je apparaat en zonder voorgeïnstalleerde apps van je provider. Door ook Open GApps pico te installeren heb je alsnog de mogelijkheid apps van Google Play te installeren, maar alleen die apps waar jij zelf voor kiest zoals Signal Private Messenger.
 
-> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759
+<h2>Zie ook</h2>
+
+Zie ook:
+- [Selectie van FOSS voor Windows, macOS en Linux](https://github.com/PanderMusubi/foss/blob/main/README-nl.md).
