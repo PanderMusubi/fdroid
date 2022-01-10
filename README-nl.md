@@ -351,4 +351,6 @@ Als je nog een stap verder wil gaan, overweeg om <a target="_blank" href="https:
 <h2>Zie ook</h2>
 
 Zie ook:
-- [Selectie van FOSS voor Windows, macOS en Linux](https://github.com/PanderMusubi/foss/blob/main/README-nl.md).
+- [Selectie van FOSS voor Windows, macOS en Linux](https://github.com/PanderMusubi/foss/blob/main/README-nl.md)
+- [PRISM Break](https://prism-break.org/nl/)
+- [Droid-Break](https://droid-break.info/)

@@ -351,4 +351,6 @@ If you want to go one step further, please consider installing <a target="_blank
 <h2>See also</h2>
 
 See also:
-- [Selection of FOSS for Windows, macOS and Linux](https://github.com/PanderMusubi/foss/blob/main/README.md).
+- [Selection of FOSS for Windows, macOS and Linux](https://github.com/PanderMusubi/foss/blob/main/README.md)
+- [PRISM Break](https://prism-break.org/en/)
+- [Droid-Break](https://droid-break.info/)
