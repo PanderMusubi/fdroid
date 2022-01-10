@@ -173,6 +173,10 @@ Below is an overview of free Android apps which can be installed from <a target=
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents/">Birthday Adapter</a> - birthdays from address book <small>(see also for <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>)</small>
 </td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.woefe.shoppinglist.12.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist/">Shopping List</a> - tasks in files
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/org.dmfs.tasks/en-GB/icon_IESscfW_lW1Q8sZGm07v9CeY3Irp1IuYKXgfrQOmHRo=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.dmfs.tasks/">OpenTasks</a> - tasks in CalDAV
