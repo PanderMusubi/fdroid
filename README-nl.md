@@ -233,6 +233,10 @@ Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" h
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete/">StreetComplete</a> - eenvoudig aanvullen OpenStreetMap
 </td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid/">Sky Map</a> - verken de hemel
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/foss.cnugteren.nlweer.9.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/foss.cnugteren.nlweer/">NLWeer</a> - Nederlands weer en neerslag van KNMI en Buienrader

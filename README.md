@@ -233,6 +233,10 @@ Below is an overview of free Android apps which can be installed from <a target=
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete/">StreetComplete</a> - simply extending OpenStreetMap
 </td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid/">Sky Map</a> - explore the skies
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/foss.cnugteren.nlweer.9.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/foss.cnugteren.nlweer/">NLWeer</a> - Dutch weather and precipitation from KNMI and Buienrader
