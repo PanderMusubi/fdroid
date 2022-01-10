@@ -354,3 +354,5 @@ Zie ook:
 - [Selectie van FOSS voor Windows, macOS en Linux](https://github.com/PanderMusubi/foss/blob/main/README-nl.md)
 - [PRISM Break](https://prism-break.org/nl/)
 - [Droid-Break](https://droid-break.info/)
+
+<small>Dit overzicht was gestarted in 2013 en was eerder dan die van PRISM Break en Droid-Break.</small>
