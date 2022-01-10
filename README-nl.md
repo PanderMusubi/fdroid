@@ -21,10 +21,6 @@ Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" h
 </td><td>
 <a target="_blank" href="https://f-droid.org/repository/browse/?fdid=com.menny.android.anysoftkeyboard">AnySoftKeyboard</a> - automatisch aanvullend toetsenbord
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.anysoftkeyboard.languagepack.dutch.5.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.dutch/">AnySoftKeyboard Dutch</a> - Nederlandse AnySoftKeyboard
-</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/de.nulide.findmydevice.14.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice/">FindMyDevice</a> - vind apparat terug
@@ -236,10 +232,6 @@ Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" h
 <img alt="logo" width="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid/">Sky Map</a> - verken de hemel
-</td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/foss.cnugteren.nlweer.9.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/foss.cnugteren.nlweer/">NLWeer</a> - Nederlands weer en neerslag van KNMI en Buienrader
 </td></tr></table>
 
 <h2>Sociale media</h2>
