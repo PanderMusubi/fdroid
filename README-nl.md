@@ -344,6 +344,18 @@ Zie ook LBRY elders op deze pagina.
 <a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor/">Website Monitor</a> - monitor websites
 </td></tr></table>
 
+<h2>Nederland</h2>
+
+<table><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.anysoftkeyboard.languagepack.dutch.5.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.dutch/">AnySoftKeyboard Dutch</a> - Nederlandse AnySoftKeyboard
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/foss.cnugteren.nlweer.9.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/foss.cnugteren.nlweer/">NLWeer</a> - Nederlands weer en neerslag van KNMI en Buienrader
+</td></tr></table>
+
 <h2>LineageOS</h2>
 
 Als je nog een stap verder wil gaan, overweeg om <a target="_blank" href="https://en.wikipedia.org/wiki/LineageOS">LineageOS</a> op je apparaat te installeren. Dit is Android zonder voorgeïnstalleerde apps van Google, zonder voorgeïnstalleerde apps van de fabrikant van je apparaat en zonder voorgeïnstalleerde apps van je provider. Door ook Open GApps pico te installeren heb je alsnog de mogelijkheid apps van Google Play te installeren, maar alleen die apps waar jij zelf voor kiest zoals Signal Private Messenger.
