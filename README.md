@@ -8,7 +8,7 @@ _Voor Nederlands, zie [README-nl.md](README-nl.md)_
 
 Safe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target="_blank" href="https://en.wikipedia.org/wiki/Free_and_open-source_software">free and open source software</a> (FOSS) is advised, also for mobile devices such ass smartphones and tablets.
 
-Below is an overview of free Android apps which can be installed from <a target="_blank" href="https://f-droid.org/">F-Droid</a>. This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have trachking software removed. This minimizes the digital trail your online activity leaves behind.
+Below is an overview of free Android apps which can be installed from <a target="_blank" href="https://f-droid.org/">F-Droid</a>. This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind. Some of the apps listed here cost money in Google Play but are gratis on F-Droid.
 
 <h2>Basic</h2>
 
@@ -65,6 +65,10 @@ Below is an overview of free Android apps which can be installed from <a target=
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/im.vector.app/">Element</a> (Riot.im) - instant messaging on Matrix
 </td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations/">Conversations</a> instant messaging for XMPP
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.jitsi.meet.216000.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet/">Jitsi Meet</a> - video conference
@@ -73,6 +77,8 @@ Below is an overview of free Android apps which can be installed from <a target=
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.linphone/">Linphone</a> - VOIP telephone
 </td></tr></table>
+
+See also Signal Private Messenger under LineageOS.
 
 <h2><a name="nextcloud">Nextcloud</a></h2>
 
@@ -292,8 +298,6 @@ Below is an overview of free Android apps which can be installed from <a target=
 
 <h2>Financial</h2>
 
-See also LBRY elsewhere on this page.
-
 <table><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/eu.uwot.fabio.altcoinprices.81.png"/>
 </td><td>
@@ -315,6 +319,8 @@ See also LBRY elsewhere on this page.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.walleth/">WallETH</a> - wallet cryptocurrency Ethereum
 </td></tr></table>
+
+See also LBRY under Video.
 
 <h2>Network</h2>
 
@@ -367,4 +373,4 @@ See also:
 - [PRISM Break](https://prism-break.org/en/)
 - [Droid-Break](https://droid-break.info/)
 
-<small>This overview was started in 2013 and predates those of PRISM Break and Droid-Break.</small>
+<small>This overview was started in 2013 by [Hellebaard](http://hellebaard.nl) and predates those of PRISM Break and Droid-Break.</small>

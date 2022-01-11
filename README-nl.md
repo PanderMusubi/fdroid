@@ -8,7 +8,7 @@ _For English, see [README.md](README.md)_
 
 Veilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target="_blank" href="https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.
 
-Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" href="https://f-droid.org/">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.
+Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" href="https://f-droid.org/">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter. Sommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid.
 
 <h2>Basis</h2>
 
@@ -65,6 +65,10 @@ Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" h
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/im.vector.app/">Element</a> (Riot.im) - instant messaging op Matrix
 </td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations/">Conversations</a> instant messaging met XMPP
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.jitsi.meet.216000.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet/">Jitsi Meet</a> - videoconferantie
@@ -73,6 +77,8 @@ Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" h
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.linphone/">Linphone</a> - VOIP-telefoon
 </td></tr></table>
+
+Zie ook Signal Private Messenger onder LineageOS.
 
 <h2><a name="nextcloud">Nextcloud</a></h2>
 
@@ -292,8 +298,6 @@ Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" h
 
 <h2>Financieel</h2>
 
-Zie ook LBRY elders op deze pagina.
-
 <table><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/eu.uwot.fabio.altcoinprices.81.png"/>
 </td><td>
@@ -315,6 +319,8 @@ Zie ook LBRY elders op deze pagina.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.walleth/">WallETH</a> - portemonnee cryptovaluta Ethereum
 </td></tr></table>
+
+Zie ook LBRY inder Video.
 
 <h2>Netwerk</h2>
 
@@ -367,4 +373,4 @@ Zie ook:
 - [PRISM Break](https://prism-break.org/nl/)
 - [Droid-Break](https://droid-break.info/)
 
-<small>Dit overzicht was gestarted in 2013 en was eerder dan die van PRISM Break en Droid-Break.</small>
+<small>Dit overzicht was gestarted in 2013 door [Hellebaard](http://hellebaard.nl) en was eerder dan die van PRISM Break en Droid-Break.</small>
