@@ -45,7 +45,7 @@ Below is an overview of free Android apps which can be installed from <a target=
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.example.barcodescanner/">QR &amp; Barcode Scanner</a> - scan QR codes and barcodes
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://raw.githubusercontent.com/helloworld1/FreeOTPPlus/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus/">FreeOTP+</a> - two-factor authentication (2FA) with import and export
 </td></tr><tr><td>
@@ -65,7 +65,7 @@ Below is an overview of free Android apps which can be installed from <a target=
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/im.vector.app/">Element</a> (Riot.im) - instant messaging on Matrix
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://github.com/iNPUTmice/Conversations/blob/master/src/main/res/mipmap-hdpi/new_launcher.png?raw=true"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations/">Conversations</a> instant messaging for XMPP
 </td></tr><tr><td>
@@ -73,7 +73,7 @@ Below is an overview of free Android apps which can be installed from <a target=
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet/">Jitsi Meet</a> - video conference
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://gitlab.linphone.org/BC/public/linphone-android/-/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.linphone/">Linphone</a> - VOIP telephone
 </td></tr></table>
@@ -83,7 +83,7 @@ See also Signal Private Messenger under LineageOS.
 <h2><a name="nextcloud">Nextcloud</a></h2>
 
 <table><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://github.com/nextcloud/android/blob/master/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client/">Nextcloud</a> - synchronize files
 </td></tr><tr><td>
@@ -123,7 +123,7 @@ See also Signal Private Messenger under LineageOS.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/cz.martykan.webtube/">WebTube</a> - YouTube, plays also in the background and login possible
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/app/src/main/res/mipmap-hdpi/ic_launcher.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe/">NewPipe</a> - YouTube, plays also in the background
 </td></tr><tr><td>
@@ -163,7 +163,7 @@ See also Signal Private Messenger under LineageOS.
 <h2>Calendars and tasks</h2>
 
 <table><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://github.com/Etar-Group/Etar-Calendar/blob/master/res/mipmap-hdpi/ic_launcher.png?raw=true"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar/">Etar</a> - calendar
 </td></tr><tr><td>
@@ -191,7 +191,7 @@ See also Signal Private Messenger under LineageOS.
 <h2>Audio</h2>
 
 <table><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://github.com/y20k/transistor/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.y20k.transistor/"> Transistor</a> - audio stream player
 </td></tr><tr><td>
@@ -211,7 +211,7 @@ See also Signal Private Messenger under LineageOS.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/de.danoeh.antennapod/">AntennaPod</a> - podcasts
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://github.com/y20k/escapepod/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.y20k.escapepod/">Escapepod</a> - podcasts
 </td></tr><tr><td>
@@ -319,7 +319,7 @@ See also Signal Private Messenger under LineageOS.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.dash.electrum.electrum_dash/">Dash Electrum</a> - wallet cryptocurrency Dash
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/assets/ic_repo_app_default_KNN008Z2K7VNPZOFLMTry3JkfFYPxVGDopS1iwWe5wo=.png"/>
+<img alt="logo" width="64" src="https://github.com/walleth/walleth/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.walleth/">WallETH</a> - wallet cryptocurrency Ethereum
 </td></tr></table>
