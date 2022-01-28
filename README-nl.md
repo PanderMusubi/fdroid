@@ -223,6 +223,10 @@ Zie ook Signal Private Messenger onder LineageOS.
 <h2>Navigatie en routeplanning</h2>
 
 <table><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/app.organicmaps/en-US/icon_dE7f4P95-uKZwu7cI89Q0xSi_-gvU4DD-XnLoDG9RLg=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/es/packages/app.organicmaps/">Organic Maps</a> - OpenStreetMap met navigatie en routeplanning lopend, fietsend en autorijdend, online én offline
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/net.osmand.plus/en-US/icon_R5cswkpVpZLwTsPD855ukLX_czuOczFwZLn7pCxaB-k=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd</a> - OpenStreetMap met navigatie en routeplanning lopend, fietsend, autorijdend en nautisch, online én offline
@@ -238,6 +242,10 @@ Zie ook Signal Private Messenger onder LineageOS.
 <img alt="logo" width="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid/">Sky Map</a> - verken de hemel
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.ligi.passandroid.357.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/packages/org.ligi.passandroid/">PassAndroid</a> - bekijk Passbookbestanden
 </td></tr></table>
 
 <h2>Sociale media</h2>
@@ -254,10 +262,6 @@ Zie ook Signal Private Messenger onder LineageOS.
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/it.rignanese.leo.slimfacebook.58.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/">SlimSocial for Facebook</a> - Facebook
-</td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/me.zeeroooo.materialfb.75.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/me.zeeroooo.materialfb/">MaterialFBook</a> - Facebook
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/io.kuenzler.whatsappwebtogo.36.png"/>
 </td><td>
@@ -356,6 +360,10 @@ Zie ook LBRY inder Video.
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.anysoftkeyboard.languagepack.dutch.5.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.dutch/">AnySoftKeyboard Dutch</a> - Nederlandse AnySoftKeyboard
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/flunzmas.seasoncalendar/en-US/icon_wNMO5s0PGGSlLBB_PIpxFrvCdyXy-IUsSVMdSrJ5YPE=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar/">Seasonal Foods Calendar</a> - vind regionaal seizoensvoedsel dat dichtbij is geproduceerd
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/foss.cnugteren.nlweer.9.png"/>
 </td><td>
