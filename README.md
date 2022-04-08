@@ -354,16 +354,28 @@ See also LBRY under Video.
 <a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor/">Website Monitor</a> - monitor websites
 </td></tr></table>
 
+<h2>Health</h2>
+
+<table><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/com.health.openscale/en-GB/icon_jKa2VI-ZFkimJQwdR43QzO4WB93pXXhQFac0ARrQMNE=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/com.health.openscale/">openScale</a> - track weight and body metrics
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/org.runnerup.free/en-US/icon_5bPerDz3tyX6JUhwaN7feGAiSCVcbg-PfhRIXRfyRH8=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/org.runnerup.free/">RunnerUp</a> - track sport activities
+</td></tr><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/flunzmas.seasoncalendar/en-US/icon_wNMO5s0PGGSlLBB_PIpxFrvCdyXy-IUsSVMdSrJ5YPE=.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar/">Seasonal Foods Calendar</a> - find regional seasonal foods from nearby produce
+</td></tr></table>
+
 <h2>Netherlands</h2>
 
 <table><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.anysoftkeyboard.languagepack.dutch.5.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.dutch/">AnySoftKeyboard Dutch</a> - Dutch AnySoftKeyboard
-</td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/flunzmas.seasoncalendar/en-US/icon_wNMO5s0PGGSlLBB_PIpxFrvCdyXy-IUsSVMdSrJ5YPE=.png"/>
-</td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar/">Seasonal Foods Calendar</a> - find regional seasonal foods from nearby produce
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/foss.cnugteren.nlweer.9.png"/>
 </td><td>
