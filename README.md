@@ -329,6 +329,10 @@ See also LBRY under Video.
 <h2>Network</h2>
 
 <table><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/ch.protonvpn.android.102119017.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/ch.protonvpn.android/">ProtonVPN</a> - secure and free VPN
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.calyxinstitute.vpn.141.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.calyxinstitute.vpn/">Calyx VPN</a> - free VPN without manual settings
