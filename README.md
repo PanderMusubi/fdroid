@@ -201,7 +201,7 @@ See also Signal Private Messenger under LineageOS.
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.musicpd.41.png"/>
 </td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/org.musicpd/">MPD</a> - afstandsbediening MPD
+<a target="_blank" href="https://f-droid.org/en/packages/org.musicpd/">MPD</a> - remote control MPD
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/org.gateshipone.malp/en-US/icon_5QyDCIs9EsLT6y9B7B2spDTgZitElVSWpy8LKlWG6VM=.png"/>
 </td><td>
@@ -287,9 +287,9 @@ See also Signal Private Messenger under LineageOS.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer/">Pdf Viewer Plus</a> - view PDF files
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.documentfoundation.libreoffice.15.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/at.tomtasche.reader/en-US/icon_uCTVD0p4G_Q7MoQ87cSVMVQHdruhnr9Vw0YzN8sXmtk=.png"/>
 </td><td>
-<a target="_blank" href="">LibreOffice Viewer</a> - view LibreOffice files
+<a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader/">LibreOffice document reader</a> - view LibreOffice files
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.nutomic.syncthingandroid.4285.png"/>
 </td><td>

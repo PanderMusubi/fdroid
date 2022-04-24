@@ -287,9 +287,9 @@ Zie ook Signal Private Messenger onder LineageOS.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer/">Pdf Viewer Plus</a> - bekijk PDF-bestanden
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.documentfoundation.libreoffice.15.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/at.tomtasche.reader/en-US/icon_uCTVD0p4G_Q7MoQ87cSVMVQHdruhnr9Vw0YzN8sXmtk=.png"/>
 </td><td>
-<a target="_blank" href="">LibreOffice Viewer</a> - bekijk bestanden LibreOffice
+<a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader/">LibreOffice document reader</a> - bekijk bestanden LibreOffice
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/com.nutomic.syncthingandroid.4285.png"/>
 </td><td>
@@ -329,6 +329,10 @@ Zie ook LBRY inder Video.
 <h2>Netwerk</h2>
 
 <table><tr><td>
+<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/ch.protonvpn.android.102119017.png"/>
+</td><td>
+<a target="_blank" href="https://f-droid.org/en/packages/ch.protonvpn.android/">ProtonVPN</a> - veilige en gratis VPN
+</td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.calyxinstitute.vpn.141.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/org.calyxinstitute.vpn/">Calyx VPN</a> - gratis VPN zonder handmatige instellingen
