@@ -267,9 +267,9 @@ Zie ook Signal Private Messenger onder LineageOS.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo/" rel="noopener noreferrer">WhatsApp Web To Go</a> - web Whatsapp
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/icons-640/org.mariotaku.twidere.515.png"/>
+<img alt="logo" width="64" src="https://github.com/TwidereProject/TwidereX-Android/blob/develop/android/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true"/>
 </td><td>
-<a target="_blank" href="https://f-droid.org/packages/org.mariotaku.twidere/">Twidere</a> - o.a. Twitter en Mastodon
+<a target="_blank" href="https://f-droid.org/en/packages/com.twidere.twiderex/">Twidere X</a> - o.a. Twitter en Mastodon
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/com.keylesspalace.tusky/en-US/icon_eYB_YCmq3_aMo2fFlRKFH2pLhOIFbRS1ErgohWlD1lY=.png"/>
 </td><td>
