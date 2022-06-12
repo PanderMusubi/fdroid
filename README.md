@@ -179,9 +179,9 @@ See also Signal Private Messenger under LineageOS.
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist/">Shopping List</a> - tasks in files
 </td></tr><tr><td>
-<img alt="logo" width="64" src="https://f-droid.org/repo/org.dmfs.tasks/en-GB/icon_IESscfW_lW1Q8sZGm07v9CeY3Irp1IuYKXgfrQOmHRo=.png"/>
+<img alt="logo" width="64" src="https://f-droid.org/repo/org.tasks/en-US/icon_YftLJ2dGZxgevP1f0n9c9X9HZKYmyz06c370Udel8Tk=.png"/>
 </td><td>
-<a target="_blank" href="https://f-droid.org/en/packages/org.dmfs.tasks/">OpenTasks</a> - tasks in CalDAV
+<a target="_blank" href="https://f-droid.org/en/packages/org.tasks/">Tasks.org</a> - tasks in CalDAV
 </td></tr><tr><td>
 <img alt="logo" width="64" src="https://f-droid.org/repo/at.bitfire.davdroid/en-US/icon_NexNou7vmaD45rbdc8kjLj0Rv7FW128Mde9OQpHFXPE=.png"/>
 </td><td>
