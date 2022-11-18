@@ -372,7 +372,16 @@ See also LBRY under Video.
 <img alt="logo" width="64" src="https://f-droid.org/repo/flunzmas.seasoncalendar/en-US/icon_wNMO5s0PGGSlLBB_PIpxFrvCdyXy-IUsSVMdSrJ5YPE=.png"/>
 </td><td>
 <a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar/">Seasonal Foods Calendar</a> - find regional seasonal foods from nearby produce
-</td></tr></table>
+</td></tr>
+<tr>
+    <td>
+        <img alt="logo" width="64" src="https://f-droid.org/repo/com.jithware.brethap/en/icon_YUG7fh37oy5VLB19N5z373xOkwmlAFfGF0TEx0hTupg=.png"/>
+    </td>
+    <td>
+        <a target="_blank" href="https://f-droid.org/en/packages/com.jithware.brethap/">Brethap</a> - Control your breathing during meditation
+    </td>
+</tr>
+</table>
 
 <h2>Netherlands</h2>
 
@@ -389,6 +398,11 @@ See also LBRY under Video.
 <h2>LineageOS</h2>
 
 If you want to go one step further, please consider installing <a target="_blank" href="https://en.wikipedia.org/wiki/LineageOS">LineageOS</a> on your device. This is Android without preinstalled apps from Google, without preinstalled apps from the manufacturor of your device and without preinstalled apps from your provider. By also installing Open GApps pico, you have the possibility to install apps from Google Play, but only the one you choose, such as Signal Private Messenger.
+
+<h2>GrapheneOS</h2>
+
+Or consider installing <a target="_blank" href="https://grapheneos.org/">GrapheneOS</a> on your device. The private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project.
+
 
 <h2>See also</h2>
 
