@@ -1,0 +1,802 @@
+{
+    "references": {
+        "en": "For English, see",
+        "nl": "Voor Nederlands, zie",
+        "es": "Para español, ver"
+    },
+    "headers": {
+        "en": "# F-Droid\n\n**Selection of FOSS Android apps on F-Droid**\n\n> <em>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</em> — Benjamin Franklin (1706 – 1790) American inventor, journalist, printer, diplomat and statesman, Historical Review of Pennsylvania, 1759\n\nSafe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">free and open source software</a> (FOSS) is advised, also for mobile devices such ass smartphones and tablets.\n\nBelow is an overview of free Android apps which can be installed from <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a>. This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind. Some of the apps listed here cost money in Google Play but are gratis on F-Droid.\n\n",
+        "nl": "# F-Droid\n\n**Selectie van FOSS Androidapps op F-Droid**\n\n> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759\n\nVeilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target=\"_blank\" href=\"https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware\">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.\n\nHieronder is een overzicht van gratis Anroidapps die vanuit <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter. Sommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid.\n\n",
+        "es": "TODO"
+    },
+    "footers": {
+        "en": "If you want to go one step further, please consider installing <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/LineageOS\">LineageOS</a> on your device. This is Android without preinstalled apps from Google, without preinstalled apps from the manufacturor of your device and without preinstalled apps from your provider. By also installing Open GApps pico, you have the possibility to install apps from Google Play, but only the one you choose, such as Signal Private Messenger.\n\nSee also:\n- [Selection of FOSS for Windows, macOS and Linux](https://github.com/PanderMusubi/foss/blob/main/README.md)\n- [PRISM Break](https://prism-break.org/en/)\n- [Droid-Break](https://droid-break.info/)\n\nThis overview was started in 2013 by [Hellebaard](http://hellebaard.nl) and predates those of PRISM Break and Droid-Break.\n",
+        "nl": "Als je nog een stap verder wil gaan, overweeg om <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/LineageOS\">LineageOS</a> op je apparaat te installeren. Dit is Android zonder voorgeïnstalleerde apps van Google, zonder voorgeïnstalleerde apps van de fabrikant van je apparaat en zonder voorgeïnstalleerde apps van je provider. Door ook Open GApps pico te installeren heb je alsnog de mogelijkheid apps van Google Play te installeren, maar alleen die apps waar jij zelf voor kiest zoals Signal Private Messenger.\n\nZie ook:\n- [Selectie van FOSS voor Windows, macOS en Linux](https://github.com/PanderMusubi/foss/blob/main/README-nl.md)\n- [PRISM Break](https://prism-break.org/nl/)\n- [Droid-Break](https://droid-break.info/)\n\nDit overzicht was gestarted in 2013 door [Hellebaard](http://hellebaard.nl) en was eerder dan die van PRISM Break en Droid-Break.\n",
+        "es": "TODO"
+    },
+    "categories": [
+        {
+            "name": {
+                "en": "Basic",
+                "nl": "Basis",
+                "es": "Básica"
+            },
+            "apps": [
+                {
+                    "id": "org.fdroid.fdroid",
+                    "name": "F-Droid",
+                    "description": {
+                        "en": "app store of F-Droid",
+                        "nl": "appstore van F-Droid",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.menny.android.anysoftkeyboard",
+                    "name": "AnySoftKeyboard",
+                    "description": {
+                        "en": "autocompletion keyboard",
+                        "nl": "automatisch aanvullend toetsenbord",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "de.nulide.findmydevice",
+                    "name": "FindMyDevice",
+                    "description": {
+                        "en": "find your device",
+                        "nl": "vind je apparaat",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "ru.seva.finder",
+                    "name": "Finder",
+                    "description": {
+                        "en": "find your device",
+                        "nl": "vind je apparaat",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Web browsers",
+                "nl": "Webbrowsers",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "org.mozilla.fennec_fdroid",
+                    "name": "Fennec",
+                    "description": {
+                        "en": "web browser Firefox Mobile including Firefox Sync, install manually the following add-ons:",
+                        "nl": "webbrowser Firefox Mobile inclusief Firefox Sync, installeer handmatig de volgende add-ons",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.liberty.android.freeotpplus",
+                    "name": "FreeOTP+",
+                    "description": {
+                        "en": "two-factor authentication (2FA) with import and export",
+                        "nl": "two-factor authenticatie (2FA) met import en export",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.kunzisoft.keepass.libre",
+                    "name": "KeePassDX",
+                    "description": {
+                        "en": "password management",
+                        "nl": "wachtwoordbeheer",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Messaging and Communication",
+                "nl": "Messaging en communicatie",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "org.telegram.messenger",
+                    "name": "Telegram",
+                    "description": {
+                        "en": "instant messaging",
+                        "nl": "instant messaging",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "im.vector.app",
+                    "name": "Element (Riot.im)",
+                    "description": {
+                        "en": "instant messaging on Matrix",
+                        "nl": "instant messaging op Matrix",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "eu.siacs.conversations",
+                    "name": "Conversations",
+                    "description": {
+                        "en": "instant messaging for XMPP",
+                        "nl": "instant messaging met XMPP",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.jitsi.meet",
+                    "name": "Jitsi Meet",
+                    "description": {
+                        "en": "video conference",
+                        "nl": "videoconferantie",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.linphone",
+                    "name": "Linphone",
+                    "description": {
+                        "en": "VOIP telephone",
+                        "nl": "VOIP-telefoon",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Nextcloud",
+                "nl": "Nextcloud",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "com.nextcloud.client",
+                    "name": "Nextcloud",
+                    "description": {
+                        "en": "synchronize files",
+                        "nl": "synchroniseer bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.nextcloudpasswords",
+                    "name": "NextcloudPasswords",
+                    "description": {
+                        "en": "manage and synchronize passwords",
+                        "nl": "beheer en synchroniseer wachtwoorden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.nextcloud.talk2",
+                    "name": "Nextcloud Talk",
+                    "description": {
+                        "en": "video conference",
+                        "nl": "videoconferentie",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "it.niedermann.owncloud.notes",
+                    "name": "Notes",
+                    "description": {
+                        "en": "manage and synchronize notes",
+                        "nl": "beheer en synchroniseer aantekeningen",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.schabi.nxbookmarks",
+                    "name": "Nextcloud Bookmarks",
+                    "description": {
+                        "en": "manage and synchronize bookmarks",
+                        "nl": "beheer en synchroniseer favorieten",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "it.niedermann.nextcloud.deck",
+                    "name": "Nextcloud Deck",
+                    "description": {
+                        "en": "manage and synchronize kanban cards",
+                        "nl": "beheer en synchroniseer kanbankaarten",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "net.eneiluj.nextcloud.phonetrack",
+                    "name": "PhoneTrack",
+                    "description": {
+                        "en": "log and upload positions",
+                        "nl": "log en upload posities",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.github.vauvenal5.yaga",
+                    "name": "Yaga",
+                    "description": {
+                        "en": "manage and synchronize pictures",
+                        "nl": "beheer en synchroniseer foto's",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Video",
+                "nl": "Video",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "cz.martykan.webtube",
+                    "name": "WebTube",
+                    "description": {
+                        "en": "YouTube, plays also in the background and login possible",
+                        "nl": "YouTube, speelt ook in achtergrond en inloggen mogelijk",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.schabi.newpipe",
+                    "name": "NewPipe",
+                    "description": {
+                        "en": "YouTube, plays also in the background",
+                        "nl": "YouTube, speelt ook in achtergrond",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.videolan.vlc",
+                    "name": "VLC",
+                    "description": {
+                        "en": "media player",
+                        "nl": "mediacenter",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.xbmc.kodi",
+                    "name": "Kodi",
+                    "description": {
+                        "en": "media player",
+                        "nl": "mediacenter",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.xbmc.kore",
+                    "name": "Kore",
+                    "description": {
+                        "en": "remote control Kodi",
+                        "nl": "afstandsbediening Kodi",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Email",
+                "nl": "E-mail",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "com.fsck.k9",
+                    "name": "K-9 Mail",
+                    "description": {
+                        "en": "email",
+                        "nl": "e-mail",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.sufficientlysecure.keychain",
+                    "name": "OpenKeychain",
+                    "description": {
+                        "en": "encryption for K-9 Mail, etc.",
+                        "nl": "versleuteling voor K-9 Mail, etc.",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Calendars and Tasks",
+                "nl": "Kalenders en taken",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "ws.xsoh.etar",
+                    "name": "Etar",
+                    "description": {
+                        "en": "calendar",
+                        "nl": "kalender",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "at.bitfire.icsdroid",
+                    "name": "ICSx⁵",
+                    "description": {
+                        "en": "network calendars in ICS format",
+                        "nl": "netwerkkalenders in ICS-formaat",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "saschpe.contactevents",
+                    "name": "Birthday Adapter",
+                    "description": {
+                        "en": "birthdays from address book <small>(see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)</small>",
+                        "nl": "verjaardagen uit adresboek <small>(zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)</small>",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.woefe.shoppinglist",
+                    "name": "Shopping List",
+                    "description": {
+                        "en": "tasks in files",
+                        "nl": "taken in bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.tasks",
+                    "name": "Tasks.org",
+                    "description": {
+                        "en": "tasks in CalDAV",
+                        "nl": "taken in CalDAV",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "at.bitfire.davdroid",
+                    "name": "DAVx⁵",
+                    "description": {
+                        "en": "synchronization of calendars, tasks and contacts in CalDAV and CardDav <small>(see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)</small>",
+                        "nl": "synchronisatie kalenders, taken en contacten in CalDAV en CardDav <small>(zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)</small>",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Audio",
+                "nl": "Audio",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "org.y20k.transistor",
+                    "name": "Transistor",
+                    "description": {
+                        "en": "audio stream player",
+                        "nl": "audio stream player",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "ch.blinkenlights.android.vanilla",
+                    "name": "Vanilla Music",
+                    "description": {
+                        "en": "music player",
+                        "nl": "muziekspeler",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.musicpd",
+                    "name": "MPD",
+                    "description": {
+                        "en": "remote control MPD",
+                        "nl": "afstandsbediening MPD",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.gateshipone.malp",
+                    "name": "M.A.L.P.",
+                    "description": {
+                        "en": "remote control MPD",
+                        "nl": "afstandsbediening MPD",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "de.danoeh.antennapod",
+                    "name": "AntennaPod",
+                    "description": {
+                        "en": "podcasts",
+                        "nl": "podcasts",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.y20k.escapepod",
+                    "name": "Escapepod",
+                    "description": {
+                        "en": "podcasts",
+                        "nl": "podcasts",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.shabinder.spotiflyer",
+                    "name": "SpotiFlyer",
+                    "description": {
+                        "en": "download from e.g. Spotify, SoundCloud, YouTube",
+                        "nl": "download van o.a. Spotify, SoundCloud, YouTube",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Navigation and Route Planning",
+                "nl": "Navigatie en routeplanning",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "app.organicmaps",
+                    "name": "Organic Maps",
+                    "description": {
+                        "en": "OpenStreetMap with navidation and route planning walking, cycling and driving, online and offline",
+                        "nl": "OpenStreetMap met navigatie en routeplanning lopend, fietsend en autorijdend, online én offline",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "net.osmand.plus",
+                    "name": "OsmAnd",
+                    "description": {
+                        "en": "OpenStreetMap with navidation and route planning walking, cycling, driving and nautical, online and offline",
+                        "nl": "OpenStreetMap met navigatie en routeplanning lopend, fietsend, autorijdend en nautisch, online én offline",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "de.grobox.liberario",
+                    "name": "Transportr",
+                    "description": {
+                        "en": "public transport planning e.g. NS and 9292",
+                        "nl": "ov-reisplanner o.a. NS en 9292",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "de.westnordost.streetcomplete",
+                    "name": "StreetComplete",
+                    "description": {
+                        "en": "simply extending OpenStreetMap",
+                        "nl": "eenvoudig aanvullen OpenStreetMap",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.google.android.stardroid",
+                    "name": "Sky Map",
+                    "description": {
+                        "en": "explore the skies",
+                        "nl": "verken de hemel",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.ligi.passandroid",
+                    "name": "PassAndroid",
+                    "description": {
+                        "en": "view Passbook files",
+                        "nl": "bekijk Passbookbestanden",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Social Media",
+                "nl": "Sociale media",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "com.pitchedapps.frost",
+                    "name": "Frost for Facebook",
+                    "description": {
+                        "en": "Facebook",
+                        "nl": "Facebook",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "it.rignanese.leo.slimfacebook",
+                    "name": "SlimSocial for Facebook",
+                    "description": {
+                        "en": "Facebook",
+                        "nl": "Facebook",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "io.kuenzler.whatsappwebtogo",
+                    "name": "WhatsApp Web To Go",
+                    "description": {
+                        "en": "web Whatsapp",
+                        "nl": "web Whatsapp",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.twidere.twiderex",
+                    "name": "Twidere X",
+                    "description": {
+                        "en": "Mastodon, etc.",
+                        "nl": "Mastodon, etc.",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.keylesspalace.tusky",
+                    "name": "Tusky",
+                    "description": {
+                        "en": "Mastodon",
+                        "nl": "Mastodon",
+                        "es": "Mastodon"
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Files",
+                "nl": "Bestanden",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "com.gsnathan.pdfviewer",
+                    "name": "Pdf Viewer Plus",
+                    "description": {
+                        "en": "view PDF files",
+                        "nl": "bekijk PDF-bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "at.tomtasche.reader",
+                    "name": "LibreOffice document reader",
+                    "description": {
+                        "en": "view LibreOffice files",
+                        "nl": "bekijk bestanden LibreOffice",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.nutomic.syncthingandroid",
+                    "name": "Syncthing",
+                    "description": {
+                        "en": "synchronize and backup files",
+                        "nl": "synchroniseer en back-up bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.google.android.diskusage",
+                    "name": "DiskUsage",
+                    "description": {
+                        "en": "manage disk usage",
+                        "nl": "beheer diskgebruik",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Financial",
+                "nl": "Financieel",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "eu.uwot.fabio.altcoinprices",
+                    "name": "Altcoin PRices",
+                    "description": {
+                        "en": "prices and portfolio cryptocurrencies",
+                        "nl": "prijzen en portfolio cryptovaluta's",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "de.cloneapps.crypto_prices",
+                    "name": "Crypto Prices",
+                    "description": {
+                        "en": "prices and portfolio cryptocurrencies",
+                        "nl": "prijzen en portfolio cryptovaluta's",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "hashengineering.darkcoin.wallet",
+                    "name": "Dash Wallet",
+                    "description": {
+                        "en": "wallet cryptocurrency Dash",
+                        "nl": "portemonnee cryptovaluta Dash",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.dash.electrum.electrum_dash",
+                    "name": "Dash Electrum",
+                    "description": {
+                        "en": "wallet cryptocurrency Dash",
+                        "nl": "portemonnee cryptovaluta Dash",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.walleth",
+                    "name": "WallETH",
+                    "description": {
+                        "en": "wallet cryptocurrency Ethereum",
+                        "nl": "portemonnee cryptovaluta Ethereum",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Network",
+                "nl": "Netwerk",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "ch.protonvpn.android",
+                    "name": "ProtonVPN",
+                    "description": {
+                        "en": "secure and free VPN",
+                        "nl": "veilige en gratis VPN",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.calyxinstitute.vpn",
+                    "name": "Calyx VPN",
+                    "description": {
+                        "en": "free VPN without manual settings",
+                        "nl": "gratis VPN zonder handmatige instellingen",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "de.csicar.ning",
+                    "name": "Ning",
+                    "description": {
+                        "en": "LAN and port scanner",
+                        "nl": "LAN- en poortscanner",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.aaronjwood.portauthority",
+                    "name": "Port Authority",
+                    "description": {
+                        "en": "LAN and port scanner",
+                        "nl": "LAN- en poortscanner",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.connectbot",
+                    "name": "ConnectBot",
+                    "description": {
+                        "en": "SSH and Telnet",
+                        "nl": "SSH en Telnet",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.vrem.wifianalyzer",
+                    "name": "WiFiAnalyzer",
+                    "description": {
+                        "en": "optimize wifi networks",
+                        "nl": "optimaliseer wifinetwerken",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.manimarank.websitemonitor",
+                    "name": "Website Monitor",
+                    "description": {
+                        "en": "monitor websites",
+                        "nl": "monitor websites",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Health",
+                "nl": "Gezondheid",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "com.health.openscale",
+                    "name": "openScale",
+                    "description": {
+                        "en": "track weight and body metrics",
+                        "nl": "houd gewicht en lichaamsmetingen bij",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.runnerup.free",
+                    "name": "RunnerUp",
+                    "description": {
+                        "en": "track sport activities",
+                        "nl": "houd sportactiviteiten bij",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "flunzmas.seasoncalendar",
+                    "name": "easonal Foods Calendar",
+                    "description": {
+                        "en": "find regional seasonal foods from nearby produce",
+                        "nl": "vind regionaal seizoensvoedsel dat dichtbij is geproduceerd",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Netherlands",
+                "nl": "Nederland",
+                "es": "X"
+            },
+            "apps": [
+                {
+                    "id": "com.anysoftkeyboard.languagepack.dutch_oss",
+                    "name": "AnySoftKeyboard Dutch",
+                    "description": {
+                        "en": "Dutch AnySoftKeyboard",
+                        "nl": "Nederlandse AnySoftKeyboard",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "foss.cnugteren.nlweer",
+                    "name": "NLWeer",
+                    "description": {
+                        "en": "Dutch weather and precipitation from KNMI and Buienrader",
+                        "nl": "Nederlands weer en neerslag van KNMI en Buienrader",
+                        "es": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
