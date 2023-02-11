@@ -30,6 +30,9 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><img alt="icon" width="64" src="icons/org.telegram.messenger.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><strong>Telegram</strong></a><br>
 </td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><img alt="icon" width="64" src="icons/io.kuenzler.whatsappwebtogo.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><strong>WhatsApp Web To Go</strong></a><br>
+</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><img alt="icon" width="64" src="icons/im.vector.app.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><strong>Element</strong></a><br>
 </td></tr>
@@ -41,6 +44,19 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><img alt="icon" width="64" src="icons/org.jitsi.meet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
+</td></tr>
+<tr><th colspan="2"><br></th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="64" src="icons/com.gsnathan.pdfviewer.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
+</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><img alt="icon" width="64" src="icons/at.tomtasche.reader.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><strong>LibreOffice document reader</strong></a><br>
+</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><img alt="icon" width="64" src="icons/com.nutomic.syncthingandroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><strong>Syncthing</strong></a><br>
+</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="64" src="icons/com.google.android.diskusage.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="64" src="icons/com.nextcloud.client.png"></a></td>
@@ -144,6 +160,9 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete"><img alt="icon" width="64" src="icons/de.westnordost.streetcomplete.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete"><strong>StreetComplete</strong></a><br>
 </td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><img alt="icon" width="64" src="icons/net.vonforst.evmap.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><strong>EVMap</strong></a><br>
+</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid"><img alt="icon" width="64" src="icons/com.google.android.stardroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid"><strong>Sky Map</strong></a><br>
 </td></tr>
@@ -157,28 +176,12 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><img alt="icon" width="64" src="icons/it.rignanese.leo.slimfacebook.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><strong>SlimSocial for Facebook</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><img alt="icon" width="64" src="icons/io.kuenzler.whatsappwebtogo.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><strong>WhatsApp Web To Go</strong></a><br>
-</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.twidere.twiderex"><img alt="icon" width="64" src="icons/com.twidere.twiderex.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.twidere.twiderex"><strong>Twidere X</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.keylesspalace.tusky"><img alt="icon" width="64" src="icons/com.keylesspalace.tusky.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.keylesspalace.tusky"><strong>Tusky</strong></a><br>
 Mastodon</td></tr>
-<tr><th colspan="2"><br></th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="64" src="icons/com.gsnathan.pdfviewer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><img alt="icon" width="64" src="icons/at.tomtasche.reader.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><strong>LibreOffice document reader</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><img alt="icon" width="64" src="icons/com.nutomic.syncthingandroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><strong>Syncthing</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="64" src="icons/com.google.android.diskusage.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
-</td></tr>
 <tr><th colspan="2"><br></th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><img alt="icon" width="64" src="icons/eu.uwot.fabio.altcoinprices.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin PRices</strong></a><br>
@@ -211,6 +214,9 @@ Mastodon</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><img alt="icon" width="64" src="icons/org.connectbot.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><strong>ConnectBot</strong></a><br>
 </td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.eidottermihi.raspicheck"><img alt="icon" width="64" src="icons/de.eidottermihi.raspicheck.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.eidottermihi.raspicheck"><strong>Raspi Check</strong></a><br>
+</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><img alt="icon" width="64" src="icons/com.vrem.wifianalyzer.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><strong>WiFiAnalyzer</strong></a><br>
 </td></tr>
@@ -223,6 +229,9 @@ Mastodon</td></tr>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.runnerup.free"><img alt="icon" width="64" src="icons/org.runnerup.free.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.runnerup.free"><strong>RunnerUp</strong></a><br>
+</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.arnowelzel.android.periodical"><img alt="icon" width="64" src="icons/de.arnowelzel.android.periodical.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.arnowelzel.android.periodical"><strong>Periodical</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><img alt="icon" width="64" src="icons/flunzmas.seasoncalendar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><strong>easonal Foods Calendar</strong></a><br>

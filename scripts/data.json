@@ -113,6 +113,15 @@
                     }
                 },
                 {
+                    "id": "io.kuenzler.whatsappwebtogo",
+                    "name": "WhatsApp Web To Go",
+                    "description": {
+                        "en": "web Whatsapp",
+                        "nl": "web Whatsapp",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "im.vector.app",
                     "name": "Element",
                     "description": {
@@ -145,6 +154,51 @@
                     "description": {
                         "en": "video conference",
                         "nl": "videoconferentie",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Files",
+                "nl": "Bestanden",
+                "es": ""
+            },
+            "apps": [
+                {
+                    "id": "com.gsnathan.pdfviewer",
+                    "name": "Pdf Viewer Plus",
+                    "description": {
+                        "en": "view PDF files",
+                        "nl": "bekijk PDF-bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "at.tomtasche.reader",
+                    "name": "LibreOffice document reader",
+                    "description": {
+                        "en": "view LibreOffice files",
+                        "nl": "bekijk bestanden LibreOffice",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.nutomic.syncthingandroid",
+                    "name": "Syncthing",
+                    "description": {
+                        "en": "synchronize and backup files",
+                        "nl": "synchroniseer en back-up bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.google.android.diskusage",
+                    "name": "DiskUsage",
+                    "description": {
+                        "en": "manage disk usage",
+                        "nl": "beheer diskgebruik",
                         "es": ""
                     }
                 }
@@ -449,8 +503,8 @@
         },
         {
             "name": {
-                "en": "Navigation and Route Planning",
-                "nl": "Navigatie en routeplanning",
+                "en": "Route Planning, Navigation and Travel",
+                "nl": "Routeplanning, navigatie, en reizen",
                 "es": ""
             },
             "apps": [
@@ -458,8 +512,8 @@
                     "id": "app.organicmaps",
                     "name": "Organic Maps",
                     "description": {
-                        "en": "OpenStreetMap with navidation and route planning walking, cycling and driving, online and offline",
-                        "nl": "OpenStreetMap met navigatie en routeplanning lopend, fietsend en autorijdend, online én offline",
+                        "en": "plan routes and navigate with OpenStreetMap for walking, cycling and driving, online and offline",
+                        "nl": "plan routes and nagiveer met OpenStreetMap voor lopen, fietsen en autorijden, oline en offline",
                         "es": ""
                     }
                 },
@@ -467,8 +521,8 @@
                     "id": "net.osmand.plus",
                     "name": "OsmAnd",
                     "description": {
-                        "en": "OpenStreetMap with navidation and route planning walking, cycling, driving and nautical, online and offline",
-                        "nl": "OpenStreetMap met navigatie en routeplanning lopend, fietsend, autorijdend en nautisch, online én offline",
+                        "en": "plan routes and navigate with OpenStreetMap for walking, cycling, driving and sailing, online and offline",
+                        "nl": "plan routes and nagiveer met OpenStreetMap voor lopen, fietsen, autorijden en varen, oline en offline",
                         "es": ""
                     }
                 },
@@ -476,8 +530,8 @@
                     "id": "de.grobox.liberario",
                     "name": "Transportr",
                     "description": {
-                        "en": "public transport planning e.g. NS and 9292",
-                        "nl": "ov-reisplanner o.a. NS en 9292",
+                        "en": "plan public transport with NS, 9292, etc.",
+                        "nl": "plan openbaar vervoer met NS, 9292, etc.",
                         "es": ""
                     }
                 },
@@ -485,8 +539,17 @@
                     "id": "de.westnordost.streetcomplete",
                     "name": "StreetComplete",
                     "description": {
-                        "en": "simply extending OpenStreetMap",
-                        "nl": "eenvoudig aanvullen OpenStreetMap",
+                        "en": "extend OpenStreetMap in an easy way",
+                        "nl": "vul OpenStreetMap op een eenvoudige manier aan",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "net.vonforst.evmap",
+                    "name": "EVMap",
+                    "description": {
+                        "en": "find electric vehicle chargers on OpenStreetMap",
+                        "nl": "vind opladers voor elektrische auto's op OpenStreetMap",
                         "es": ""
                     }
                 },
@@ -494,8 +557,8 @@
                     "id": "com.google.android.stardroid",
                     "name": "Sky Map",
                     "description": {
-                        "en": "explore the skies",
-                        "nl": "verken de hemel",
+                        "en": "explore stars, planets en meer in the sky",
+                        "nl": "verken sterren, planeten en meer in de hemel",
                         "es": ""
                     }
                 },
@@ -503,8 +566,8 @@
                     "id": "org.ligi.passandroid",
                     "name": "PassAndroid",
                     "description": {
-                        "en": "view Passbook files",
-                        "nl": "bekijk Passbookbestanden",
+                        "en": "view Passbook files for events and travel tickets",
+                        "nl": "bekijk Passbookbestanden voor event- en reistickets",
                         "es": ""
                     }
                 }
@@ -536,15 +599,6 @@
                     }
                 },
                 {
-                    "id": "io.kuenzler.whatsappwebtogo",
-                    "name": "WhatsApp Web To Go",
-                    "description": {
-                        "en": "web Whatsapp",
-                        "nl": "web Whatsapp",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "com.twidere.twiderex",
                     "name": "Twidere X",
                     "description": {
@@ -560,51 +614,6 @@
                         "en": "Mastodon",
                         "nl": "Mastodon",
                         "es": "Mastodon"
-                    }
-                }
-            ]
-        },
-        {
-            "name": {
-                "en": "Files",
-                "nl": "Bestanden",
-                "es": ""
-            },
-            "apps": [
-                {
-                    "id": "com.gsnathan.pdfviewer",
-                    "name": "Pdf Viewer Plus",
-                    "description": {
-                        "en": "view PDF files",
-                        "nl": "bekijk PDF-bestanden",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "at.tomtasche.reader",
-                    "name": "LibreOffice document reader",
-                    "description": {
-                        "en": "view LibreOffice files",
-                        "nl": "bekijk bestanden LibreOffice",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.nutomic.syncthingandroid",
-                    "name": "Syncthing",
-                    "description": {
-                        "en": "synchronize and backup files",
-                        "nl": "synchroniseer en back-up bestanden",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.google.android.diskusage",
-                    "name": "DiskUsage",
-                    "description": {
-                        "en": "manage disk usage",
-                        "nl": "beheer diskgebruik",
-                        "es": ""
                     }
                 }
             ]
@@ -716,6 +725,15 @@
                     }
                 },
                 {
+                    "id": "de.eidottermihi.raspicheck",
+                    "name": "Raspi Check",
+                    "description": {
+                        "en": "manage Raspberry Pis",
+                        "nl": "beheer Raspberry Pi's",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "com.vrem.wifianalyzer",
                     "name": "WiFiAnalyzer",
                     "description": {
@@ -757,6 +775,15 @@
                     "description": {
                         "en": "track sport activities",
                         "nl": "houd sportactiviteiten bij",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "de.arnowelzel.android.periodical",
+                    "name": "Periodical",
+                    "description": {
+                        "en": "track days of fertility with Knaus-Ogino method",
+                        "nl": "houd vruchtbare dagen bij met Knaus-Oginomethode",
                         "es": ""
                     }
                 },

@@ -40,6 +40,9 @@ beheer wachtwoorden</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><img alt="icon" width="64" src="icons/org.telegram.messenger.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><strong>Telegram</strong></a><br>
 instant messaging, bellen en videobellen</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><img alt="icon" width="64" src="icons/io.kuenzler.whatsappwebtogo.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><strong>WhatsApp Web To Go</strong></a><br>
+web Whatsapp</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><img alt="icon" width="64" src="icons/im.vector.app.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><strong>Element</strong></a><br>
 instant messaging met Matrix</td></tr>
@@ -52,6 +55,19 @@ bellen met VOIP</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><img alt="icon" width="64" src="icons/org.jitsi.meet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
 videoconferentie</td></tr>
+<tr><th colspan="2"><br>Bestanden</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="64" src="icons/com.gsnathan.pdfviewer.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
+bekijk PDF-bestanden</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><img alt="icon" width="64" src="icons/at.tomtasche.reader.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><strong>LibreOffice document reader</strong></a><br>
+bekijk bestanden LibreOffice</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><img alt="icon" width="64" src="icons/com.nutomic.syncthingandroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><strong>Syncthing</strong></a><br>
+synchroniseer en back-up bestanden</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="64" src="icons/com.google.android.diskusage.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
+beheer diskgebruik</td></tr>
 <tr><th colspan="2"><br>Nextcloud</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="64" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
@@ -141,25 +157,28 @@ podcasts</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.shabinder.spotiflyer"><img alt="icon" width="64" src="icons/com.shabinder.spotiflyer.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.shabinder.spotiflyer"><strong>SpotiFlyer</strong></a><br>
 download van o.a. Spotify, SoundCloud, YouTube</td></tr>
-<tr><th colspan="2"><br>Navigatie en routeplanning</th></tr>
+<tr><th colspan="2"><br>Routeplanning, navigatie, en reizen</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><img alt="icon" width="64" src="icons/app.organicmaps.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><strong>Organic Maps</strong></a><br>
-OpenStreetMap met navigatie en routeplanning lopend, fietsend en autorijdend, online én offline</td></tr>
+plan routes and nagiveer met OpenStreetMap voor lopen, fietsen en autorijden, oline en offline</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.osmand.plus"><img alt="icon" width="64" src="icons/net.osmand.plus.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.osmand.plus"><strong>OsmAnd</strong></a><br>
-OpenStreetMap met navigatie en routeplanning lopend, fietsend, autorijdend en nautisch, online én offline</td></tr>
+plan routes and nagiveer met OpenStreetMap voor lopen, fietsen, autorijden en varen, oline en offline</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.grobox.liberario"><img alt="icon" width="64" src="icons/de.grobox.liberario.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.grobox.liberario"><strong>Transportr</strong></a><br>
-ov-reisplanner o.a. NS en 9292</td></tr>
+plan openbaar vervoer met NS, 9292, etc.</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete"><img alt="icon" width="64" src="icons/de.westnordost.streetcomplete.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete"><strong>StreetComplete</strong></a><br>
-eenvoudig aanvullen OpenStreetMap</td></tr>
+vul OpenStreetMap op een eenvoudige manier aan</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><img alt="icon" width="64" src="icons/net.vonforst.evmap.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><strong>EVMap</strong></a><br>
+vind opladers voor elektrische auto's op OpenStreetMap</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid"><img alt="icon" width="64" src="icons/com.google.android.stardroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid"><strong>Sky Map</strong></a><br>
-verken de hemel</td></tr>
+verken sterren, planeten en meer in de hemel</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.ligi.passandroid"><img alt="icon" width="64" src="icons/org.ligi.passandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.ligi.passandroid"><strong>PassAndroid</strong></a><br>
-bekijk Passbookbestanden</td></tr>
+bekijk Passbookbestanden voor event- en reistickets</td></tr>
 <tr><th colspan="2"><br>Sociale media</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.pitchedapps.frost"><img alt="icon" width="64" src="icons/com.pitchedapps.frost.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.pitchedapps.frost"><strong>Frost for Facebook</strong></a><br>
@@ -167,28 +186,12 @@ Facebook</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><img alt="icon" width="64" src="icons/it.rignanese.leo.slimfacebook.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><strong>SlimSocial for Facebook</strong></a><br>
 Facebook</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><img alt="icon" width="64" src="icons/io.kuenzler.whatsappwebtogo.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><strong>WhatsApp Web To Go</strong></a><br>
-web Whatsapp</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.twidere.twiderex"><img alt="icon" width="64" src="icons/com.twidere.twiderex.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.twidere.twiderex"><strong>Twidere X</strong></a><br>
 Mastodon, etc.</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.keylesspalace.tusky"><img alt="icon" width="64" src="icons/com.keylesspalace.tusky.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.keylesspalace.tusky"><strong>Tusky</strong></a><br>
 Mastodon</td></tr>
-<tr><th colspan="2"><br>Bestanden</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="64" src="icons/com.gsnathan.pdfviewer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
-bekijk PDF-bestanden</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><img alt="icon" width="64" src="icons/at.tomtasche.reader.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><strong>LibreOffice document reader</strong></a><br>
-bekijk bestanden LibreOffice</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><img alt="icon" width="64" src="icons/com.nutomic.syncthingandroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><strong>Syncthing</strong></a><br>
-synchroniseer en back-up bestanden</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="64" src="icons/com.google.android.diskusage.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
-beheer diskgebruik</td></tr>
 <tr><th colspan="2"><br>Financieel</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><img alt="icon" width="64" src="icons/eu.uwot.fabio.altcoinprices.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin PRices</strong></a><br>
@@ -221,6 +224,9 @@ scan LAN en poorten</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><img alt="icon" width="64" src="icons/org.connectbot.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><strong>ConnectBot</strong></a><br>
 SSH en Telnet</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.eidottermihi.raspicheck"><img alt="icon" width="64" src="icons/de.eidottermihi.raspicheck.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.eidottermihi.raspicheck"><strong>Raspi Check</strong></a><br>
+beheer Raspberry Pi's</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><img alt="icon" width="64" src="icons/com.vrem.wifianalyzer.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><strong>WiFiAnalyzer</strong></a><br>
 optimaliseer wifinetwerken</td></tr>
@@ -234,6 +240,9 @@ houd gewicht en lichaamsmetingen bij</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.runnerup.free"><img alt="icon" width="64" src="icons/org.runnerup.free.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.runnerup.free"><strong>RunnerUp</strong></a><br>
 houd sportactiviteiten bij</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.arnowelzel.android.periodical"><img alt="icon" width="64" src="icons/de.arnowelzel.android.periodical.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.arnowelzel.android.periodical"><strong>Periodical</strong></a><br>
+houd vruchtbare dagen bij met Knaus-Oginomethode</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><img alt="icon" width="64" src="icons/flunzmas.seasoncalendar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><strong>easonal Foods Calendar</strong></a><br>
 vind regionaal seizoensvoedsel dat dichtbij is geproduceerd</td></tr>
