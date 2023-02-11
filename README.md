@@ -106,7 +106,7 @@ encrypt and decrypt texts and files for K-9 Mail, etc.</td></tr>
 manage calendars and their event notifications and widgets</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="64" src="icons/at.bitfire.icsdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-add network calendars in ICS format to Etar (see also for <a target="_blank" href="https://www.thunderbird.net/en-US/calendar/holidays/">Thunderbird Holiday Calendars</a>)</td></tr>
+add network calendars in ICS format to Etar (see also the <a target="_blank" href="https://www.thunderbird.net/en-US/calendar/holidays/">Thunderbird Holiday Calendars</a>)</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="64" src="icons/saschpe.contactevents.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong>Birthday Adapter</strong></a><br>
 add birthdays from address book to Etar (see also for <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>)</td></tr>

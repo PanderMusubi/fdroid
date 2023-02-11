@@ -332,8 +332,8 @@
                     "id": "at.bitfire.icsdroid",
                     "name": "ICSx⁵",
                     "description": {
-                        "en": "add network calendars in ICS format to Etar (see also for <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
-                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Etar (zie ook voor <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
+                        "en": "add network calendars in ICS format to Etar (see also the <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
+                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Etar (zie ook de <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
                         "es": ""
                     }
                 },
