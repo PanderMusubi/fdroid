@@ -93,6 +93,24 @@
                         "nl": "beheer wachtwoorden",
                         "es": ""
                     }
+                },
+                {
+                    "id": "com.nextcloudpasswords",
+                    "name": "NextcloudPasswords",
+                    "description": {
+                        "en": "manage and synchronize passwords with Nextcloud",
+                        "nl": "beheer en synchroniseer van wachtwoorden met Nextcloud",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.schabi.nxbookmarks",
+                    "name": "Nextcloud Bookmarks",
+                    "description": {
+                        "en": "manage and synchronize bookmarks with Nextcloud",
+                        "nl": "beheer en synchroniseer favorieten met Nextcloud",
+                        "es": ""
+                    }
                 }
             ]
         },
@@ -103,6 +121,15 @@
                 "es": ""
             },
             "apps": [
+                {
+                    "id": "com.nextcloud.talk2",
+                    "name": "Nextcloud Talk",
+                    "description": {
+                        "en": "video conference with Nextcloud",
+                        "nl": "videoconferentie met Nextcloud",
+                        "es": ""
+                    }
+                },
                 {
                     "id": "org.telegram.messenger",
                     "name": "Telegram",
@@ -167,20 +194,20 @@
             },
             "apps": [
                 {
-                    "id": "com.gsnathan.pdfviewer",
-                    "name": "Pdf Viewer Plus",
+                    "id": "com.nextcloud.client",
+                    "name": "Nextcloud",
                     "description": {
-                        "en": "view PDF files",
-                        "nl": "bekijk PDF-bestanden",
+                        "en": "synchronize files with Nextcloud",
+                        "nl": "synchroniseer bestanden met Nextcloud",
                         "es": ""
                     }
                 },
                 {
-                    "id": "at.tomtasche.reader",
-                    "name": "LibreOffice document reader",
+                    "id": "com.github.vauvenal5.yaga",
+                    "name": "Yaga",
                     "description": {
-                        "en": "view LibreOffice files",
-                        "nl": "bekijk bestanden LibreOffice",
+                        "en": "manage and synchronize picture albums with Nextcloud",
+                        "nl": "beheer en synchroniseer fotoalbums met Nextcloud",
                         "es": ""
                     }
                 },
@@ -201,85 +228,22 @@
                         "nl": "beheer diskgebruik",
                         "es": ""
                     }
-                }
-            ]
-        },
-        {
-            "name": {
-                "en": "Nextcloud",
-                "nl": "Nextcloud",
-                "es": ""
-            },
-            "apps": [
+                },
                 {
-                    "id": "com.nextcloud.client",
-                    "name": "Nextcloud",
+                    "id": "at.tomtasche.reader",
+                    "name": "LibreOffice document reader",
                     "description": {
-                        "en": "synchronize files",
-                        "nl": "synchroniseer bestanden",
+                        "en": "view LibreOffice files",
+                        "nl": "bekijk bestanden LibreOffice",
                         "es": ""
                     }
                 },
                 {
-                    "id": "com.nextcloudpasswords",
-                    "name": "NextcloudPasswords",
+                    "id": "com.gsnathan.pdfviewer",
+                    "name": "Pdf Viewer Plus",
                     "description": {
-                        "en": "manage and synchronize passwords",
-                        "nl": "beheer en synchroniseer van wachtwoorden",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.nextcloud.talk2",
-                    "name": "Nextcloud Talk",
-                    "description": {
-                        "en": "video conference",
-                        "nl": "videoconferentie",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "it.niedermann.owncloud.notes",
-                    "name": "Notes",
-                    "description": {
-                        "en": "manage and synchronize notes",
-                        "nl": "beheer en synchroniseer aantekeningen",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.schabi.nxbookmarks",
-                    "name": "Nextcloud Bookmarks",
-                    "description": {
-                        "en": "manage and synchronize bookmarks",
-                        "nl": "beheer en synchroniseer favorieten",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "it.niedermann.nextcloud.deck",
-                    "name": "Nextcloud Deck",
-                    "description": {
-                        "en": "manage and synchronize kanban cards",
-                        "nl": "beheer en synchroniseer kanbankaarten",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "net.eneiluj.nextcloud.phonetrack",
-                    "name": "PhoneTrack",
-                    "description": {
-                        "en": "log and synchronisize geolocations",
-                        "nl": "log en synchroniseer geolocaties",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.github.vauvenal5.yaga",
-                    "name": "Yaga",
-                    "description": {
-                        "en": "manage and synchronize picture albums",
-                        "nl": "beheer en synchroniseer fotoalbums",
+                        "en": "view PDF files",
+                        "nl": "bekijk PDF-bestanden",
                         "es": ""
                     }
                 }
@@ -401,6 +365,15 @@
                     }
                 },
                 {
+                    "id": "at.bitfire.davdroid",
+                    "name": "DAVx⁵",
+                    "description": {
+                        "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
+                        "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "com.woefe.shoppinglist",
                     "name": "Shopping List",
                     "description": {
@@ -419,11 +392,20 @@
                     }
                 },
                 {
-                    "id": "at.bitfire.davdroid",
-                    "name": "DAVx⁵",
+                    "id": "it.niedermann.owncloud.notes",
+                    "name": "Notes",
                     "description": {
-                        "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
-                        "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
+                        "en": "manage and synchronize notes with Nextcloud",
+                        "nl": "beheer en synchroniseer aantekeningen met Nextcloud",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "it.niedermann.nextcloud.deck",
+                    "name": "Nextcloud Deck",
+                    "description": {
+                        "en": "manage and synchronize kanban cards with Nextcloud",
+                        "nl": "beheer en synchroniseer kanbankaarten met Nextcloud",
                         "es": ""
                     }
                 }
@@ -508,6 +490,15 @@
                 "es": ""
             },
             "apps": [
+                {
+                    "id": "net.eneiluj.nextcloud.phonetrack",
+                    "name": "PhoneTrack",
+                    "description": {
+                        "en": "log and synchronisize geolocations in Nextcloud",
+                        "nl": "log en synchroniseer geolocaties in Nextcloud",
+                        "es": ""
+                    }
+                },
                 {
                     "id": "app.organicmaps",
                     "name": "Organic Maps",
