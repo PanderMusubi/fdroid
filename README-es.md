@@ -211,14 +211,20 @@ Mastodon</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority"><img alt="icon" width="64" src="icons/com.aaronjwood.portauthority.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority"><strong>Port Authority</strong></a><br>
 </td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><img alt="icon" width="64" src="icons/com.vrem.wifianalyzer.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><strong>WiFiAnalyzer</strong></a><br>
+</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><img alt="icon" width="64" src="icons/org.connectbot.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><strong>ConnectBot</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.eidottermihi.raspicheck"><img alt="icon" width="64" src="icons/de.eidottermihi.raspicheck.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.eidottermihi.raspicheck"><strong>Raspi Check</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><img alt="icon" width="64" src="icons/com.vrem.wifianalyzer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><strong>WiFiAnalyzer</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><img alt="icon" width="64" src="icons/org.openhab.habdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><strong>openHAB</strong></a><br>
+</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><img alt="icon" width="64" src="icons/io.homeassistant.companion.android.minimal.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><strong>Home Assistant</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><img alt="icon" width="64" src="icons/com.manimarank.websitemonitor.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><strong>Website Monitor</strong></a><br>

@@ -716,6 +716,15 @@
                     }
                 },
                 {
+                    "id": "com.vrem.wifianalyzer",
+                    "name": "WiFiAnalyzer",
+                    "description": {
+                        "en": "optimize wifi networks",
+                        "nl": "optimaliseer wifinetwerken",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "org.connectbot",
                     "name": "ConnectBot",
                     "description": {
@@ -734,11 +743,20 @@
                     }
                 },
                 {
-                    "id": "com.vrem.wifianalyzer",
-                    "name": "WiFiAnalyzer",
+                    "id": "org.openhab.habdroid",
+                    "name": "openHAB",
                     "description": {
-                        "en": "optimize wifi networks",
-                        "nl": "optimaliseer wifinetwerken",
+                        "en": "remote control home automation",
+                        "nl": "afstandsbediending huisautomatisering",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "io.homeassistant.companion.android.minimal",
+                    "name": "Home Assistant",
+                    "description": {
+                        "en": "remote control home automation",
+                        "nl": "afstandsbediending huisautomatisering",
                         "es": ""
                     }
                 },

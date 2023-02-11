@@ -49,10 +49,8 @@ def read_json():
         data = load(file)
         return data['references'], data['headers'], data['footers'], data['categories']
 
-#periodical
 #fennec addons
 #some apps widgets and notifications on wearos
-#openhab en home autom
 
 def generate():
     '''Generate files'''
