@@ -51,6 +51,9 @@ def read_json():
 
 #periodical
 #ev charging
+#fennec addons
+#some apps widgets and notifications on wearos
+#openhab en home autom
 
 def generate():
     '''Generate files'''
@@ -66,7 +69,7 @@ def generate():
             for category in categories:
                 mado.write(f'<tr><th colspan="2"><br>{category["name"][lang]}</th></tr>\n')
                 for app in category['apps']:
-                    mado.write(f'<tr><td><img alt="icon" width="64" src="icons/{app["id"]}.png"></td>\n')
+                    mado.write(f'<tr><td><a target="_blank" href="https://f-droid.org/en/packages/{app["id"]}"><img alt="icon" width="64" src="icons/{app["id"]}.png"></a></td>\n')
                     mado.write(f'<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/{app["id"]}"><strong>{app["name"]}</strong></a><br>\n')
                     mado.write(f'{app["description"][lang]}</td></tr>\n')
             mado.write('</table>\n\n')

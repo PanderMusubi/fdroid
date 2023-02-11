@@ -7,12 +7,12 @@
     "headers": {
         "en": "# F-Droid\n\n**Selection of FOSS Android apps on F-Droid**\n\n> <em>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</em> — Benjamin Franklin (1706 – 1790) American inventor, journalist, printer, diplomat and statesman, Historical Review of Pennsylvania, 1759\n\nSafe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">free and open source software</a> (FOSS) is advised, also for mobile devices such ass smartphones and tablets.\n\nBelow is an overview of free Android apps which can be installed from <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a>. This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind. Some of the apps listed here cost money in Google Play but are gratis on F-Droid.\n\n",
         "nl": "# F-Droid\n\n**Selectie van FOSS Androidapps op F-Droid**\n\n> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759\n\nVeilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target=\"_blank\" href=\"https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware\">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.\n\nHieronder is een overzicht van gratis Anroidapps die vanuit <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter. Sommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid.\n\n",
-        "es": "TODO"
+        "es": ""
     },
     "footers": {
         "en": "If you want to go one step further, please consider installing <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/LineageOS\">LineageOS</a> on your device. This is Android without preinstalled apps from Google, without preinstalled apps from the manufacturor of your device and without preinstalled apps from your provider. By also installing Open GApps pico, you have the possibility to install apps from Google Play, but only the one you choose, such as Signal Private Messenger.\n\nSee also:\n- [Selection of FOSS for Windows, macOS and Linux](https://github.com/PanderMusubi/foss/blob/main/README.md)\n- [PRISM Break](https://prism-break.org/en/)\n- [Droid-Break](https://droid-break.info/)\n\nThis overview was started in 2013 by [Hellebaard](http://hellebaard.nl) and predates those of PRISM Break and Droid-Break.\n",
         "nl": "Als je nog een stap verder wil gaan, overweeg om <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/LineageOS\">LineageOS</a> op je apparaat te installeren. Dit is Android zonder voorgeïnstalleerde apps van Google, zonder voorgeïnstalleerde apps van de fabrikant van je apparaat en zonder voorgeïnstalleerde apps van je provider. Door ook Open GApps pico te installeren heb je alsnog de mogelijkheid apps van Google Play te installeren, maar alleen die apps waar jij zelf voor kiest zoals Signal Private Messenger.\n\nZie ook:\n- [Selectie van FOSS voor Windows, macOS en Linux](https://github.com/PanderMusubi/foss/blob/main/README-nl.md)\n- [PRISM Break](https://prism-break.org/nl/)\n- [Droid-Break](https://droid-break.info/)\n\nDit overzicht was gestarted in 2013 door [Hellebaard](http://hellebaard.nl) en was eerder dan die van PRISM Break en Droid-Break.\n",
-        "es": "TODO"
+        "es": ""
     },
     "categories": [
         {
@@ -26,8 +26,8 @@
                     "id": "org.fdroid.fdroid",
                     "name": "F-Droid",
                     "description": {
-                        "en": "app store of F-Droid",
-                        "nl": "appstore van F-Droid",
+                        "en": "install apps from the F-Droid app store",
+                        "nl": "installeer apps uit de F-Droid appstore",
                         "es": ""
                     }
                 },
@@ -35,8 +35,8 @@
                     "id": "com.menny.android.anysoftkeyboard",
                     "name": "AnySoftKeyboard",
                     "description": {
-                        "en": "autocompletion keyboard",
-                        "nl": "automatisch aanvullend toetsenbord",
+                        "en": "type with autocompletion keyboard",
+                        "nl": "type met automatisch aanvullend toetsenbord",
                         "es": ""
                     }
                 },
@@ -44,8 +44,8 @@
                     "id": "de.nulide.findmydevice",
                     "name": "FindMyDevice",
                     "description": {
-                        "en": "find your device",
-                        "nl": "vind je apparaat",
+                        "en": "find your mistplaced, lost or stolen device",
+                        "nl": "vind je misplaatste, verloren of gestolen apparaat",
                         "es": ""
                     }
                 },
@@ -53,8 +53,8 @@
                     "id": "ru.seva.finder",
                     "name": "Finder",
                     "description": {
-                        "en": "find your device",
-                        "nl": "vind je apparaat",
+                        "en": "find your mistplaced, lost or stolen device",
+                        "nl": "vind je misplaatste, verloren of gestolen apparaat",
                         "es": ""
                     }
                 }
@@ -64,15 +64,15 @@
             "name": {
                 "en": "Web browsers",
                 "nl": "Webbrowsers",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
                     "id": "org.mozilla.fennec_fdroid",
                     "name": "Fennec",
                     "description": {
-                        "en": "web browser Firefox Mobile including Firefox Sync, install manually the following add-ons:",
-                        "nl": "webbrowser Firefox Mobile inclusief Firefox Sync, installeer handmatig de volgende add-ons",
+                        "en": "browse with Firefox Mobile including Firefox Sync for password management",
+                        "nl": "browse met Firefox Mobile inclusief Firefox Sync voor wachtwoordbeheer",
                         "es": ""
                     }
                 },
@@ -80,8 +80,8 @@
                     "id": "org.liberty.android.freeotpplus",
                     "name": "FreeOTP+",
                     "description": {
-                        "en": "two-factor authentication (2FA) with import and export",
-                        "nl": "two-factor authenticatie (2FA) met import en export",
+                        "en": "use two-factor authentication (2FA) with import and export",
+                        "nl": "gebruik two-factor authenticatie (2FA) met import en export",
                         "es": ""
                     }
                 },
@@ -89,8 +89,8 @@
                     "id": "com.kunzisoft.keepass.libre",
                     "name": "KeePassDX",
                     "description": {
-                        "en": "password management",
-                        "nl": "wachtwoordbeheer",
+                        "en": "manage passwords",
+                        "nl": "beheer wachtwoorden",
                         "es": ""
                     }
                 }
@@ -100,24 +100,24 @@
             "name": {
                 "en": "Messaging and Communication",
                 "nl": "Messaging en communicatie",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
                     "id": "org.telegram.messenger",
                     "name": "Telegram",
                     "description": {
-                        "en": "instant messaging",
-                        "nl": "instant messaging",
+                        "en": "instant messaging, voice and video calling",
+                        "nl": "instant messaging, bellen en videobellen",
                         "es": ""
                     }
                 },
                 {
                     "id": "im.vector.app",
-                    "name": "Element (Riot.im)",
+                    "name": "Element",
                     "description": {
-                        "en": "instant messaging on Matrix",
-                        "nl": "instant messaging op Matrix",
+                        "en": "instant messaging with Matrix",
+                        "nl": "instant messaging met Matrix",
                         "es": ""
                     }
                 },
@@ -125,8 +125,17 @@
                     "id": "eu.siacs.conversations",
                     "name": "Conversations",
                     "description": {
-                        "en": "instant messaging for XMPP",
+                        "en": "instant messaging with XMPP",
                         "nl": "instant messaging met XMPP",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.linphone",
+                    "name": "Linphone",
+                    "description": {
+                        "en": "calling with VOIP",
+                        "nl": "bellen met VOIP",
                         "es": ""
                     }
                 },
@@ -135,16 +144,7 @@
                     "name": "Jitsi Meet",
                     "description": {
                         "en": "video conference",
-                        "nl": "videoconferantie",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.linphone",
-                    "name": "Linphone",
-                    "description": {
-                        "en": "VOIP telephone",
-                        "nl": "VOIP-telefoon",
+                        "nl": "videoconferentie",
                         "es": ""
                     }
                 }
@@ -154,7 +154,7 @@
             "name": {
                 "en": "Nextcloud",
                 "nl": "Nextcloud",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
@@ -171,7 +171,7 @@
                     "name": "NextcloudPasswords",
                     "description": {
                         "en": "manage and synchronize passwords",
-                        "nl": "beheer en synchroniseer wachtwoorden",
+                        "nl": "beheer en synchroniseer van wachtwoorden",
                         "es": ""
                     }
                 },
@@ -215,8 +215,8 @@
                     "id": "net.eneiluj.nextcloud.phonetrack",
                     "name": "PhoneTrack",
                     "description": {
-                        "en": "log and upload positions",
-                        "nl": "log en upload posities",
+                        "en": "log and synchronisize geolocations",
+                        "nl": "log en synchroniseer geolocaties",
                         "es": ""
                     }
                 },
@@ -224,8 +224,8 @@
                     "id": "com.github.vauvenal5.yaga",
                     "name": "Yaga",
                     "description": {
-                        "en": "manage and synchronize pictures",
-                        "nl": "beheer en synchroniseer foto's",
+                        "en": "manage and synchronize picture albums",
+                        "nl": "beheer en synchroniseer fotoalbums",
                         "es": ""
                     }
                 }
@@ -235,24 +235,24 @@
             "name": {
                 "en": "Video",
                 "nl": "Video",
-                "es": "X"
+                "es": ""
             },
             "apps": [
-                {
-                    "id": "cz.martykan.webtube",
-                    "name": "WebTube",
-                    "description": {
-                        "en": "YouTube, plays also in the background and login possible",
-                        "nl": "YouTube, speelt ook in achtergrond en inloggen mogelijk",
-                        "es": ""
-                    }
-                },
                 {
                     "id": "org.schabi.newpipe",
                     "name": "NewPipe",
                     "description": {
-                        "en": "YouTube, plays also in the background",
-                        "nl": "YouTube, speelt ook in achtergrond",
+                        "en": "play YouTube, SoundCloud, Bandcamp, etc. content as video or audio, also in the background",
+                        "nl": "speel YouTube, SoundCloud, Bandcamp, etc. content af als video of audio, ook in de achtergrond",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "cz.martykan.webtube",
+                    "name": "WebTube",
+                    "description": {
+                        "en": "play YouTube content as video or audio, also in the background and login is possible",
+                        "nl": "speel YouTube-content af als video of audio, ook in de achtergrond en inloggen is mogelijk",
                         "es": ""
                     }
                 },
@@ -260,8 +260,8 @@
                     "id": "org.videolan.vlc",
                     "name": "VLC",
                     "description": {
-                        "en": "media player",
-                        "nl": "mediacenter",
+                        "en": "play video or audio from files or streams",
+                        "nl": "speel video of audio af van bestanden of streams",
                         "es": ""
                     }
                 },
@@ -269,8 +269,8 @@
                     "id": "org.xbmc.kodi",
                     "name": "Kodi",
                     "description": {
-                        "en": "media player",
-                        "nl": "mediacenter",
+                        "en": "play video or audio from files or streams",
+                        "nl": "speel video of audio af van bestanden of streams",
                         "es": ""
                     }
                 },
@@ -278,8 +278,8 @@
                     "id": "org.xbmc.kore",
                     "name": "Kore",
                     "description": {
-                        "en": "remote control Kodi",
-                        "nl": "afstandsbediening Kodi",
+                        "en": "remote control for Kodi",
+                        "nl": "afstandsbediening voor Kodi",
                         "es": ""
                     }
                 }
@@ -289,15 +289,15 @@
             "name": {
                 "en": "Email",
                 "nl": "E-mail",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
                     "id": "com.fsck.k9",
                     "name": "K-9 Mail",
                     "description": {
-                        "en": "email",
-                        "nl": "e-mail",
+                        "en": "send and receive emails",
+                        "nl": "ontvang en verstuur e-mails",
                         "es": ""
                     }
                 },
@@ -305,8 +305,8 @@
                     "id": "org.sufficientlysecure.keychain",
                     "name": "OpenKeychain",
                     "description": {
-                        "en": "encryption for K-9 Mail, etc.",
-                        "nl": "versleuteling voor K-9 Mail, etc.",
+                        "en": "encrypt and decrypt texts and files for K-9 Mail, etc.",
+                        "nl": "versleutel en ontsleutel teksten en bestanden voor K-9 Mail, etc.",
                         "es": ""
                     }
                 }
@@ -316,15 +316,15 @@
             "name": {
                 "en": "Calendars and Tasks",
                 "nl": "Kalenders en taken",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
                     "id": "ws.xsoh.etar",
                     "name": "Etar",
                     "description": {
-                        "en": "calendar",
-                        "nl": "kalender",
+                        "en": "manage calendars and their event notifications and widgets",
+                        "nl": "beheer kalenders en bijbehorende afspraaknotificaties en -widgets",
                         "es": ""
                     }
                 },
@@ -332,8 +332,8 @@
                     "id": "at.bitfire.icsdroid",
                     "name": "ICSx⁵",
                     "description": {
-                        "en": "network calendars in ICS format",
-                        "nl": "netwerkkalenders in ICS-formaat",
+                        "en": "add network calendars in ICS format to Etar (see also for <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
+                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Etar (zie ook voor <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
                         "es": ""
                     }
                 },
@@ -341,8 +341,8 @@
                     "id": "saschpe.contactevents",
                     "name": "Birthday Adapter",
                     "description": {
-                        "en": "birthdays from address book <small>(see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)</small>",
-                        "nl": "verjaardagen uit adresboek <small>(zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)</small>",
+                        "en": "add birthdays from address book to Etar (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
+                        "nl": "voeg verjaardagen uit adresboek toe aan Etar (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
                         "es": ""
                     }
                 },
@@ -350,8 +350,8 @@
                     "id": "com.woefe.shoppinglist",
                     "name": "Shopping List",
                     "description": {
-                        "en": "tasks in files",
-                        "nl": "taken in bestanden",
+                        "en": "manage tasks in files",
+                        "nl": "beheer taken in bestanden",
                         "es": ""
                     }
                 },
@@ -359,8 +359,8 @@
                     "id": "org.tasks",
                     "name": "Tasks.org",
                     "description": {
-                        "en": "tasks in CalDAV",
-                        "nl": "taken in CalDAV",
+                        "en": "manage tasks in CalDAV with DAVx⁵",
+                        "nl": "beheer taken in CalDAV met DAVx⁵",
                         "es": ""
                     }
                 },
@@ -368,8 +368,8 @@
                     "id": "at.bitfire.davdroid",
                     "name": "DAVx⁵",
                     "description": {
-                        "en": "synchronization of calendars, tasks and contacts in CalDAV and CardDav <small>(see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)</small>",
-                        "nl": "synchronisatie kalenders, taken en contacten in CalDAV en CardDav <small>(zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)</small>",
+                        "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
+                        "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
                         "es": ""
                     }
                 }
@@ -379,15 +379,15 @@
             "name": {
                 "en": "Audio",
                 "nl": "Audio",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
                     "id": "org.y20k.transistor",
                     "name": "Transistor",
                     "description": {
-                        "en": "audio stream player",
-                        "nl": "audio stream player",
+                        "en": "play audio streams",
+                        "nl": "speel audiostreams af",
                         "es": ""
                     }
                 },
@@ -395,8 +395,8 @@
                     "id": "ch.blinkenlights.android.vanilla",
                     "name": "Vanilla Music",
                     "description": {
-                        "en": "music player",
-                        "nl": "muziekspeler",
+                        "en": "play music files",
+                        "nl": "speel muziekbestanden af",
                         "es": ""
                     }
                 },
@@ -404,8 +404,8 @@
                     "id": "org.musicpd",
                     "name": "MPD",
                     "description": {
-                        "en": "remote control MPD",
-                        "nl": "afstandsbediening MPD",
+                        "en": "remote control for MPD",
+                        "nl": "afstandsbediening voor MPD",
                         "es": ""
                     }
                 },
@@ -413,8 +413,8 @@
                     "id": "org.gateshipone.malp",
                     "name": "M.A.L.P.",
                     "description": {
-                        "en": "remote control MPD",
-                        "nl": "afstandsbediening MPD",
+                        "en": "remote control for MPD",
+                        "nl": "afstandsbediening voor MPD",
                         "es": ""
                     }
                 },
@@ -451,7 +451,7 @@
             "name": {
                 "en": "Navigation and Route Planning",
                 "nl": "Navigatie en routeplanning",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
@@ -514,7 +514,7 @@
             "name": {
                 "en": "Social Media",
                 "nl": "Sociale media",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
@@ -568,7 +568,7 @@
             "name": {
                 "en": "Files",
                 "nl": "Bestanden",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
@@ -613,7 +613,7 @@
             "name": {
                 "en": "Financial",
                 "nl": "Financieel",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
@@ -667,15 +667,15 @@
             "name": {
                 "en": "Network",
                 "nl": "Netwerk",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
                     "id": "ch.protonvpn.android",
                     "name": "ProtonVPN",
                     "description": {
-                        "en": "secure and free VPN",
-                        "nl": "veilige en gratis VPN",
+                        "en": "use free VPN",
+                        "nl": "gebruik gratis VPN",
                         "es": ""
                     }
                 },
@@ -683,8 +683,8 @@
                     "id": "org.calyxinstitute.vpn",
                     "name": "Calyx VPN",
                     "description": {
-                        "en": "free VPN without manual settings",
-                        "nl": "gratis VPN zonder handmatige instellingen",
+                        "en": "use free VPN without manual settings",
+                        "nl": "gebruik gratis VPN zonder handmatige instellingen",
                         "es": ""
                     }
                 },
@@ -692,8 +692,8 @@
                     "id": "de.csicar.ning",
                     "name": "Ning",
                     "description": {
-                        "en": "LAN and port scanner",
-                        "nl": "LAN- en poortscanner",
+                        "en": "scan LAN and ports",
+                        "nl": "scan LAN en poorten",
                         "es": ""
                     }
                 },
@@ -701,8 +701,8 @@
                     "id": "com.aaronjwood.portauthority",
                     "name": "Port Authority",
                     "description": {
-                        "en": "LAN and port scanner",
-                        "nl": "LAN- en poortscanner",
+                        "en": "scan LAN and ports",
+                        "nl": "scan LAN en poorten",
                         "es": ""
                     }
                 },
@@ -728,8 +728,8 @@
                     "id": "com.manimarank.websitemonitor",
                     "name": "Website Monitor",
                     "description": {
-                        "en": "monitor websites",
-                        "nl": "monitor websites",
+                        "en": "monitor if websites are online",
+                        "nl": "monitor of websites online zijn",
                         "es": ""
                     }
                 }
@@ -739,7 +739,7 @@
             "name": {
                 "en": "Health",
                 "nl": "Gezondheid",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
@@ -775,15 +775,15 @@
             "name": {
                 "en": "Netherlands",
                 "nl": "Nederland",
-                "es": "X"
+                "es": ""
             },
             "apps": [
                 {
                     "id": "com.anysoftkeyboard.languagepack.dutch_oss",
                     "name": "AnySoftKeyboard Dutch",
                     "description": {
-                        "en": "Dutch AnySoftKeyboard",
-                        "nl": "Nederlandse AnySoftKeyboard",
+                        "en": "Dutch support for AnySoftKeyboard",
+                        "nl": "Nederlandse ondersteuning voor AnySoftKeyboard",
                         "es": ""
                     }
                 },
