@@ -5,8 +5,8 @@
         "es": "Para español, ver"
     },
     "headers": {
-        "en": "# F-Droid\n\n**Selection of FOSS Android apps on F-Droid**\n\n> <em>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</em> — Benjamin Franklin (1706 – 1790) American inventor, journalist, printer, diplomat and statesman, Historical Review of Pennsylvania, 1759\n\nSafe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">free and open source software</a> (FOSS) is advised, also for mobile devices such ass smartphones and tablets.\n\nBelow is an overview of free Android apps which can be installed from <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a>. This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind. Some of the apps listed here cost money in Google Play but are gratis on F-Droid.\n\n",
-        "nl": "# F-Droid\n\n**Selectie van FOSS Androidapps op F-Droid**\n\n> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759\n\nVeilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target=\"_blank\" href=\"https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware\">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.\n\nHieronder is een overzicht van gratis Anroidapps die vanuit <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter. Sommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid.\n\n",
+        "en": "# F-Droid\n\n**Selection of FOSS Android apps on F-Droid**\n\n> <em>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</em> — Benjamin Franklin (1706 – 1790) American inventor, journalist, printer, diplomat and statesman, Historical Review of Pennsylvania, 1759\n\nSafe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">free and open source software</a> (FOSS) is advised, also for mobile devices such ass smartphones and tablets.\n\nBelow is an overview of free Android apps which can be installed from <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a>. This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind.\n\nSome of the apps listed here cost money in Google Play but are gratis on F-Droid. Good to know is that many of these apps sometimes surpass their commercial counterparts, can offer practical widgets and notification also land on connected WearOS devices.\n\n",
+        "nl": "# F-Droid\n\n**Selectie van FOSS Androidapps op F-Droid**\n\n> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759\n\nVeilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target=\"_blank\" href=\"https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware\">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.\n\nHieronder is een overzicht van gratis Anroidapps die vanuit <a target=\"_blank\" href=\"https://f-droid.org/\">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.\n\nSommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid. Goed te weten is dat veel van deze apps soms beter zijn dan hun commerciele tegenhangers en dat notificaties ook aankomen op apparaten met WearOS die zijn verbonden.\n\n",
         "es": ""
     },
     "footers": {
@@ -28,6 +28,42 @@
                     "description": {
                         "en": "install apps from the F-Droid app store",
                         "nl": "installeer apps uit de F-Droid appstore",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.simplemobiletools.dialer",
+                    "name": "Simple Dialer",
+                    "description": {
+                        "en": "manage phone calls",
+                        "nl": "beheer telefoongesprekken",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.simplemobiletools.contacts.pro",
+                    "name": "Simple Contacts Pro",
+                    "description": {
+                        "en": "manage contacts in CardDAV",
+                        "nl": "beheer contacten in CardDAV",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.simplemobiletools.calculator",
+                    "name": "Simple Calculator",
+                    "description": {
+                        "en": "make calculations",
+                        "nl": "make berekeningen",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.simplemobiletools.keyboard",
+                    "name": "Simple Keyboard",
+                    "description": {
+                        "en": "type with autocompletion keyboard",
+                        "nl": "type met automatisch aanvullend toetsenbord",
                         "es": ""
                     }
                 },
@@ -122,6 +158,15 @@
             },
             "apps": [
                 {
+                    "id": "com.simplemobiletools.smsmessenger",
+                    "name": "Simple SMS Messenger",
+                    "description": {
+                        "en": "manage SMS messages",
+                        "nl": "beheer SMS-berichten",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "com.nextcloud.talk2",
                     "name": "Nextcloud Talk",
                     "description": {
@@ -176,6 +221,15 @@
                     }
                 },
                 {
+                    "id": "org.avmedia.remotevideocam",
+                    "name": "Remote Video Camera",
+                    "description": {
+                        "en": "stream audio and/or video between two devices",
+                        "nl": "stream audio en/of video tussen twee apparaten",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "org.jitsi.meet",
                     "name": "Jitsi Meet",
                     "description": {
@@ -193,6 +247,15 @@
                 "es": ""
             },
             "apps": [
+                {
+                    "id": "com.simplemobiletools.filemanager.pro",
+                    "name": "Simple File Manager Pro ",
+                    "description": {
+                        "en": "manage files",
+                        "nl": "beheer bestanden",
+                        "es": ""
+                    }
+                },
                 {
                     "id": "com.nextcloud.client",
                     "name": "Nextcloud",
@@ -251,11 +314,29 @@
         },
         {
             "name": {
-                "en": "Video",
-                "nl": "Video",
+                "en": "Video and Images",
+                "nl": "Video en afbeeldingen",
                 "es": ""
             },
             "apps": [
+                {
+                    "id": "com.simplemobiletools.camera",
+                    "name": "Simple Camera",
+                    "description": {
+                        "en": "make photographs and videos",
+                        "nl": "maak foto's en video's",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.simplemobiletools.gallery.pro",
+                    "name": "Simple Gallery Pro",
+                    "description": {
+                        "en": "manage images and videos",
+                        "nl": "beheer afbeeldingen en video's",
+                        "es": ""
+                    }
+                },
                 {
                     "id": "org.schabi.newpipe",
                     "name": "NewPipe",
@@ -271,6 +352,15 @@
                     "description": {
                         "en": "play YouTube content as video or audio, also in the background and login is possible",
                         "nl": "speel YouTube-content af als video of audio, ook in de achtergrond en inloggen is mogelijk",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.github.niqdev.ipcam",
+                    "name": "IPCam Demo",
+                    "description": {
+                        "en": "view IP camera streamss",
+                        "nl": "bekijk IP=camerastreams",
                         "es": ""
                     }
                 },
@@ -338,11 +428,20 @@
             },
             "apps": [
                 {
+                    "id": "com.simplemobiletools.calendar.pro",
+                    "name": "Simple Calendar Pro",
+                    "description": {
+                        "en": "manage calendars in CalDAV",
+                        "nl": "beheer kalenders in CalDAV",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "ws.xsoh.etar",
                     "name": "Etar",
                     "description": {
-                        "en": "manage calendars and their event notifications and widgets",
-                        "nl": "beheer kalenders en bijbehorende afspraaknotificaties en -widgets",
+                        "en": "manage calendars in CalDAV",
+                        "nl": "beheer kalenders in CalDAV",
                         "es": ""
                     }
                 },
@@ -350,8 +449,8 @@
                     "id": "at.bitfire.icsdroid",
                     "name": "ICSx⁵",
                     "description": {
-                        "en": "add network calendars in ICS format to Etar (see also the <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
-                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Etar (zie ook de <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
+                        "en": "add network calendars in ICS format to Simple Calendar Pro and Etar (see also the <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
+                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Simple Calendar Pro en Etar (zie ook de <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
                         "es": ""
                     }
                 },
@@ -359,8 +458,8 @@
                     "id": "saschpe.contactevents",
                     "name": "Birthday Adapter",
                     "description": {
-                        "en": "add birthdays from address book to Etar (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
-                        "nl": "voeg verjaardagen uit adresboek toe aan Etar (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
+                        "en": "add birthdays from address book to Simple Calendar Pro and Etar (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
+                        "nl": "voeg verjaardagen uit adresboek toe aan Simple Calendar Pro en Etar (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
                         "es": ""
                     }
                 },
@@ -383,11 +482,20 @@
                     }
                 },
                 {
+                    "id": "com.simplemobiletools.notes.pro",
+                    "name": "Simple Notes Pro",
+                    "description": {
+                        "en": "manage tasks in CalDAV",
+                        "nl": "beheer taken in CalDAV",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "org.tasks",
                     "name": "Tasks.org",
                     "description": {
-                        "en": "manage tasks in CalDAV with DAVx⁵",
-                        "nl": "beheer taken in CalDAV met DAVx⁵",
+                        "en": "manage tasks in CalDAV",
+                        "nl": "beheer taken in CalDAV",
                         "es": ""
                     }
                 },
@@ -419,11 +527,20 @@
             },
             "apps": [
                 {
-                    "id": "org.y20k.transistor",
-                    "name": "Transistor",
+                    "id": "com.simplemobiletools.voicerecorder",
+                    "name": "Simple Voice Recorder",
                     "description": {
-                        "en": "play audio streams",
-                        "nl": "speel audiostreams af",
+                        "en": "make audio recordings",
+                        "nl": "maak geluidsopnames",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.simplemobiletools.musicplayer",
+                    "name": "Simple Music Player",
+                    "description": {
+                        "en": "play music files",
+                        "nl": "speel muziekbestanden af",
                         "es": ""
                     }
                 },
@@ -433,6 +550,15 @@
                     "description": {
                         "en": "play music files",
                         "nl": "speel muziekbestanden af",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.y20k.transistor",
+                    "name": "Transistor",
+                    "description": {
+                        "en": "play audio streams",
+                        "nl": "speel audiostreams af",
                         "es": ""
                     }
                 },
@@ -572,6 +698,24 @@
             },
             "apps": [
                 {
+                    "id": "com.keylesspalace.tusky",
+                    "name": "Tusky",
+                    "description": {
+                        "en": "Mastodon",
+                        "nl": "Mastodon",
+                        "es": "Mastodon"
+                    }
+                },
+                {
+                    "id": "com.twidere.twiderex",
+                    "name": "Twidere X",
+                    "description": {
+                        "en": "Mastodon, etc.",
+                        "nl": "Mastodon, etc.",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "com.pitchedapps.frost",
                     "name": "Frost for Facebook",
                     "description": {
@@ -587,24 +731,6 @@
                         "en": "Facebook",
                         "nl": "Facebook",
                         "es": ""
-                    }
-                },
-                {
-                    "id": "com.twidere.twiderex",
-                    "name": "Twidere X",
-                    "description": {
-                        "en": "Mastodon, etc.",
-                        "nl": "Mastodon, etc.",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.keylesspalace.tusky",
-                    "name": "Tusky",
-                    "description": {
-                        "en": "Mastodon",
-                        "nl": "Mastodon",
-                        "es": "Mastodon"
                     }
                 }
             ]
@@ -784,6 +910,15 @@
                     "description": {
                         "en": "track sport activities",
                         "nl": "houd sportactiviteiten bij",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.jithware.brethap",
+                    "name": "Brethap",
+                    "description": {
+                        "en": "control your breathing during meditation",
+                        "nl": "beheers je ademhaling tijdens meditatie",
                         "es": ""
                     }
                 },
