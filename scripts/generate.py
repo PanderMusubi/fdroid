@@ -50,7 +50,6 @@ def read_json():
         return data['references'], data['headers'], data['footers'], data['categories']
 
 #fennec addons
-#some apps widgets and notifications on wearos
 
 def generate():
     '''Generate files'''
