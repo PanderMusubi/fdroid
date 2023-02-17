@@ -221,7 +221,7 @@
                     }
                 },
                 {
-                    "id": "eu.siacs.conversations",
+                    "id": "com.github.gotify",
                     "name": "Gotify",
                     "description": {
                         "en": "receive push notifications",

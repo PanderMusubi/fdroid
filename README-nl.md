@@ -78,8 +78,8 @@ instant messaging met XMPP</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.heckel.ntfy"><img alt="icon" width="96" src="icons/io.heckel.ntfy.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.heckel.ntfy"><strong>nfty</strong></a><br>
 ontvang push-notificaties</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><img alt="icon" width="96" src="icons/eu.siacs.conversations.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><strong>Gotify</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.gotify"><img alt="icon" width="96" src="icons/com.github.gotify.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.gotify"><strong>Gotify</strong></a><br>
 ontvang push-notificaties</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.linphone"><img alt="icon" width="96" src="icons/org.linphone.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.linphone"><strong>Linphone</strong></a><br>
