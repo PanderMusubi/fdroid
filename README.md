@@ -34,6 +34,9 @@ type with autocompletion keyboard</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="96" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><strong>AnySoftKeyboard</strong></a><br>
 type with autocompletion keyboard</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><img alt="icon" width="96" src="icons/nodomain.freeyourgadget.gadgetbridge.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><strong>Gadgetbridge</strong></a><br>
+connect with heart rate monitors, ear buds and more</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice"><img alt="icon" width="96" src="icons/de.nulide.findmydevice.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice"><strong>FindMyDevice</strong></a><br>
 find your mistplaced, lost or stolen device</td></tr>

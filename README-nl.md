@@ -34,6 +34,9 @@ type met automatisch aanvullend toetsenbord</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="96" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><strong>AnySoftKeyboard</strong></a><br>
 type met automatisch aanvullend toetsenbord</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><img alt="icon" width="96" src="icons/nodomain.freeyourgadget.gadgetbridge.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><strong>Gadgetbridge</strong></a><br>
+verbind met hartslagmonitors, draadloze oortjes en meer</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice"><img alt="icon" width="96" src="icons/de.nulide.findmydevice.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice"><strong>FindMyDevice</strong></a><br>
 vind je misplaatste, verloren of gestolen apparaat</td></tr>

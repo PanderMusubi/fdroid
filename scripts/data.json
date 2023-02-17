@@ -77,6 +77,15 @@
                     }
                 },
                 {
+                    "id": "nodomain.freeyourgadget.gadgetbridge",
+                    "name": "Gadgetbridge",
+                    "description": {
+                        "en": "connect with heart rate monitors, ear buds and more",
+                        "nl": "verbind met hartslagmonitors, draadloze oortjes en meer",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "de.nulide.findmydevice",
                     "name": "FindMyDevice",
                     "description": {
