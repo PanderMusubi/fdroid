@@ -212,6 +212,24 @@
                     }
                 },
                 {
+                    "id": "io.heckel.ntfy",
+                    "name": "nfty",
+                    "description": {
+                        "en": "receive push notifications",
+                        "nl": "ontvang push-notificaties",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "eu.siacs.conversations",
+                    "name": "Gotify",
+                    "description": {
+                        "en": "receive push notifications",
+                        "nl": "ontvang push-notificaties",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "org.linphone",
                     "name": "Linphone",
                     "description": {
