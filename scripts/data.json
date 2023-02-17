@@ -698,6 +698,15 @@
                     }
                 },
                 {
+                    "id": "net.gitsaibot.af",
+                    "name": "AF Weather Widget",
+                    "description": {
+                        "en": "view weather graphs in widgets",
+                        "nl": "bekijk weersgrafieken in widgets",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "org.ligi.passandroid",
                     "name": "PassAndroid",
                     "description": {

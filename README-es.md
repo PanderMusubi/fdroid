@@ -213,6 +213,9 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid"><img alt="icon" width="96" src="icons/com.google.android.stardroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.stardroid"><strong>Sky Map</strong></a><br>
 </td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.gitsaibot.af"><img alt="icon" width="96" src="icons/net.gitsaibot.af.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.gitsaibot.af"><strong>AF Weather Widget</strong></a><br>
+</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.ligi.passandroid"><img alt="icon" width="96" src="icons/org.ligi.passandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.ligi.passandroid"><strong>PassAndroid</strong></a><br>
 </td></tr>
