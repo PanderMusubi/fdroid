@@ -38,10 +38,10 @@ def header(mado, references, headers, lang):
                 mado.write(f'_{flag(reference)} {value} [README.md](README.md)_\n\n')
             else:
                 mado.write(f'_{flag(reference)} {value} [README-{reference}.md](README-{reference}.md)_\n\n')
-    mado.write(headers[lang])
+    mado.write(f'{headers[lang]}\n\n')
 
 def footer(mado, footers, lang):
-    mado.write(footers[lang])
+    mado.write(f'{footers[lang]}\n\n')
 
 def read_json():
     '''Read the JSON file with all the data.'''

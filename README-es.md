@@ -2,6 +2,8 @@ _🇬🇧 For English, see [README.md](README.md)_
 
 _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 
+
+
 <table>
 <tr><th colspan="2"><br>Básica</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><img alt="icon" width="96" src="icons/org.fdroid.fdroid.png"></a></td>
@@ -306,4 +308,6 @@ Mastodon</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/foss.cnugteren.nlweer"><strong>NLWeer</strong></a><br>
 </td></tr>
 </table>
+
+
 

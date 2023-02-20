@@ -10,7 +10,7 @@ _🇪🇸 Para español, ver [README-es.md](README-es.md)_
 
 Veilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target="_blank" href="https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.
 
-Hieronder is een overzicht van gratis Anroidapps die vanuit <a target="_blank" href="https://f-droid.org/">F-Droid</a> zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.
+Hieronder is een overzicht van gratis Anroidapps die vanuit [F-Droid](https://f-droid.org/) zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.
 
 Sommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid. Goed te weten is dat veel van deze apps soms beter zijn dan hun commerciele tegenhangers en dat notificaties ook aankomen op apparaten met WearOS die zijn verbonden.
 
@@ -319,7 +319,7 @@ Nederlandse ondersteuning voor AnySoftKeyboard</td></tr>
 Nederlands weer en neerslag van KNMI en Buienrader</td></tr>
 </table>
 
-Als je nog een stap verder wil gaan, overweeg om <a target="_blank" href="https://en.wikipedia.org/wiki/LineageOS">LineageOS</a> op je apparaat te installeren. Dit is Android zonder voorgeïnstalleerde apps van Google, zonder voorgeïnstalleerde apps van de fabrikant van je apparaat en zonder voorgeïnstalleerde apps van je provider. Door ook Open GApps pico te installeren heb je alsnog de mogelijkheid apps van Google Play te installeren, maar alleen die apps waar jij zelf voor kiest zoals Signal Private Messenger.
+Als je nog een stap verder wil gaan, overweeg om [LineageOS](https://en.wikipedia.org/wiki/LineageOS) op je apparaat te installeren. Dit is Android zonder voorgeïnstalleerde apps van Google, zonder voorgeïnstalleerde apps van de fabrikant van je apparaat en zonder voorgeïnstalleerde apps van je provider. Door ook Open GApps pico te installeren heb je alsnog de mogelijkheid apps van Google Play te installeren, maar alleen die apps waar jij zelf voor kiest zoals Signal Private Messenger.
 
 Zie ook:
 - [Selectie van FOSS voor Windows, macOS en Linux](https://github.com/PanderMusubi/foss/blob/main/README-nl.md)
@@ -327,3 +327,4 @@ Zie ook:
 - [Droid-Break](https://droid-break.info/)
 
 Dit overzicht was gestarted in 2013 door [Hellebaard](http://hellebaard.nl) en was eerder dan die van PRISM Break en Droid-Break.
+

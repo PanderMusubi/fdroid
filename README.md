@@ -10,7 +10,7 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 
 Safe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target="_blank" href="https://en.wikipedia.org/wiki/Free_and_open-source_software">free and open source software</a> (FOSS) is advised, also for mobile devices such ass smartphones and tablets.
 
-Below is an overview of free Android apps which can be installed from <a target="_blank" href="https://f-droid.org/">F-Droid</a>. This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind.
+Below is an overview of free Android apps which can be installed from [F-Droid](https://f-droid.org/). This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind.
 
 Some of the apps listed here cost money in Google Play but are gratis on F-Droid. Good to know is that many of these apps sometimes surpass their commercial counterparts, can offer practical widgets and notification also land on connected WearOS devices.
 
@@ -319,7 +319,7 @@ Dutch support for AnySoftKeyboard</td></tr>
 Dutch weather and precipitation from KNMI and Buienrader</td></tr>
 </table>
 
-If you want to go one step further, please consider installing <a target="_blank" href="https://en.wikipedia.org/wiki/LineageOS">LineageOS</a> on your device. This is Android without preinstalled apps from Google, without preinstalled apps from the manufacturor of your device and without preinstalled apps from your provider. By also installing Open GApps pico, you have the possibility to install apps from Google Play, but only the one you choose, such as Signal Private Messenger.
+If you want to go one step further, please consider installing [LineageOS](https://en.wikipedia.org/wiki/LineageOS) on your device. This is Android without preinstalled apps from Google, without preinstalled apps from the manufacturor of your device and without preinstalled apps from your provider. By also installing Open GApps pico, you have the possibility to install apps from Google Play, but only the one you choose, such as Signal Private Messenger.
 
 See also:
 - [Selection of FOSS for Windows, macOS and Linux](https://github.com/PanderMusubi/foss/blob/main/README.md)
@@ -327,3 +327,4 @@ See also:
 - [Droid-Break](https://droid-break.info/)
 
 This overview was started in 2013 by [Hellebaard](http://hellebaard.nl) and predates those of PRISM Break and Droid-Break.
+
