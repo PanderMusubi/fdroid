@@ -28,6 +28,9 @@ beheer contacten in CardDAV</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><img alt="icon" width="96" src="icons/com.simplemobiletools.calculator.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><strong>Simple Calculator</strong></a><br>
 make berekeningen</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="96" src="icons/eu.darken.capod.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
+gebruik oortjes zoals AirPods en Beats</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><img alt="icon" width="96" src="icons/com.simplemobiletools.keyboard.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><strong>Simple Keyboard</strong></a><br>
 type met automatisch aanvullend toetsenbord</td></tr>
@@ -95,7 +98,7 @@ stream audio en/of video tussen twee apparaten</td></tr>
 videoconferentie</td></tr>
 <tr><th colspan="2"><br>Bestanden</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.filemanager.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><strong>Simple File Manager Pro </strong></a><br>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><strong>Simple File Manager Pro</strong></a><br>
 beheer bestanden</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="96" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
@@ -106,6 +109,9 @@ beheer en synchroniseer fotoalbums met Nextcloud</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><img alt="icon" width="96" src="icons/com.nutomic.syncthingandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><strong>Syncthing</strong></a><br>
 synchroniseer en back-up bestanden</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><img alt="icon" width="96" src="icons/com.github.catfriend1.syncthingandroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><strong>Syncthing-Fork</strong></a><br>
+synchroniseer en back-up bestanden met extra features</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="96" src="icons/com.google.android.diskusage.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
 beheer diskgebruik</td></tr>
@@ -114,7 +120,7 @@ beheer diskgebruik</td></tr>
 bekijk bestanden LibreOffice</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="96" src="icons/com.gsnathan.pdfviewer.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
-bekijk PDF-bestanden</td></tr>
+bekijk PDF-bestanden (niet nodig als Simple File Manager Pro geïnstalleerd is)</td></tr>
 <tr><th colspan="2"><br>Video en afbeeldingen</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><img alt="icon" width="96" src="icons/com.simplemobiletools.camera.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><strong>Simple Camera</strong></a><br>
@@ -249,7 +255,7 @@ Facebook</td></tr>
 Facebook</td></tr>
 <tr><th colspan="2"><br>Financieel</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><img alt="icon" width="96" src="icons/eu.uwot.fabio.altcoinprices.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin PRices</strong></a><br>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin Prices</strong></a><br>
 prijzen en portfolio cryptovaluta's</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.cloneapps.crypto_prices"><img alt="icon" width="96" src="icons/de.cloneapps.crypto_prices.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.cloneapps.crypto_prices"><strong>Crypto Prices</strong></a><br>
@@ -270,9 +276,6 @@ gebruik gratis VPN</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.calyxinstitute.vpn"><img alt="icon" width="96" src="icons/org.calyxinstitute.vpn.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.calyxinstitute.vpn"><strong>Calyx VPN</strong></a><br>
 gebruik gratis VPN zonder handmatige instellingen</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.csicar.ning"><img alt="icon" width="96" src="icons/de.csicar.ning.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.csicar.ning"><strong>Ning</strong></a><br>
-scan LAN en poorten</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority"><img alt="icon" width="96" src="icons/com.aaronjwood.portauthority.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority"><strong>Port Authority</strong></a><br>
 scan LAN en poorten</td></tr>
@@ -308,7 +311,7 @@ beheers je ademhaling tijdens meditatie</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.arnowelzel.android.periodical"><strong>Periodical</strong></a><br>
 houd vruchtbare dagen bij met Knaus-Oginomethode</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><img alt="icon" width="96" src="icons/flunzmas.seasoncalendar.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><strong>easonal Foods Calendar</strong></a><br>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><strong>Seasonal Foods Calendar</strong></a><br>
 vind regionaal seizoensvoedsel dat dichtbij is geproduceerd</td></tr>
 <tr><th colspan="2"><br>Nederland</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.dutch_oss"><img alt="icon" width="96" src="icons/com.anysoftkeyboard.languagepack.dutch_oss.png"></a></td>

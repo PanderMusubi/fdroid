@@ -28,6 +28,9 @@ manage contacts in CardDAV</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><img alt="icon" width="96" src="icons/com.simplemobiletools.calculator.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><strong>Simple Calculator</strong></a><br>
 make calculations</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="96" src="icons/eu.darken.capod.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
+use in-ear devices such as AirPods and Beats</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><img alt="icon" width="96" src="icons/com.simplemobiletools.keyboard.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><strong>Simple Keyboard</strong></a><br>
 type with autocompletion keyboard</td></tr>
@@ -95,7 +98,7 @@ stream audio and/or video between two devices</td></tr>
 video conference</td></tr>
 <tr><th colspan="2"><br>Files</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.filemanager.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><strong>Simple File Manager Pro </strong></a><br>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><strong>Simple File Manager Pro</strong></a><br>
 manage files</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="96" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
@@ -106,6 +109,9 @@ manage and synchronize picture albums with Nextcloud</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><img alt="icon" width="96" src="icons/com.nutomic.syncthingandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><strong>Syncthing</strong></a><br>
 synchronize and backup files</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><img alt="icon" width="96" src="icons/com.github.catfriend1.syncthingandroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><strong>Syncthing-Fork</strong></a><br>
+synchronize and backup files with extra features</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="96" src="icons/com.google.android.diskusage.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
 manage disk usage</td></tr>
@@ -114,7 +120,7 @@ manage disk usage</td></tr>
 view LibreOffice files</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="96" src="icons/com.gsnathan.pdfviewer.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
-view PDF files</td></tr>
+view PDF files (not needed when Simple File Manager Pro is installed)</td></tr>
 <tr><th colspan="2"><br>Video and Images</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><img alt="icon" width="96" src="icons/com.simplemobiletools.camera.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><strong>Simple Camera</strong></a><br>
@@ -249,7 +255,7 @@ Facebook</td></tr>
 Facebook</td></tr>
 <tr><th colspan="2"><br>Financial</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><img alt="icon" width="96" src="icons/eu.uwot.fabio.altcoinprices.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin PRices</strong></a><br>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin Prices</strong></a><br>
 prices and portfolio cryptocurrencies</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.cloneapps.crypto_prices"><img alt="icon" width="96" src="icons/de.cloneapps.crypto_prices.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.cloneapps.crypto_prices"><strong>Crypto Prices</strong></a><br>
@@ -270,9 +276,6 @@ use free VPN</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.calyxinstitute.vpn"><img alt="icon" width="96" src="icons/org.calyxinstitute.vpn.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.calyxinstitute.vpn"><strong>Calyx VPN</strong></a><br>
 use free VPN without manual settings</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.csicar.ning"><img alt="icon" width="96" src="icons/de.csicar.ning.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.csicar.ning"><strong>Ning</strong></a><br>
-scan LAN and ports</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority"><img alt="icon" width="96" src="icons/com.aaronjwood.portauthority.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority"><strong>Port Authority</strong></a><br>
 scan LAN and ports</td></tr>
@@ -308,7 +311,7 @@ control your breathing during meditation</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.arnowelzel.android.periodical"><strong>Periodical</strong></a><br>
 track days of fertility with Knaus-Ogino method</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><img alt="icon" width="96" src="icons/flunzmas.seasoncalendar.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><strong>easonal Foods Calendar</strong></a><br>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/flunzmas.seasoncalendar"><strong>Seasonal Foods Calendar</strong></a><br>
 find regional seasonal foods from nearby produce</td></tr>
 <tr><th colspan="2"><br>Netherlands</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.dutch_oss"><img alt="icon" width="96" src="icons/com.anysoftkeyboard.languagepack.dutch_oss.png"></a></td>

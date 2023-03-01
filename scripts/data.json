@@ -25,6 +25,7 @@
                 {
                     "id": "org.fdroid.fdroid",
                     "name": "F-Droid",
+                    "remark": "essential",
                     "description": {
                         "en": "install apps from the F-Droid app store",
                         "nl": "installeer apps uit de F-Droid appstore",
@@ -43,6 +44,7 @@
                 {
                     "id": "com.simplemobiletools.contacts.pro",
                     "name": "Simple Contacts Pro",
+                    "remark": "lineageos",
                     "description": {
                         "en": "manage contacts in CardDAV",
                         "nl": "beheer contacten in CardDAV",
@@ -52,9 +54,19 @@
                 {
                     "id": "com.simplemobiletools.calculator",
                     "name": "Simple Calculator",
+                    "remark": "lineageos",
                     "description": {
                         "en": "make calculations",
                         "nl": "make berekeningen",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "eu.darken.capod",
+                    "name": "CAPod",
+                    "description": {
+                        "en": "use in-ear devices such as AirPods and Beats",
+                        "nl": "gebruik oortjes zoals AirPods en Beats",
                         "es": ""
                     }
                 },
@@ -70,6 +82,7 @@
                 {
                     "id": "com.menny.android.anysoftkeyboard",
                     "name": "AnySoftKeyboard",
+                    "remark": "personal",
                     "description": {
                         "en": "type with autocompletion keyboard",
                         "nl": "type met automatisch aanvullend toetsenbord",
@@ -88,6 +101,7 @@
                 {
                     "id": "de.nulide.findmydevice",
                     "name": "FindMyDevice",
+                    "remark": "personal",
                     "description": {
                         "en": "find your mistplaced, lost or stolen device",
                         "nl": "vind je misplaatste, verloren of gestolen apparaat",
@@ -97,6 +111,7 @@
                 {
                     "id": "ru.seva.finder",
                     "name": "Finder",
+                    "remark": "personal",
                     "description": {
                         "en": "find your mistplaced, lost or stolen device",
                         "nl": "vind je misplaatste, verloren of gestolen apparaat",
@@ -115,15 +130,17 @@
                 {
                     "id": "org.mozilla.fennec_fdroid",
                     "name": "Fennec",
+                    "remark": "lineageos",
                     "description": {
-                        "en": "browse with Firefox Mobile including Firefox Sync for password management",
-                        "nl": "browse met Firefox Mobile inclusief Firefox Sync voor wachtwoordbeheer",
+                        "en": "browse with Firefox Mobile including QR scanner and Firefox Sync for password management",
+                        "nl": "browse met Firefox Mobile inclusief QR scanner en Firefox Sync voor wachtwoordbeheer",
                         "es": ""
                     }
                 },
                 {
                     "id": "org.liberty.android.freeotpplus",
                     "name": "FreeOTP+",
+                    "remark": "personal",
                     "description": {
                         "en": "use two-factor authentication (2FA) with import and export",
                         "nl": "gebruik two-factor authenticatie (2FA) met import en export",
@@ -133,6 +150,7 @@
                 {
                     "id": "com.kunzisoft.keepass.libre",
                     "name": "KeePassDX",
+                    "remark": "personal",
                     "description": {
                         "en": "manage passwords",
                         "nl": "beheer wachtwoorden",
@@ -142,6 +160,7 @@
                 {
                     "id": "com.nextcloudpasswords",
                     "name": "NextcloudPasswords",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "manage and synchronize passwords with Nextcloud",
                         "nl": "beheer en synchroniseer van wachtwoorden met Nextcloud",
@@ -151,6 +170,7 @@
                 {
                     "id": "org.schabi.nxbookmarks",
                     "name": "Nextcloud Bookmarks",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "manage and synchronize bookmarks with Nextcloud",
                         "nl": "beheer en synchroniseer favorieten met Nextcloud",
@@ -169,6 +189,7 @@
                 {
                     "id": "com.simplemobiletools.smsmessenger",
                     "name": "Simple SMS Messenger",
+                    "remark": "todo",
                     "description": {
                         "en": "manage SMS messages",
                         "nl": "beheer SMS-berichten",
@@ -178,6 +199,7 @@
                 {
                     "id": "com.nextcloud.talk2",
                     "name": "Nextcloud Talk",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "video conference with Nextcloud",
                         "nl": "videoconferentie met Nextcloud",
@@ -187,6 +209,9 @@
                 {
                     "id": "org.telegram.messenger",
                     "name": "Telegram",
+                    "issues": [
+                        "https://github.com/Telegram-FOSS-Team/Telegram-FOSS/issues/639"
+                    ],
                     "description": {
                         "en": "instant messaging, voice and video calling",
                         "nl": "instant messaging, bellen en videobellen",
@@ -276,7 +301,7 @@
             "apps": [
                 {
                     "id": "com.simplemobiletools.filemanager.pro",
-                    "name": "Simple File Manager Pro ",
+                    "name": "Simple File Manager Pro",
                     "description": {
                         "en": "manage files",
                         "nl": "beheer bestanden",
@@ -286,6 +311,7 @@
                 {
                     "id": "com.nextcloud.client",
                     "name": "Nextcloud",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "synchronize files with Nextcloud",
                         "nl": "synchroniseer bestanden met Nextcloud",
@@ -295,6 +321,7 @@
                 {
                     "id": "com.github.vauvenal5.yaga",
                     "name": "Yaga",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "manage and synchronize picture albums with Nextcloud",
                         "nl": "beheer en synchroniseer fotoalbums met Nextcloud",
@@ -307,6 +334,15 @@
                     "description": {
                         "en": "synchronize and backup files",
                         "nl": "synchroniseer en back-up bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.github.catfriend1.syncthingandroid",
+                    "name": "Syncthing-Fork",
+                    "description": {
+                        "en": "synchronize and backup files with extra features",
+                        "nl": "synchroniseer en back-up bestanden met extra features",
                         "es": ""
                     }
                 },
@@ -332,8 +368,8 @@
                     "id": "com.gsnathan.pdfviewer",
                     "name": "Pdf Viewer Plus",
                     "description": {
-                        "en": "view PDF files",
-                        "nl": "bekijk PDF-bestanden",
+                        "en": "view PDF files (not needed when Simple File Manager Pro is installed)",
+                        "nl": "bekijk PDF-bestanden (niet nodig als Simple File Manager Pro geïnstalleerd is)",
                         "es": ""
                     }
                 }
@@ -430,6 +466,7 @@
                 {
                     "id": "com.fsck.k9",
                     "name": "K-9 Mail",
+                    "remark": "personal",
                     "description": {
                         "en": "send and receive emails",
                         "nl": "ontvang en verstuur e-mails",
@@ -439,6 +476,7 @@
                 {
                     "id": "org.sufficientlysecure.keychain",
                     "name": "OpenKeychain",
+                    "remark": "personal",
                     "description": {
                         "en": "encrypt and decrypt texts and files for K-9 Mail, etc.",
                         "nl": "versleutel en ontsleutel teksten en bestanden voor K-9 Mail, etc.",
@@ -457,6 +495,7 @@
                 {
                     "id": "com.simplemobiletools.calendar.pro",
                     "name": "Simple Calendar Pro",
+                    "remark": "lineageos",
                     "description": {
                         "en": "manage calendars in CalDAV",
                         "nl": "beheer kalenders in CalDAV",
@@ -475,6 +514,7 @@
                 {
                     "id": "at.bitfire.icsdroid",
                     "name": "ICSx⁵",
+                    "remark": "personal",
                     "description": {
                         "en": "add network calendars in ICS format to Simple Calendar Pro and Etar (see also the <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
                         "nl": "voeg netwerkkalenders in ICS-formaat toe aan Simple Calendar Pro en Etar (zie ook de <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
@@ -484,6 +524,7 @@
                 {
                     "id": "saschpe.contactevents",
                     "name": "Birthday Adapter",
+                    "remark": "personal",
                     "description": {
                         "en": "add birthdays from address book to Simple Calendar Pro and Etar (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
                         "nl": "voeg verjaardagen uit adresboek toe aan Simple Calendar Pro en Etar (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
@@ -493,6 +534,7 @@
                 {
                     "id": "at.bitfire.davdroid",
                     "name": "DAVx⁵",
+                    "remark": "personal",
                     "description": {
                         "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
                         "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
@@ -502,6 +544,7 @@
                 {
                     "id": "com.woefe.shoppinglist",
                     "name": "Shopping List",
+                    "remark": "personal",
                     "description": {
                         "en": "manage tasks in files",
                         "nl": "beheer taken in bestanden",
@@ -511,6 +554,7 @@
                 {
                     "id": "com.simplemobiletools.notes.pro",
                     "name": "Simple Notes Pro",
+                    "remark": "personal",
                     "description": {
                         "en": "manage tasks in CalDAV",
                         "nl": "beheer taken in CalDAV",
@@ -529,6 +573,7 @@
                 {
                     "id": "it.niedermann.owncloud.notes",
                     "name": "Notes",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "manage and synchronize notes with Nextcloud",
                         "nl": "beheer en synchroniseer aantekeningen met Nextcloud",
@@ -538,6 +583,7 @@
                 {
                     "id": "it.niedermann.nextcloud.deck",
                     "name": "Nextcloud Deck",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "manage and synchronize kanban cards with Nextcloud",
                         "nl": "beheer en synchroniseer kanbankaarten met Nextcloud",
@@ -556,6 +602,7 @@
                 {
                     "id": "com.simplemobiletools.voicerecorder",
                     "name": "Simple Voice Recorder",
+                    "remark": "lineageos",
                     "description": {
                         "en": "make audio recordings",
                         "nl": "maak geluidsopnames",
@@ -565,6 +612,7 @@
                 {
                     "id": "com.simplemobiletools.musicplayer",
                     "name": "Simple Music Player",
+                    "remark": "lineageos",
                     "description": {
                         "en": "play music files",
                         "nl": "speel muziekbestanden af",
@@ -583,6 +631,7 @@
                 {
                     "id": "org.y20k.transistor",
                     "name": "Transistor",
+                    "remark": "personal",
                     "description": {
                         "en": "play audio streams",
                         "nl": "speel audiostreams af",
@@ -646,6 +695,7 @@
                 {
                     "id": "net.eneiluj.nextcloud.phonetrack",
                     "name": "PhoneTrack",
+                    "remark": "nextcloud",
                     "description": {
                         "en": "log and synchronisize geolocations in Nextcloud",
                         "nl": "log en synchroniseer geolocaties in Nextcloud",
@@ -655,6 +705,7 @@
                 {
                     "id": "app.organicmaps",
                     "name": "Organic Maps",
+                    "remark": "personal",
                     "description": {
                         "en": "plan routes and navigate with OpenStreetMap for walking, cycling and driving, online and offline",
                         "nl": "plan routes and nagiveer met OpenStreetMap voor lopen, fietsen en autorijden, oline en offline",
@@ -673,6 +724,7 @@
                 {
                     "id": "de.grobox.liberario",
                     "name": "Transportr",
+                    "issue": "https://github.com/grote/Transportr/issues/839",
                     "description": {
                         "en": "plan public transport with NS, 9292, etc.",
                         "nl": "plan openbaar vervoer met NS, 9292, etc.",
@@ -700,6 +752,7 @@
                 {
                     "id": "com.google.android.stardroid",
                     "name": "Sky Map",
+                    "remark": "personal",
                     "description": {
                         "en": "explore stars, planets en meer in the sky",
                         "nl": "verken sterren, planeten en meer in de hemel",
@@ -709,6 +762,7 @@
                 {
                     "id": "net.gitsaibot.af",
                     "name": "AF Weather Widget",
+                    "remark": "personal",
                     "description": {
                         "en": "view weather graphs in widgets",
                         "nl": "bekijk weersgrafieken in widgets",
@@ -754,6 +808,7 @@
                 {
                     "id": "com.pitchedapps.frost",
                     "name": "Frost for Facebook",
+                    "remark": "personal",
                     "description": {
                         "en": "Facebook",
                         "nl": "Facebook",
@@ -763,6 +818,7 @@
                 {
                     "id": "it.rignanese.leo.slimfacebook",
                     "name": "SlimSocial for Facebook",
+                    "remark": "personal",
                     "description": {
                         "en": "Facebook",
                         "nl": "Facebook",
@@ -780,7 +836,8 @@
             "apps": [
                 {
                     "id": "eu.uwot.fabio.altcoinprices",
-                    "name": "Altcoin PRices",
+                    "name": "Altcoin Prices",
+                    "remark": "personal",
                     "description": {
                         "en": "prices and portfolio cryptocurrencies",
                         "nl": "prijzen en portfolio cryptovaluta's",
@@ -790,6 +847,7 @@
                 {
                     "id": "de.cloneapps.crypto_prices",
                     "name": "Crypto Prices",
+                    "remark": "personal",
                     "description": {
                         "en": "prices and portfolio cryptocurrencies",
                         "nl": "prijzen en portfolio cryptovaluta's",
@@ -851,17 +909,9 @@
                     }
                 },
                 {
-                    "id": "de.csicar.ning",
-                    "name": "Ning",
-                    "description": {
-                        "en": "scan LAN and ports",
-                        "nl": "scan LAN en poorten",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "com.aaronjwood.portauthority",
                     "name": "Port Authority",
+                    "remark": "personal",
                     "description": {
                         "en": "scan LAN and ports",
                         "nl": "scan LAN en poorten",
@@ -880,6 +930,7 @@
                 {
                     "id": "org.connectbot",
                     "name": "ConnectBot",
+                    "remark": "personal",
                     "description": {
                         "en": "SSH and Telnet",
                         "nl": "SSH en Telnet",
@@ -889,6 +940,7 @@
                 {
                     "id": "de.eidottermihi.raspicheck",
                     "name": "Raspi Check",
+                    "remark": "personal",
                     "description": {
                         "en": "manage Raspberry Pis",
                         "nl": "beheer Raspberry Pi's",
@@ -916,6 +968,7 @@
                 {
                     "id": "com.manimarank.websitemonitor",
                     "name": "Website Monitor",
+                    "remark": "personal",
                     "description": {
                         "en": "monitor if websites are online",
                         "nl": "monitor of websites online zijn",
@@ -961,6 +1014,7 @@
                 {
                     "id": "de.arnowelzel.android.periodical",
                     "name": "Periodical",
+                    "remark": "personal",
                     "description": {
                         "en": "track days of fertility with Knaus-Ogino method",
                         "nl": "houd vruchtbare dagen bij met Knaus-Oginomethode",
@@ -969,7 +1023,7 @@
                 },
                 {
                     "id": "flunzmas.seasoncalendar",
-                    "name": "easonal Foods Calendar",
+                    "name": "Seasonal Foods Calendar",
                     "description": {
                         "en": "find regional seasonal foods from nearby produce",
                         "nl": "vind regionaal seizoensvoedsel dat dichtbij is geproduceerd",
