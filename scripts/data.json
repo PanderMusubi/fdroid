@@ -835,6 +835,16 @@
             },
             "apps": [
                 {
+                    "id": "org.btcmap",
+                    "name": "BTC Map",
+                    "remark": "personal",
+                    "description": {
+                        "en": "find where to spend bitcoins",
+                        "nl": "vindt waar bitcoins uit te geven",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "eu.uwot.fabio.altcoinprices",
                     "name": "Altcoin Prices",
                     "remark": "personal",

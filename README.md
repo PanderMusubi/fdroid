@@ -49,7 +49,7 @@ find your mistplaced, lost or stolen device</td></tr>
 <tr><th colspan="2"><br>Web browsers</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><img alt="icon" width="96" src="icons/org.mozilla.fennec_fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><strong>Fennec</strong></a><br>
-browse with Firefox Mobile including Firefox Sync for password management</td></tr>
+browse with Firefox Mobile including QR scanner and Firefox Sync for password management</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus"><img alt="icon" width="96" src="icons/org.liberty.android.freeotpplus.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus"><strong>FreeOTP+</strong></a><br>
 use two-factor authentication (2FA) with import and export</td></tr>
@@ -254,6 +254,9 @@ Facebook</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><strong>SlimSocial for Facebook</strong></a><br>
 Facebook</td></tr>
 <tr><th colspan="2"><br>Financial</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.btcmap"><img alt="icon" width="96" src="icons/org.btcmap.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.btcmap"><strong>BTC Map</strong></a><br>
+find where to spend bitcoins</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><img alt="icon" width="96" src="icons/eu.uwot.fabio.altcoinprices.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin Prices</strong></a><br>
 prices and portfolio cryptocurrencies</td></tr>

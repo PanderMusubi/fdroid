@@ -244,6 +244,9 @@ Mastodon</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><strong>SlimSocial for Facebook</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.btcmap"><img alt="icon" width="96" src="icons/org.btcmap.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.btcmap"><strong>BTC Map</strong></a><br>
+</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><img alt="icon" width="96" src="icons/eu.uwot.fabio.altcoinprices.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.uwot.fabio.altcoinprices"><strong>Altcoin Prices</strong></a><br>
 </td></tr>
