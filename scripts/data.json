@@ -64,6 +64,7 @@
                 {
                     "id": "eu.darken.capod",
                     "name": "CAPod",
+                    "remark": "optional",
                     "description": {
                         "en": "use in-ear devices such as AirPods and Beats",
                         "nl": "gebruik oortjes zoals AirPods en Beats",
@@ -73,6 +74,7 @@
                 {
                     "id": "com.simplemobiletools.keyboard",
                     "name": "Simple Keyboard",
+                    "remark": "secondary",
                     "description": {
                         "en": "type with autocompletion keyboard",
                         "nl": "type met automatisch aanvullend toetsenbord",
@@ -82,7 +84,7 @@
                 {
                     "id": "com.menny.android.anysoftkeyboard",
                     "name": "AnySoftKeyboard",
-                    "remark": "personal",
+                    "remark": "advised",
                     "description": {
                         "en": "type with autocompletion keyboard",
                         "nl": "type met automatisch aanvullend toetsenbord",
@@ -92,6 +94,7 @@
                 {
                     "id": "nodomain.freeyourgadget.gadgetbridge",
                     "name": "Gadgetbridge",
+                    "remark": "optional",
                     "description": {
                         "en": "connect with heart rate monitors, ear buds and more",
                         "nl": "verbind met hartslagmonitors, draadloze oortjes en meer",
@@ -101,7 +104,7 @@
                 {
                     "id": "de.nulide.findmydevice",
                     "name": "FindMyDevice",
-                    "remark": "personal",
+                    "remark": "essential",
                     "description": {
                         "en": "find your mistplaced, lost or stolen device",
                         "nl": "vind je misplaatste, verloren of gestolen apparaat",
@@ -111,7 +114,7 @@
                 {
                     "id": "ru.seva.finder",
                     "name": "Finder",
-                    "remark": "personal",
+                    "remark": "essential",
                     "description": {
                         "en": "find your mistplaced, lost or stolen device",
                         "nl": "vind je misplaatste, verloren of gestolen apparaat",
@@ -140,7 +143,7 @@
                 {
                     "id": "org.liberty.android.freeotpplus",
                     "name": "FreeOTP+",
-                    "remark": "personal",
+                    "remark": "essential",
                     "description": {
                         "en": "use two-factor authentication (2FA) with import and export",
                         "nl": "gebruik two-factor authenticatie (2FA) met import en export",
@@ -150,7 +153,7 @@
                 {
                     "id": "com.kunzisoft.keepass.libre",
                     "name": "KeePassDX",
-                    "remark": "personal",
+                    "remark": "optional",
                     "description": {
                         "en": "manage passwords",
                         "nl": "beheer wachtwoorden",
@@ -209,6 +212,7 @@
                 {
                     "id": "org.telegram.messenger",
                     "name": "Telegram",
+                    "remark": "optional",
                     "issues": [
                         "https://github.com/Telegram-FOSS-Team/Telegram-FOSS/issues/639"
                     ],
@@ -221,6 +225,7 @@
                 {
                     "id": "io.kuenzler.whatsappwebtogo",
                     "name": "WhatsApp Web To Go",
+                    "remark": "optional",
                     "description": {
                         "en": "web Whatsapp",
                         "nl": "web Whatsapp",
@@ -230,6 +235,7 @@
                 {
                     "id": "im.vector.app",
                     "name": "Element",
+                    "remark": "optional",
                     "description": {
                         "en": "instant messaging with Matrix",
                         "nl": "instant messaging met Matrix",
@@ -239,6 +245,7 @@
                 {
                     "id": "eu.siacs.conversations",
                     "name": "Conversations",
+                    "remark": "optional",
                     "description": {
                         "en": "instant messaging with XMPP",
                         "nl": "instant messaging met XMPP",
@@ -246,8 +253,18 @@
                     }
                 },
                 {
+                    "id": "com.example.deeplviewer",
+                    "name": "DeepL",
+                    "description": {
+                        "en": "translate with DeepL, also on selected text",
+                        "nl": "vertaal met DeepL, ook op geselecteerde tekst",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "io.heckel.ntfy",
                     "name": "nfty",
+                    "remark": "optional",
                     "description": {
                         "en": "receive push notifications",
                         "nl": "ontvang push-notificaties",
@@ -257,6 +274,7 @@
                 {
                     "id": "com.github.gotify",
                     "name": "Gotify",
+                    "remark": "secondary",
                     "description": {
                         "en": "receive push notifications",
                         "nl": "ontvang push-notificaties",
@@ -266,6 +284,7 @@
                 {
                     "id": "org.linphone",
                     "name": "Linphone",
+                    "remark": "optional",
                     "description": {
                         "en": "calling with VOIP",
                         "nl": "bellen met VOIP",
@@ -284,6 +303,7 @@
                 {
                     "id": "org.jitsi.meet",
                     "name": "Jitsi Meet",
+                    "remark": "personal",
                     "description": {
                         "en": "video conference",
                         "nl": "videoconferentie",
@@ -302,6 +322,7 @@
                 {
                     "id": "com.simplemobiletools.filemanager.pro",
                     "name": "Simple File Manager Pro",
+                    "remark": "lineageos",
                     "description": {
                         "en": "manage files",
                         "nl": "beheer bestanden",
@@ -331,6 +352,7 @@
                 {
                     "id": "com.nutomic.syncthingandroid",
                     "name": "Syncthing",
+                    "remark": "personal",
                     "description": {
                         "en": "synchronize and backup files",
                         "nl": "synchroniseer en back-up bestanden",
@@ -340,6 +362,7 @@
                 {
                     "id": "com.github.catfriend1.syncthingandroid",
                     "name": "Syncthing-Fork",
+                    "remark": "secondary",
                     "description": {
                         "en": "synchronize and backup files with extra features",
                         "nl": "synchroniseer en back-up bestanden met extra features",
@@ -349,6 +372,7 @@
                 {
                     "id": "com.google.android.diskusage",
                     "name": "DiskUsage",
+                    "remark": "essential",
                     "description": {
                         "en": "manage disk usage",
                         "nl": "beheer diskgebruik",
@@ -385,6 +409,7 @@
                 {
                     "id": "com.simplemobiletools.camera",
                     "name": "Simple Camera",
+                    "remark": "todolineageos",
                     "description": {
                         "en": "make photographs and videos",
                         "nl": "maak foto's en video's",
@@ -394,6 +419,7 @@
                 {
                     "id": "com.simplemobiletools.gallery.pro",
                     "name": "Simple Gallery Pro",
+                    "remark": "lineageos",
                     "description": {
                         "en": "manage images and videos",
                         "nl": "beheer afbeeldingen en video's",
@@ -495,7 +521,7 @@
                 {
                     "id": "com.simplemobiletools.calendar.pro",
                     "name": "Simple Calendar Pro",
-                    "remark": "lineageos",
+                    "remark": "secondary",
                     "description": {
                         "en": "manage calendars in CalDAV",
                         "nl": "beheer kalenders in CalDAV",
@@ -505,6 +531,7 @@
                 {
                     "id": "ws.xsoh.etar",
                     "name": "Etar",
+                    "remark": "lineageos",
                     "description": {
                         "en": "manage calendars in CalDAV",
                         "nl": "beheer kalenders in CalDAV",
@@ -554,7 +581,7 @@
                 {
                     "id": "com.simplemobiletools.notes.pro",
                     "name": "Simple Notes Pro",
-                    "remark": "personal",
+                    "remark": "secondary",
                     "description": {
                         "en": "manage tasks in CalDAV",
                         "nl": "beheer taken in CalDAV",
@@ -564,9 +591,20 @@
                 {
                     "id": "org.tasks",
                     "name": "Tasks.org",
+                    "remark": "personal",
                     "description": {
                         "en": "manage tasks in CalDAV",
                         "nl": "beheer taken in CalDAV",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.ichi2.anki",
+                    "name": "AnkiDroid",
+                    "remark": "personal",
+                    "description": {
+                        "en": "study and synchronisize flashcards in Anki",
+                        "nl": "studeer en synchroniseer flashcards in Anki",
                         "es": ""
                     }
                 },
@@ -622,6 +660,7 @@
                 {
                     "id": "ch.blinkenlights.android.vanilla",
                     "name": "Vanilla Music",
+                    "remark": "secondary",
                     "description": {
                         "en": "play music files",
                         "nl": "speel muziekbestanden af",
@@ -641,6 +680,7 @@
                 {
                     "id": "org.musicpd",
                     "name": "MPD",
+                    "remark": "optional",
                     "description": {
                         "en": "remote control for MPD",
                         "nl": "afstandsbediening voor MPD",
@@ -650,6 +690,7 @@
                 {
                     "id": "org.gateshipone.malp",
                     "name": "M.A.L.P.",
+                    "remark": "secondary",
                     "description": {
                         "en": "remote control for MPD",
                         "nl": "afstandsbediening voor MPD",
@@ -659,6 +700,7 @@
                 {
                     "id": "de.danoeh.antennapod",
                     "name": "AntennaPod",
+                    "remark": "optional",
                     "description": {
                         "en": "podcasts",
                         "nl": "podcasts",
@@ -668,6 +710,7 @@
                 {
                     "id": "org.y20k.escapepod",
                     "name": "Escapepod",
+                    "remark": "secondary",
                     "description": {
                         "en": "podcasts",
                         "nl": "podcasts",
@@ -677,6 +720,7 @@
                 {
                     "id": "com.shabinder.spotiflyer",
                     "name": "SpotiFlyer",
+                    "remark": "optional",
                     "description": {
                         "en": "download from e.g. Spotify, SoundCloud, YouTube",
                         "nl": "download van o.a. Spotify, SoundCloud, YouTube",
@@ -715,6 +759,7 @@
                 {
                     "id": "net.osmand.plus",
                     "name": "OsmAnd",
+                    "remark": "secondary",
                     "description": {
                         "en": "plan routes and navigate with OpenStreetMap for walking, cycling, driving and sailing, online and offline",
                         "nl": "plan routes and nagiveer met OpenStreetMap voor lopen, fietsen, autorijden en varen, oline en offline",
@@ -734,6 +779,7 @@
                 {
                     "id": "de.westnordost.streetcomplete",
                     "name": "StreetComplete",
+                    "remark": "optional",
                     "description": {
                         "en": "extend OpenStreetMap in an easy way",
                         "nl": "vul OpenStreetMap op een eenvoudige manier aan",
@@ -743,6 +789,7 @@
                 {
                     "id": "net.vonforst.evmap",
                     "name": "EVMap",
+                    "remark": "optional",
                     "description": {
                         "en": "find electric vehicle chargers on OpenStreetMap",
                         "nl": "vind opladers voor elektrische auto's op OpenStreetMap",
@@ -772,6 +819,7 @@
                 {
                     "id": "org.ligi.passandroid",
                     "name": "PassAndroid",
+                    "remark": "optional",
                     "description": {
                         "en": "view Passbook files for events and travel tickets",
                         "nl": "bekijk Passbookbestanden voor event- en reistickets",
