@@ -46,6 +46,9 @@ find your mistplaced, lost or stolen device</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ru.seva.finder"><img alt="icon" width="96" src="icons/ru.seva.finder.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ru.seva.finder"><strong>Finder</strong></a><br>
 find your mistplaced, lost or stolen device</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.keepalive.android"><img alt="icon" width="96" src="icons/io.keepalive.android.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.keepalive.android"><strong>Keep Alive</strong></a><br>
+send sms with location after period of inactivity</td></tr>
 <tr><th colspan="2"><br>Web browsers</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><img alt="icon" width="96" src="icons/org.mozilla.fennec_fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><strong>Fennec</strong></a><br>

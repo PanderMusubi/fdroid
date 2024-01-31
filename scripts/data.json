@@ -120,6 +120,16 @@
                         "nl": "vind je misplaatste, verloren of gestolen apparaat",
                         "es": ""
                     }
+                },
+                {
+                    "id": "io.keepalive.android",
+                    "name": "Keep Alive",
+                    "remark": "essential",
+                    "description": {
+                        "en": "send sms with location after period of inactivity",
+                        "nl": "verstuur sms met locatie na periode van inactiviteit",
+                        "es": ""
+                    }
                 }
             ]
         },

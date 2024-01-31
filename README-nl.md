@@ -46,6 +46,9 @@ vind je misplaatste, verloren of gestolen apparaat</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ru.seva.finder"><img alt="icon" width="96" src="icons/ru.seva.finder.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ru.seva.finder"><strong>Finder</strong></a><br>
 vind je misplaatste, verloren of gestolen apparaat</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.keepalive.android"><img alt="icon" width="96" src="icons/io.keepalive.android.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.keepalive.android"><strong>Keep Alive</strong></a><br>
+verstuur sms met locatie na periode van inactiviteit</td></tr>
 <tr><th colspan="2"><br>Webbrowsers</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><img alt="icon" width="96" src="icons/org.mozilla.fennec_fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><strong>Fennec</strong></a><br>
