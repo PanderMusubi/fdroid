@@ -46,8 +46,8 @@
                     "name": "Fossify Contacts",
                     "remark": "lineageos",
                     "description": {
-                        "en": "manage contacts in CardDAV",
-                        "nl": "beheer contacten in CardDAV",
+                        "en": "manage contacts, also from CardDAV",
+                        "nl": "beheer contacten, ook van CardDAV",
                         "es": ""
                     }
                 },
@@ -295,8 +295,8 @@
                     "name": "Fossify File Manager",
                     "remark": "lineageos",
                     "description": {
-                        "en": "manage files and view PDF files",
-                        "nl": "beheer bestanden en bekijk PDF-bestanden",
+                        "en": "manage files, also viewing PDF files",
+                        "nl": "beheer bestanden, ook bekijken PDF-bestanden",
                         "es": ""
                     }
                 },
@@ -485,18 +485,8 @@
                     "name": "Fossify Calendar",
                     "remark": "secondary",
                     "description": {
-                        "en": "manage calendars in CalDAV",
-                        "nl": "beheer kalenders in CalDAV",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "ws.xsoh.etar",
-                    "name": "Etar",
-                    "remark": "lineageos",
-                    "description": {
-                        "en": "manage calendars in CalDAV",
-                        "nl": "beheer kalenders in CalDAV",
+                        "en": "manage calendars, also showing holidays and birthdays",
+                        "nl": "beheer kalenders, ook tonen feestdagen en verjaardagen",
                         "es": ""
                     }
                 },
@@ -505,18 +495,8 @@
                     "name": "ICSx⁵",
                     "remark": "personal",
                     "description": {
-                        "en": "add network calendars in ICS format to Fossify Calendar and Etar (see also the <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
-                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Fossify Calendar en Etar (zie ook de <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "saschpe.contactevents",
-                    "name": "Birthday Adapter",
-                    "remark": "personal",
-                    "description": {
-                        "en": "add birthdays from address book to Etar (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>), note that Fossify Calendar supprts birthdays directly",
-                        "nl": "voeg verjaardagen uit adresboek toe aan Etar (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>), weet dat Fossify Calendar direct verjaardagen ondersteunt",
+                        "en": "add network calendars in ICS format",
+                        "nl": "voeg netwerkkalenders in ICS-formaat toe",
                         "es": ""
                     }
                 },
@@ -525,8 +505,8 @@
                     "name": "DAVx⁵",
                     "remark": "personal",
                     "description": {
-                        "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
-                        "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/\">Thunderbird</a>)",
+                        "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav",
+                        "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav",
                         "es": ""
                     }
                 },
@@ -545,8 +525,8 @@
                     "name": "Fossify Notes",
                     "remark": "secondary",
                     "description": {
-                        "en": "manage tasks locally",
-                        "nl": "beheer taken lokaal",
+                        "en": "manage tasks, only locally",
+                        "nl": "beheer taken, alleen lokaal",
                         "es": ""
                     }
                 },
@@ -565,7 +545,7 @@
                     "name": "AnkiDroid",
                     "remark": "personal",
                     "description": {
-                        "en": "study and synchronisize flashcards in Anki",
+                        "en": "study and synchronize flashcards in Anki",
                         "nl": "studeer en synchroniseer flashcards in Anki",
                         "es": ""
                     }

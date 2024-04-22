@@ -138,14 +138,8 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="96" src="icons/org.fossify.calendar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><img alt="icon" width="96" src="icons/ws.xsoh.etar.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><strong>Etar</strong></a><br>
-</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="96" src="icons/at.bitfire.icsdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="96" src="icons/saschpe.contactevents.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong>Birthday Adapter</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="96" src="icons/at.bitfire.davdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>

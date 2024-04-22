@@ -24,7 +24,7 @@ install apps from the F-Droid app store</td></tr>
 manage phone calls</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="96" src="icons/org.fossify.contacts.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
-manage contacts in CardDAV</td></tr>
+manage contacts, also from CardDAV</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="96" src="icons/eu.darken.capod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
 use in-ear devices such as AirPods and Beats</td></tr>
@@ -93,7 +93,7 @@ video conference</td></tr>
 <tr><th colspan="2"><br>Files</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="96" src="icons/org.fossify.filemanager.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
-manage files and view PDF files</td></tr>
+manage files, also viewing PDF files</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="96" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
 synchronize files with Nextcloud</td></tr>
@@ -147,31 +147,25 @@ encrypt and decrypt texts and files for K-9 Mail, etc.</td></tr>
 <tr><th colspan="2"><br>Calendars and Tasks</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="96" src="icons/org.fossify.calendar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
-manage calendars in CalDAV</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><img alt="icon" width="96" src="icons/ws.xsoh.etar.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><strong>Etar</strong></a><br>
-manage calendars in CalDAV</td></tr>
+manage calendars, also showing holidays and birthdays</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="96" src="icons/at.bitfire.icsdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-add network calendars in ICS format to Fossify Calendar and Etar (see also the <a target="_blank" href="https://www.thunderbird.net/en-US/calendar/holidays/">Thunderbird Holiday Calendars</a>)</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="96" src="icons/saschpe.contactevents.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong>Birthday Adapter</strong></a><br>
-add birthdays from address book to Etar (see also for <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>), note that Fossify Calendar supprts birthdays directly</td></tr>
+add network calendars in ICS format</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="96" src="icons/at.bitfire.davdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
-synchronize calendars, tasks and contacts in CalDAV and CardDav (see also for <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/">Thunderbird</a>)</td></tr>
+synchronize calendars, tasks and contacts in CalDAV and CardDav</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><img alt="icon" width="96" src="icons/com.woefe.shoppinglist.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><strong>Shopping List</strong></a><br>
 manage tasks in files</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="96" src="icons/org.fossify.notes.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
-manage tasks locally</td></tr>
+manage tasks, only locally</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="96" src="icons/org.tasks.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
 manage tasks in CalDAV</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><img alt="icon" width="96" src="icons/com.ichi2.anki.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><strong>AnkiDroid</strong></a><br>
-study and synchronisize flashcards in Anki</td></tr>
+study and synchronize flashcards in Anki</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.owncloud.notes"><img alt="icon" width="96" src="icons/it.niedermann.owncloud.notes.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.owncloud.notes"><strong>Notes</strong></a><br>
 manage and synchronize notes with Nextcloud</td></tr>

@@ -24,7 +24,7 @@ installeer apps uit de F-Droid appstore</td></tr>
 beheer telefoongesprekken</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="96" src="icons/org.fossify.contacts.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
-beheer contacten in CardDAV</td></tr>
+beheer contacten, ook van CardDAV</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="96" src="icons/eu.darken.capod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
 gebruik oortjes zoals AirPods en Beats</td></tr>
@@ -93,7 +93,7 @@ videoconferentie</td></tr>
 <tr><th colspan="2"><br>Bestanden</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="96" src="icons/org.fossify.filemanager.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
-beheer bestanden en bekijk PDF-bestanden</td></tr>
+beheer bestanden, ook bekijken PDF-bestanden</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="96" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
 synchroniseer bestanden met Nextcloud</td></tr>
@@ -147,25 +147,19 @@ versleutel en ontsleutel teksten en bestanden voor K-9 Mail, etc.</td></tr>
 <tr><th colspan="2"><br>Kalenders en taken</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="96" src="icons/org.fossify.calendar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
-beheer kalenders in CalDAV</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><img alt="icon" width="96" src="icons/ws.xsoh.etar.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><strong>Etar</strong></a><br>
-beheer kalenders in CalDAV</td></tr>
+beheer kalenders, ook tonen feestdagen en verjaardagen</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="96" src="icons/at.bitfire.icsdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-voeg netwerkkalenders in ICS-formaat toe aan Fossify Calendar en Etar (zie ook de <a target="_blank" href="https://www.thunderbird.net/en-US/calendar/holidays/">Thunderbird Vakantiekalenders</a>)</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="96" src="icons/saschpe.contactevents.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong>Birthday Adapter</strong></a><br>
-voeg verjaardagen uit adresboek toe aan Etar (zie ook voor <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>), weet dat Fossify Calendar direct verjaardagen ondersteunt</td></tr>
+voeg netwerkkalenders in ICS-formaat toe</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="96" src="icons/at.bitfire.davdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
-synchroniseer kalenders, taken en contacten in CalDAV en CardDav (zie ook voor <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/">Thunderbird</a>)</td></tr>
+synchroniseer kalenders, taken en contacten in CalDAV en CardDav</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><img alt="icon" width="96" src="icons/com.woefe.shoppinglist.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><strong>Shopping List</strong></a><br>
 beheer taken in bestanden</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="96" src="icons/org.fossify.notes.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
-beheer taken lokaal</td></tr>
+beheer taken, alleen lokaal</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="96" src="icons/org.tasks.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
 beheer taken in CalDAV</td></tr>
