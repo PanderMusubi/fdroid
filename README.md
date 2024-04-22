@@ -69,18 +69,12 @@ video conference with Nextcloud</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><img alt="icon" width="96" src="icons/org.telegram.messenger.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><strong>Telegram</strong></a><br>
 instant messaging, voice and video calling</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><img alt="icon" width="96" src="icons/io.kuenzler.whatsappwebtogo.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.kuenzler.whatsappwebtogo"><strong>WhatsApp Web To Go</strong></a><br>
-web Whatsapp</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><img alt="icon" width="96" src="icons/im.vector.app.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><strong>Element</strong></a><br>
 instant messaging with Matrix</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><img alt="icon" width="96" src="icons/eu.siacs.conversations.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><strong>Conversations</strong></a><br>
 instant messaging with XMPP</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.example.deeplviewer"><img alt="icon" width="96" src="icons/com.example.deeplviewer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.example.deeplviewer"><strong>DeepL</strong></a><br>
-translate with DeepL, also on selected text</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.heckel.ntfy"><img alt="icon" width="96" src="icons/io.heckel.ntfy.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.heckel.ntfy"><strong>nfty</strong></a><br>
 receive push notifications</td></tr>

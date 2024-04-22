@@ -213,16 +213,6 @@
                     }
                 },
                 {
-                    "id": "io.kuenzler.whatsappwebtogo",
-                    "name": "WhatsApp Web To Go",
-                    "remark": "optional",
-                    "description": {
-                        "en": "web Whatsapp",
-                        "nl": "web Whatsapp",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "im.vector.app",
                     "name": "Element",
                     "remark": "optional",
@@ -239,15 +229,6 @@
                     "description": {
                         "en": "instant messaging with XMPP",
                         "nl": "instant messaging met XMPP",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.example.deeplviewer",
-                    "name": "DeepL",
-                    "description": {
-                        "en": "translate with DeepL, also on selected text",
-                        "nl": "vertaal met DeepL, ook op geselecteerde tekst",
                         "es": ""
                     }
                 },
