@@ -93,7 +93,7 @@ videoconferentie</td></tr>
 <tr><th colspan="2"><br>Bestanden</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="96" src="icons/org.fossify.filemanager.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
-beheer bestanden</td></tr>
+beheer bestanden en bekijk PDF-bestanden</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="96" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
 synchroniseer bestanden met Nextcloud</td></tr>
@@ -112,9 +112,6 @@ beheer diskgebruik</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><img alt="icon" width="96" src="icons/at.tomtasche.reader.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><strong>LibreOffice document reader</strong></a><br>
 bekijk bestanden LibreOffice</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="96" src="icons/com.gsnathan.pdfviewer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
-bekijk PDF-bestanden (niet nodig als Fossify File Manager geïnstalleerd is)</td></tr>
 <tr><th colspan="2"><br>Video en afbeeldingen</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="96" src="icons/org.fossify.gallery.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><strong>Fossify Gallery</strong></a><br>

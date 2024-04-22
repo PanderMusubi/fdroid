@@ -295,8 +295,8 @@
                     "name": "Fossify File Manager",
                     "remark": "lineageos",
                     "description": {
-                        "en": "manage files",
-                        "nl": "beheer bestanden",
+                        "en": "manage files and view PDF files",
+                        "nl": "beheer bestanden en bekijk PDF-bestanden",
                         "es": ""
                     }
                 },
@@ -356,15 +356,6 @@
                     "description": {
                         "en": "view LibreOffice files",
                         "nl": "bekijk bestanden LibreOffice",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.gsnathan.pdfviewer",
-                    "name": "Pdf Viewer Plus",
-                    "description": {
-                        "en": "view PDF files (not needed when Fossify File Manager is installed)",
-                        "nl": "bekijk PDF-bestanden (niet nodig als Fossify File Manager geïnstalleerd is)",
                         "es": ""
                     }
                 }

@@ -102,9 +102,6 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><img alt="icon" width="96" src="icons/at.tomtasche.reader.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.tomtasche.reader"><strong>LibreOffice document reader</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="96" src="icons/com.gsnathan.pdfviewer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
-</td></tr>
 <tr><th colspan="2"><br></th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="96" src="icons/org.fossify.gallery.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><strong>Fossify Gallery</strong></a><br>
