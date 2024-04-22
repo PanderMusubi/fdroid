@@ -33,8 +33,8 @@
                     }
                 },
                 {
-                    "id": "com.simplemobiletools.dialer",
-                    "name": "Simple Dialer",
+                    "id": "org.fossify.phone",
+                    "name": "Fossify Phone",
                     "description": {
                         "en": "manage phone calls",
                         "nl": "beheer telefoongesprekken",
@@ -42,22 +42,12 @@
                     }
                 },
                 {
-                    "id": "com.simplemobiletools.contacts.pro",
-                    "name": "Simple Contacts Pro",
+                    "id": "org.fossify.contacts",
+                    "name": "Fossify Contacts",
                     "remark": "lineageos",
                     "description": {
                         "en": "manage contacts in CardDAV",
                         "nl": "beheer contacten in CardDAV",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.simplemobiletools.calculator",
-                    "name": "Simple Calculator",
-                    "remark": "lineageos",
-                    "description": {
-                        "en": "make calculations",
-                        "nl": "make berekeningen",
                         "es": ""
                     }
                 },
@@ -68,16 +58,6 @@
                     "description": {
                         "en": "use in-ear devices such as AirPods and Beats",
                         "nl": "gebruik oortjes zoals AirPods en Beats",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.simplemobiletools.keyboard",
-                    "name": "Simple Keyboard",
-                    "remark": "secondary",
-                    "description": {
-                        "en": "type with autocompletion keyboard",
-                        "nl": "type met automatisch aanvullend toetsenbord",
                         "es": ""
                     }
                 },
@@ -200,12 +180,12 @@
             },
             "apps": [
                 {
-                    "id": "com.simplemobiletools.smsmessenger",
-                    "name": "Simple SMS Messenger",
+                    "id": "org.fossify.messenges",
+                    "name": "Fossify SMS Messenger",
                     "remark": "todo",
                     "description": {
-                        "en": "manage SMS messages",
-                        "nl": "beheer SMS-berichten",
+                        "en": "manage SMS/MMS messages",
+                        "nl": "beheer SMS/MMS-berichten",
                         "es": ""
                     }
                 },
@@ -330,8 +310,8 @@
             },
             "apps": [
                 {
-                    "id": "com.simplemobiletools.filemanager.pro",
-                    "name": "Simple File Manager Pro",
+                    "id": "org.fossify.filemanager",
+                    "name": "Fossify File Manager",
                     "remark": "lineageos",
                     "description": {
                         "en": "manage files",
@@ -402,8 +382,8 @@
                     "id": "com.gsnathan.pdfviewer",
                     "name": "Pdf Viewer Plus",
                     "description": {
-                        "en": "view PDF files (not needed when Simple File Manager Pro is installed)",
-                        "nl": "bekijk PDF-bestanden (niet nodig als Simple File Manager Pro geïnstalleerd is)",
+                        "en": "view PDF files (not needed when Fossify File Manager is installed)",
+                        "nl": "bekijk PDF-bestanden (niet nodig als Fossify File Manager geïnstalleerd is)",
                         "es": ""
                     }
                 }
@@ -417,22 +397,22 @@
             },
             "apps": [
                 {
-                    "id": "com.simplemobiletools.camera",
-                    "name": "Simple Camera",
-                    "remark": "todolineageos",
-                    "description": {
-                        "en": "make photographs and videos",
-                        "nl": "maak foto's en video's",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.simplemobiletools.gallery.pro",
-                    "name": "Simple Gallery Pro",
+                    "id": "org.fossify.gallery",
+                    "name": "Fossify Gallery",
                     "remark": "lineageos",
                     "description": {
                         "en": "manage images and videos",
                         "nl": "beheer afbeeldingen en video's",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.iakmds.librecamera",
+                    "name": "Libre Camera",
+                    "remark": "todolineageos",
+                    "description": {
+                        "en": "make photographs and videos",
+                        "nl": "maak foto's en video's",
                         "es": ""
                     }
                 },
@@ -529,8 +509,8 @@
             },
             "apps": [
                 {
-                    "id": "com.simplemobiletools.calendar.pro",
-                    "name": "Simple Calendar Pro",
+                    "id": "org.fossify.calendar",
+                    "name": "Fossify Calendar",
                     "remark": "secondary",
                     "description": {
                         "en": "manage calendars in CalDAV",
@@ -553,8 +533,8 @@
                     "name": "ICSx⁵",
                     "remark": "personal",
                     "description": {
-                        "en": "add network calendars in ICS format to Simple Calendar Pro and Etar (see also the <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
-                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Simple Calendar Pro en Etar (zie ook de <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
+                        "en": "add network calendars in ICS format to Fossify Calendar and Etar (see also the <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Holiday Calendars</a>)",
+                        "nl": "voeg netwerkkalenders in ICS-formaat toe aan Fossify Calendar en Etar (zie ook de <a target=\"_blank\" href=\"https://www.thunderbird.net/en-US/calendar/holidays/\">Thunderbird Vakantiekalenders</a>)",
                         "es": ""
                     }
                 },
@@ -563,8 +543,8 @@
                     "name": "Birthday Adapter",
                     "remark": "personal",
                     "description": {
-                        "en": "add birthdays from address book to Simple Calendar Pro and Etar (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
-                        "nl": "voeg verjaardagen uit adresboek toe aan Simple Calendar Pro en Etar (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>)",
+                        "en": "add birthdays from address book to Etar (see also for <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>), note that Fossify Calendar supprts birthdays directly",
+                        "nl": "voeg verjaardagen uit adresboek toe aan Etar (zie ook voor <a target=\"_blank\" href=\"https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/\">Thunderbird</a>), weet dat Fossify Calendar direct verjaardagen ondersteunt",
                         "es": ""
                     }
                 },
@@ -589,12 +569,12 @@
                     }
                 },
                 {
-                    "id": "com.simplemobiletools.notes.pro",
-                    "name": "Simple Notes Pro",
+                    "id": "org.fossify.notes",
+                    "name": "Fossify Notes",
                     "remark": "secondary",
                     "description": {
-                        "en": "manage tasks in CalDAV",
-                        "nl": "beheer taken in CalDAV",
+                        "en": "manage tasks locally",
+                        "nl": "beheer taken lokaal",
                         "es": ""
                     }
                 },
@@ -648,8 +628,8 @@
             },
             "apps": [
                 {
-                    "id": "com.simplemobiletools.voicerecorder",
-                    "name": "Simple Voice Recorder",
+                    "id": "org.fossify.voicerecorder",
+                    "name": "Fossify Voice Recorder",
                     "remark": "lineageos",
                     "description": {
                         "en": "make audio recordings",
@@ -658,8 +638,8 @@
                     }
                 },
                 {
-                    "id": "com.simplemobiletools.musicplayer",
-                    "name": "Simple Music Player",
+                    "id": "org.fossify.musicplayer",
+                    "name": "Fossify Music Player",
                     "remark": "lineageos",
                     "description": {
                         "en": "play music files",

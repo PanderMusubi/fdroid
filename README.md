@@ -19,21 +19,15 @@ Some of the apps listed here cost money in Google Play but are gratis on F-Droid
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><img alt="icon" width="96" src="icons/org.fdroid.fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><strong>F-Droid</strong></a><br>
 install apps from the F-Droid app store</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.dialer"><img alt="icon" width="96" src="icons/com.simplemobiletools.dialer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.dialer"><strong>Simple Dialer</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><img alt="icon" width="96" src="icons/org.fossify.phone.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><strong>Fossify Phone</strong></a><br>
 manage phone calls</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.contacts.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro"><strong>Simple Contacts Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="96" src="icons/org.fossify.contacts.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
 manage contacts in CardDAV</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><img alt="icon" width="96" src="icons/com.simplemobiletools.calculator.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><strong>Simple Calculator</strong></a><br>
-make calculations</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="96" src="icons/eu.darken.capod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
 use in-ear devices such as AirPods and Beats</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><img alt="icon" width="96" src="icons/com.simplemobiletools.keyboard.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><strong>Simple Keyboard</strong></a><br>
-type with autocompletion keyboard</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="96" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><strong>AnySoftKeyboard</strong></a><br>
 type with autocompletion keyboard</td></tr>
@@ -66,9 +60,9 @@ manage and synchronize passwords with Nextcloud</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.nxbookmarks"><strong>Nextcloud Bookmarks</strong></a><br>
 manage and synchronize bookmarks with Nextcloud</td></tr>
 <tr><th colspan="2"><br>Messaging and Communication</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger"><img alt="icon" width="96" src="icons/com.simplemobiletools.smsmessenger.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger"><strong>Simple SMS Messenger</strong></a><br>
-manage SMS messages</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messenges"><img alt="icon" width="96" src="icons/org.fossify.messenges.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messenges"><strong>Fossify SMS Messenger</strong></a><br>
+manage SMS/MMS messages</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><img alt="icon" width="96" src="icons/com.nextcloud.talk2.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><strong>Nextcloud Talk</strong></a><br>
 video conference with Nextcloud</td></tr>
@@ -103,8 +97,8 @@ stream audio and/or video between two devices</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
 video conference</td></tr>
 <tr><th colspan="2"><br>Files</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.filemanager.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><strong>Simple File Manager Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="96" src="icons/org.fossify.filemanager.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
 manage files</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="96" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
@@ -126,14 +120,14 @@ manage disk usage</td></tr>
 view LibreOffice files</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><img alt="icon" width="96" src="icons/com.gsnathan.pdfviewer.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
-view PDF files (not needed when Simple File Manager Pro is installed)</td></tr>
+view PDF files (not needed when Fossify File Manager is installed)</td></tr>
 <tr><th colspan="2"><br>Video and Images</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><img alt="icon" width="96" src="icons/com.simplemobiletools.camera.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><strong>Simple Camera</strong></a><br>
-make photographs and videos</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.gallery.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro"><strong>Simple Gallery Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="96" src="icons/org.fossify.gallery.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><strong>Fossify Gallery</strong></a><br>
 manage images and videos</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.iakmds.librecamera"><img alt="icon" width="96" src="icons/com.iakmds.librecamera.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.iakmds.librecamera"><strong>Libre Camera</strong></a><br>
+make photographs and videos</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><img alt="icon" width="96" src="icons/org.schabi.newpipe.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><strong>NewPipe</strong></a><br>
 play YouTube, SoundCloud, Bandcamp, etc. content as video or audio, also in the background</td></tr>
@@ -160,27 +154,27 @@ send and receive emails</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><strong>OpenKeychain</strong></a><br>
 encrypt and decrypt texts and files for K-9 Mail, etc.</td></tr>
 <tr><th colspan="2"><br>Calendars and Tasks</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.calendar.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro"><strong>Simple Calendar Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="96" src="icons/org.fossify.calendar.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
 manage calendars in CalDAV</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><img alt="icon" width="96" src="icons/ws.xsoh.etar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><strong>Etar</strong></a><br>
 manage calendars in CalDAV</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="96" src="icons/at.bitfire.icsdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-add network calendars in ICS format to Simple Calendar Pro and Etar (see also the <a target="_blank" href="https://www.thunderbird.net/en-US/calendar/holidays/">Thunderbird Holiday Calendars</a>)</td></tr>
+add network calendars in ICS format to Fossify Calendar and Etar (see also the <a target="_blank" href="https://www.thunderbird.net/en-US/calendar/holidays/">Thunderbird Holiday Calendars</a>)</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="96" src="icons/saschpe.contactevents.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong>Birthday Adapter</strong></a><br>
-add birthdays from address book to Simple Calendar Pro and Etar (see also for <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>)</td></tr>
+add birthdays from address book to Etar (see also for <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/thunderbirthday/">Thunderbird</a>), note that Fossify Calendar supprts birthdays directly</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="96" src="icons/at.bitfire.davdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
 synchronize calendars, tasks and contacts in CalDAV and CardDav (see also for <a target="_blank" href="https://addons.thunderbird.net/en-US/thunderbird/addon/dav-4-tbsync/">Thunderbird</a>)</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><img alt="icon" width="96" src="icons/com.woefe.shoppinglist.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><strong>Shopping List</strong></a><br>
 manage tasks in files</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.notes.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.notes.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.notes.pro"><strong>Simple Notes Pro</strong></a><br>
-manage tasks in CalDAV</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="96" src="icons/org.fossify.notes.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
+manage tasks locally</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="96" src="icons/org.tasks.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
 manage tasks in CalDAV</td></tr>
@@ -194,11 +188,11 @@ manage and synchronize notes with Nextcloud</td></tr>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.nextcloud.deck"><strong>Nextcloud Deck</strong></a><br>
 manage and synchronize kanban cards with Nextcloud</td></tr>
 <tr><th colspan="2"><br>Audio</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder"><img alt="icon" width="96" src="icons/com.simplemobiletools.voicerecorder.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder"><strong>Simple Voice Recorder</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><img alt="icon" width="96" src="icons/org.fossify.voicerecorder.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><strong>Fossify Voice Recorder</strong></a><br>
 make audio recordings</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.musicplayer"><img alt="icon" width="96" src="icons/com.simplemobiletools.musicplayer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.musicplayer"><strong>Simple Music Player</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.musicplayer"><img alt="icon" width="96" src="icons/org.fossify.musicplayer.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.musicplayer"><strong>Fossify Music Player</strong></a><br>
 play music files</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ch.blinkenlights.android.vanilla"><img alt="icon" width="96" src="icons/ch.blinkenlights.android.vanilla.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ch.blinkenlights.android.vanilla"><strong>Vanilla Music</strong></a><br>

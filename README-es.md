@@ -9,20 +9,14 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><img alt="icon" width="96" src="icons/org.fdroid.fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><strong>F-Droid</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.dialer"><img alt="icon" width="96" src="icons/com.simplemobiletools.dialer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.dialer"><strong>Simple Dialer</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><img alt="icon" width="96" src="icons/org.fossify.phone.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><strong>Fossify Phone</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.contacts.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro"><strong>Simple Contacts Pro</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><img alt="icon" width="96" src="icons/com.simplemobiletools.calculator.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calculator"><strong>Simple Calculator</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="96" src="icons/org.fossify.contacts.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="96" src="icons/eu.darken.capod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><img alt="icon" width="96" src="icons/com.simplemobiletools.keyboard.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.keyboard"><strong>Simple Keyboard</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="96" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><strong>AnySoftKeyboard</strong></a><br>
@@ -56,8 +50,8 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.nxbookmarks"><strong>Nextcloud Bookmarks</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger"><img alt="icon" width="96" src="icons/com.simplemobiletools.smsmessenger.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger"><strong>Simple SMS Messenger</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messenges"><img alt="icon" width="96" src="icons/org.fossify.messenges.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messenges"><strong>Fossify SMS Messenger</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><img alt="icon" width="96" src="icons/com.nextcloud.talk2.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><strong>Nextcloud Talk</strong></a><br>
@@ -93,8 +87,8 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.filemanager.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro"><strong>Simple File Manager Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="96" src="icons/org.fossify.filemanager.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="96" src="icons/com.nextcloud.client.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
@@ -118,11 +112,11 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.gsnathan.pdfviewer"><strong>Pdf Viewer Plus</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><img alt="icon" width="96" src="icons/com.simplemobiletools.camera.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.camera"><strong>Simple Camera</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="96" src="icons/org.fossify.gallery.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><strong>Fossify Gallery</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.gallery.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro"><strong>Simple Gallery Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.iakmds.librecamera"><img alt="icon" width="96" src="icons/com.iakmds.librecamera.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.iakmds.librecamera"><strong>Libre Camera</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><img alt="icon" width="96" src="icons/org.schabi.newpipe.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><strong>NewPipe</strong></a><br>
@@ -150,8 +144,8 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><strong>OpenKeychain</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.calendar.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro"><strong>Simple Calendar Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="96" src="icons/org.fossify.calendar.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><img alt="icon" width="96" src="icons/ws.xsoh.etar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ws.xsoh.etar"><strong>Etar</strong></a><br>
@@ -168,8 +162,8 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><img alt="icon" width="96" src="icons/com.woefe.shoppinglist.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.woefe.shoppinglist"><strong>Shopping List</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.notes.pro"><img alt="icon" width="96" src="icons/com.simplemobiletools.notes.pro.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.notes.pro"><strong>Simple Notes Pro</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="96" src="icons/org.fossify.notes.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="96" src="icons/org.tasks.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
@@ -184,11 +178,11 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.nextcloud.deck"><strong>Nextcloud Deck</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder"><img alt="icon" width="96" src="icons/com.simplemobiletools.voicerecorder.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder"><strong>Simple Voice Recorder</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><img alt="icon" width="96" src="icons/org.fossify.voicerecorder.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><strong>Fossify Voice Recorder</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.musicplayer"><img alt="icon" width="96" src="icons/com.simplemobiletools.musicplayer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.simplemobiletools.musicplayer"><strong>Simple Music Player</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.musicplayer"><img alt="icon" width="96" src="icons/org.fossify.musicplayer.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.musicplayer"><strong>Fossify Music Player</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ch.blinkenlights.android.vanilla"><img alt="icon" width="96" src="icons/ch.blinkenlights.android.vanilla.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ch.blinkenlights.android.vanilla"><strong>Vanilla Music</strong></a><br>
