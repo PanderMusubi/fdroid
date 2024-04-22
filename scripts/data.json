@@ -444,8 +444,8 @@
                     }
                 },
                 {
-                    "id": "org.videolan.vlc",
-                    "name": "VLC",
+                    "id": "is.xyz.mpv",
+                    "name": "MPV",
                     "description": {
                         "en": "play video or audio from files or streams",
                         "nl": "speel video of audio af van bestanden of streams",
@@ -767,16 +767,6 @@
                     }
                 },
                 {
-                    "id": "de.westnordost.streetcomplete",
-                    "name": "StreetComplete",
-                    "remark": "optional",
-                    "description": {
-                        "en": "extend OpenStreetMap in an easy way",
-                        "nl": "vul OpenStreetMap op een eenvoudige manier aan",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "net.vonforst.evmap",
                     "name": "EVMap",
                     "remark": "optional",
@@ -835,21 +825,20 @@
                     }
                 },
                 {
+                    "id": "org.nuclearfog.twidda",
+                    "name": "Shitter",
+                    "description": {
+                        "en": "Mastodon",
+                        "nl": "Mastodon",
+                        "es": "Mastodon"
+                    }
+                },
+                {
                     "id": "com.twidere.twiderex",
                     "name": "Twidere X",
                     "description": {
                         "en": "Mastodon, etc.",
                         "nl": "Mastodon, etc.",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.pitchedapps.frost",
-                    "name": "Frost for Facebook",
-                    "remark": "personal",
-                    "description": {
-                        "en": "Facebook",
-                        "nl": "Facebook",
                         "es": ""
                     }
                 },
@@ -908,24 +897,6 @@
                     "description": {
                         "en": "wallet cryptocurrency Dash",
                         "nl": "portemonnee cryptovaluta Dash",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.dash.electrum.electrum_dash",
-                    "name": "Dash Electrum",
-                    "description": {
-                        "en": "wallet cryptocurrency Dash",
-                        "nl": "portemonnee cryptovaluta Dash",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.walleth",
-                    "name": "WallETH",
-                    "description": {
-                        "en": "wallet cryptocurrency Ethereum",
-                        "nl": "portemonnee cryptovaluta Ethereum",
                         "es": ""
                     }
                 }

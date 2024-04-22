@@ -127,8 +127,8 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><img alt="icon" width="96" src="icons/com.github.niqdev.ipcam.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><strong>IPCam Demo</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.videolan.vlc"><img alt="icon" width="96" src="icons/org.videolan.vlc.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.videolan.vlc"><strong>VLC</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/is.xyz.mpv"><img alt="icon" width="96" src="icons/is.xyz.mpv.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/is.xyz.mpv"><strong>MPV</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kodi"><img alt="icon" width="96" src="icons/org.xbmc.kodi.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kodi"><strong>Kodi</strong></a><br>
@@ -218,9 +218,6 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.grobox.liberario"><img alt="icon" width="96" src="icons/de.grobox.liberario.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.grobox.liberario"><strong>Transportr</strong></a><br>
 </td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete"><img alt="icon" width="96" src="icons/de.westnordost.streetcomplete.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.westnordost.streetcomplete"><strong>StreetComplete</strong></a><br>
-</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><img alt="icon" width="96" src="icons/net.vonforst.evmap.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><strong>EVMap</strong></a><br>
 </td></tr>
@@ -237,11 +234,11 @@ _🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.keylesspalace.tusky"><img alt="icon" width="96" src="icons/com.keylesspalace.tusky.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.keylesspalace.tusky"><strong>Tusky</strong></a><br>
 Mastodon</td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.nuclearfog.twidda"><img alt="icon" width="96" src="icons/org.nuclearfog.twidda.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.nuclearfog.twidda"><strong>Shitter</strong></a><br>
+Mastodon</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.twidere.twiderex"><img alt="icon" width="96" src="icons/com.twidere.twiderex.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.twidere.twiderex"><strong>Twidere X</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.pitchedapps.frost"><img alt="icon" width="96" src="icons/com.pitchedapps.frost.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.pitchedapps.frost"><strong>Frost for Facebook</strong></a><br>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><img alt="icon" width="96" src="icons/it.rignanese.leo.slimfacebook.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook"><strong>SlimSocial for Facebook</strong></a><br>
@@ -258,12 +255,6 @@ Mastodon</td></tr>
 </td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><img alt="icon" width="96" src="icons/hashengineering.darkcoin.wallet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><strong>Dash Wallet</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.dash.electrum.electrum_dash"><img alt="icon" width="96" src="icons/org.dash.electrum.electrum_dash.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.dash.electrum.electrum_dash"><strong>Dash Electrum</strong></a><br>
-</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.walleth"><img alt="icon" width="96" src="icons/org.walleth.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.walleth"><strong>WallETH</strong></a><br>
 </td></tr>
 <tr><th colspan="2"><br></th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ch.protonvpn.android"><img alt="icon" width="96" src="icons/ch.protonvpn.android.png"></a></td>
