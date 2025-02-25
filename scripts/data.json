@@ -321,22 +321,12 @@
                     }
                 },
                 {
-                    "id": "com.nutomic.syncthingandroid",
-                    "name": "Syncthing",
+                    "id": "com.github.catfriend1.syncthingandroid",
+                    "name": "Syncthing-Fork",
                     "remark": "personal",
                     "description": {
                         "en": "synchronize and backup files",
                         "nl": "synchroniseer en back-up bestanden",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.github.catfriend1.syncthingandroid",
-                    "name": "Syncthing-Fork",
-                    "remark": "secondary",
-                    "description": {
-                        "en": "synchronize and backup files with extra features",
-                        "nl": "synchroniseer en back-up bestanden met extra features",
                         "es": ""
                     }
                 },

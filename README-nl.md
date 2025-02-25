@@ -100,12 +100,9 @@ synchroniseer bestanden met Nextcloud</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.vauvenal5.yaga"><img alt="icon" width="96" src="icons/com.github.vauvenal5.yaga.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.vauvenal5.yaga"><strong>Yaga</strong></a><br>
 beheer en synchroniseer fotoalbums met Nextcloud</td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><img alt="icon" width="96" src="icons/com.nutomic.syncthingandroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nutomic.syncthingandroid"><strong>Syncthing</strong></a><br>
-synchroniseer en back-up bestanden</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><img alt="icon" width="96" src="icons/com.github.catfriend1.syncthingandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><strong>Syncthing-Fork</strong></a><br>
-synchroniseer en back-up bestanden met extra features</td></tr>
+synchroniseer en back-up bestanden</td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="96" src="icons/com.google.android.diskusage.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
 beheer diskgebruik</td></tr>
