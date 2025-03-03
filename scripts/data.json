@@ -52,32 +52,12 @@
                     }
                 },
                 {
-                    "id": "eu.darken.capod",
-                    "name": "CAPod",
-                    "remark": "optional",
-                    "description": {
-                        "en": "use in-ear devices such as AirPods and Beats",
-                        "nl": "gebruik oortjes zoals AirPods en Beats",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "com.menny.android.anysoftkeyboard",
                     "name": "AnySoftKeyboard",
                     "remark": "advised",
                     "description": {
                         "en": "type with autocompletion keyboard",
                         "nl": "type met automatisch aanvullend toetsenbord",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "nodomain.freeyourgadget.gadgetbridge",
-                    "name": "Gadgetbridge",
-                    "remark": "optional",
-                    "description": {
-                        "en": "connect with heart rate monitors, ear buds and more",
-                        "nl": "verbind met hartslagmonitors, draadloze oortjes en meer",
                         "es": ""
                     }
                 },
@@ -108,6 +88,94 @@
                     "description": {
                         "en": "send sms with location after period of inactivity",
                         "nl": "verstuur sms met locatie na periode van inactiviteit",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Files",
+                "nl": "Bestanden",
+                "es": ""
+            },
+            "apps": [
+                {
+                    "id": "org.fossify.filemanager",
+                    "name": "Fossify File Manager",
+                    "remark": "lineageos",
+                    "description": {
+                        "en": "manage files, also viewing PDF files",
+                        "nl": "beheer bestanden, ook bekijken PDF-bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.nextcloud.client",
+                    "name": "Nextcloud",
+                    "remark": "nextcloud",
+                    "description": {
+                        "en": "synchronize files with Nextcloud",
+                        "nl": "synchroniseer bestanden met Nextcloud",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.github.vauvenal5.yaga",
+                    "name": "Yaga",
+                    "remark": "nextcloud",
+                    "description": {
+                        "en": "manage and synchronize picture albums with Nextcloud",
+                        "nl": "beheer en synchroniseer fotoalbums met Nextcloud",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.github.catfriend1.syncthingandroid",
+                    "name": "Syncthing-Fork",
+                    "remark": "personal",
+                    "description": {
+                        "en": "synchronize and backup files",
+                        "nl": "synchroniseer en back-up bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.google.android.diskusage",
+                    "name": "DiskUsage",
+                    "remark": "essential",
+                    "description": {
+                        "en": "manage disk usage",
+                        "nl": "beheer diskgebruik",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Peripherals",
+                "nl": "Randapparaten",
+                "es": "dispositivos periféricos"
+            },
+            "apps": [
+                {
+                    "id": "eu.darken.capod",
+                    "name": "CAPod",
+                    "remark": "optional",
+                    "description": {
+                        "en": "use in-ear devices such as AirPods and Beats",
+                        "nl": "gebruik oortjes zoals AirPods en Beats",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "nodomain.freeyourgadget.gadgetbridge",
+                    "name": "Gadgetbridge",
+                    "remark": "optional",
+                    "description": {
+                        "en": "connect with heart rate monitors, ear buds and more",
+                        "nl": "verbind met hartslagmonitors, draadloze oortjes en meer",
                         "es": ""
                     }
                 }
@@ -151,8 +219,8 @@
                     }
                 },
                 {
-                    "id": "com.nextcloudpasswords",
-                    "name": "NextcloudPasswords",
+                    "id": "com.hegocre.nextcloudpasswords",
+                    "name": "Nextcloud Passwords",
                     "remark": "nextcloud",
                     "description": {
                         "en": "manage and synchronize passwords with Nextcloud",
@@ -180,7 +248,7 @@
             },
             "apps": [
                 {
-                    "id": "org.fossify.messenges",
+                    "id": "org.fossify.messages",
                     "name": "Fossify SMS Messenger",
                     "remark": "todo",
                     "description": {
@@ -243,16 +311,6 @@
                     }
                 },
                 {
-                    "id": "com.github.gotify",
-                    "name": "Gotify",
-                    "remark": "secondary",
-                    "description": {
-                        "en": "receive push notifications",
-                        "nl": "ontvang push-notificaties",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "org.linphone",
                     "name": "Linphone",
                     "remark": "optional",
@@ -278,74 +336,6 @@
                     "description": {
                         "en": "video conference",
                         "nl": "videoconferentie",
-                        "es": ""
-                    }
-                }
-            ]
-        },
-        {
-            "name": {
-                "en": "Files",
-                "nl": "Bestanden",
-                "es": ""
-            },
-            "apps": [
-                {
-                    "id": "org.fossify.filemanager",
-                    "name": "Fossify File Manager",
-                    "remark": "lineageos",
-                    "description": {
-                        "en": "manage files, also viewing PDF files",
-                        "nl": "beheer bestanden, ook bekijken PDF-bestanden",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.nextcloud.client",
-                    "name": "Nextcloud",
-                    "remark": "nextcloud",
-                    "description": {
-                        "en": "synchronize files with Nextcloud",
-                        "nl": "synchroniseer bestanden met Nextcloud",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.github.vauvenal5.yaga",
-                    "name": "Yaga",
-                    "remark": "nextcloud",
-                    "description": {
-                        "en": "manage and synchronize picture albums with Nextcloud",
-                        "nl": "beheer en synchroniseer fotoalbums met Nextcloud",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.github.catfriend1.syncthingandroid",
-                    "name": "Syncthing-Fork",
-                    "remark": "personal",
-                    "description": {
-                        "en": "synchronize and backup files",
-                        "nl": "synchroniseer en back-up bestanden",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.google.android.diskusage",
-                    "name": "DiskUsage",
-                    "remark": "essential",
-                    "description": {
-                        "en": "manage disk usage",
-                        "nl": "beheer diskgebruik",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "at.tomtasche.reader",
-                    "name": "LibreOffice document reader",
-                    "description": {
-                        "en": "view LibreOffice files",
-                        "nl": "bekijk bestanden LibreOffice",
                         "es": ""
                     }
                 }
@@ -442,8 +432,8 @@
             },
             "apps": [
                 {
-                    "id": "com.fsck.k9",
-                    "name": "K-9 Mail",
+                    "id": "net.thunderbird.android",
+                    "name": "Thunderbird",
                     "remark": "personal",
                     "description": {
                         "en": "send and receive emails",
@@ -456,8 +446,8 @@
                     "name": "OpenKeychain",
                     "remark": "personal",
                     "description": {
-                        "en": "encrypt and decrypt texts and files for K-9 Mail, etc.",
-                        "nl": "versleutel en ontsleutel teksten en bestanden voor K-9 Mail, etc.",
+                        "en": "encrypt and decrypt texts and files for Thunderbird, etc.",
+                        "nl": "versleutel en ontsleutel teksten en bestanden voor Thunderbird, etc.",
                         "es": ""
                     }
                 }
@@ -497,16 +487,6 @@
                     "description": {
                         "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav",
                         "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.woefe.shoppinglist",
-                    "name": "Shopping List",
-                    "remark": "personal",
-                    "description": {
-                        "en": "manage tasks in files",
-                        "nl": "beheer taken in bestanden",
                         "es": ""
                     }
                 },
@@ -648,16 +628,6 @@
                         "nl": "podcasts",
                         "es": ""
                     }
-                },
-                {
-                    "id": "com.shabinder.spotiflyer",
-                    "name": "SpotiFlyer",
-                    "remark": "optional",
-                    "description": {
-                        "en": "download from e.g. Spotify, SoundCloud, YouTube",
-                        "nl": "download van o.a. Spotify, SoundCloud, YouTube",
-                        "es": ""
-                    }
                 }
             ]
         },
@@ -715,16 +685,6 @@
                     "description": {
                         "en": "find electric vehicle chargers on OpenStreetMap",
                         "nl": "vind opladers voor elektrische auto's op OpenStreetMap",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.google.android.stardroid",
-                    "name": "Sky Map",
-                    "remark": "personal",
-                    "description": {
-                        "en": "explore stars, planets en meer in the sky",
-                        "nl": "verken sterren, planeten en meer in de hemel",
                         "es": ""
                     }
                 },
@@ -814,22 +774,12 @@
                     }
                 },
                 {
-                    "id": "eu.uwot.fabio.altcoinprices",
-                    "name": "Altcoin Prices",
+                    "id": "com.cointrend",
+                    "name": "CoinTrend",
                     "remark": "personal",
                     "description": {
-                        "en": "prices and portfolio cryptocurrencies",
-                        "nl": "prijzen en portfolio cryptovaluta's",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "de.cloneapps.crypto_prices",
-                    "name": "Crypto Prices",
-                    "remark": "personal",
-                    "description": {
-                        "en": "prices and portfolio cryptocurrencies",
-                        "nl": "prijzen en portfolio cryptovaluta's",
+                        "en": "monitor cryptocurrency prices and trends",
+                        "nl": "bekijk cryptovalutaprijzen en - trends",
                         "es": ""
                     }
                 },
@@ -895,16 +845,6 @@
                     "description": {
                         "en": "SSH and Telnet",
                         "nl": "SSH en Telnet",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "de.eidottermihi.raspicheck",
-                    "name": "Raspi Check",
-                    "remark": "personal",
-                    "description": {
-                        "en": "manage Raspberry Pis",
-                        "nl": "beheer Raspberry Pi's",
                         "es": ""
                     }
                 },
@@ -979,15 +919,6 @@
                     "description": {
                         "en": "track days of fertility with Knaus-Ogino method",
                         "nl": "houd vruchtbare dagen bij met Knaus-Oginomethode",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "flunzmas.seasoncalendar",
-                    "name": "Seasonal Foods Calendar",
-                    "description": {
-                        "en": "find regional seasonal foods from nearby produce",
-                        "nl": "vind regionaal seizoensvoedsel dat dichtbij is geproduceerd",
                         "es": ""
                     }
                 }
