@@ -1,75 +1,93 @@
 #!/usr/bin/env python3
-'''Generate documentation on selected F-Droid apps.'''
+"""Generate documentation on selected F-Droid apps."""
 
 from json import load
+from glob import glob
+from typing import TextIO
 
 from pycountry import countries
 
-skip = {'es': ('tostas', 'patatas', 'tapear', 'tapeo',
-               'Machu', 'Picchu', 'Picchu.',
-               'Roy', 'Roy.', 'Amanda',
-               "'77",
-               'todovía', 'pescadería', 'parking', 'juguetería',
-               'EE.', 'UU.', 'Londres', 'Amberes', 'Utrecht', 'Róterdam', 'Ámsterdam',
-               'bootcamp', 'halterofilia', 'spinning', 'surf', 'yoga',
-               'bandoneón'),
-        'en': ('theatre',
-               'tapa',
-               'Machu', 'Picchu', 'Picchu.',
-               'bandoneon',
-               'patatas', 'bavas', 'bravas.'),
-        'nl': ('Noord-Amerikanen',
-               "'77",
-               'maracas',
-               'patatas', 'Tapas', 'tapas', '"tapas"', 'tapas.', 'bravas', 'bravas.',
-               'Machu', 'Picchu')}
+# pylint:disable=unspecified-encoding
 
-def flag(lang):
-    '''Get flag for language.'''
+
+def flag(lang: str) -> str:
+    """Get flag for language."""
     lang = lang.upper()
     if lang == 'EN':
         lang = 'GB'
     return countries.get(alpha_2=lang).flag
 
-def header(mado, references, headers, lang):
+
+def header(mado: TextIO, references: dict, headers: dict, lang: str) -> None:
+    """Write Markdown header."""
     for reference, value in sorted(references.items()):
         if reference != lang:
             if reference == 'en':
-                mado.write(f'_{flag(reference)} {value} [README.md](README.md)_\n\n')
+                mado.write(f'_{flag(reference)} {value}'
+                           f' [README.md](README.md)_\n\n')
             else:
-                mado.write(f'_{flag(reference)} {value} [README-{reference}.md](README-{reference}.md)_\n\n')
+                mado.write(f'_{flag(reference)} {value}'
+                           f' [README-{reference}.md]'
+                           f'(README-{reference}.md)_\n\n')
     mado.write(f'{headers[lang]}\n\n')
 
-def footer(mado, footers, lang):
+
+def footer(mado: TextIO, footers: dict, lang: str) -> None:
+    """Write Markdown footer."""
     mado.write(f'{footers[lang]}\n\n')
 
-def read_json():
-    '''Read the JSON file with all the data.'''
-    with open('data.json') as file:  # pylint:disable=unspecified-encoding
+
+def read_json() -> tuple:
+    """Read the JSON file with all the data."""
+    with open('data.json') as file:
         data = load(file)
-        return data['references'], data['headers'], data['footers'], data['categories']
+        return (data['references'], data['headers'], data['footers'],
+                data['categories'])
+    # TODO fennec addons
 
-#fennec addons
 
-def generate():
-    '''Generate files'''
-
+def generate() -> None:
+    """Generate files."""
     references, headers, footers, categories = read_json()
     for lang in sorted(references):
         filename = f'README-{lang}.md'
         if lang == 'en':
             filename = 'README.md'
-        with open(f'../{filename}', 'w') as mado:  # pylint:disable=unspecified-encoding
+        with open(f'../{filename}', 'w') as mado:
             header(mado, references, headers, lang)
             mado.write('<table>\n')
+            icons = set()
             for category in categories:
-                mado.write(f'<tr><th colspan="2"><br>{category["name"][lang]}</th></tr>\n')
+                replaces_title = 'Replaces'
+                if lang == 'nl':
+                    replaces_title = 'Vervangt'
+                elif lang == 'es':
+                    pass # TODO
+                mado.write(f'<tr><th colspan="2"><br>{category["name"][lang]}'
+                           f'</th><th><br>{replaces_title}</th></tr>\n')
                 for app in category['apps']:
-                    mado.write(f'<tr><td><a target="_blank" href="https://f-droid.org/en/packages/{app["id"]}"><img alt="icon" width="96" src="icons/{app["id"]}.png"></a></td>\n')
-                    mado.write(f'<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/{app["id"]}"><strong>{app["name"]}</strong></a><br>\n')
-                    mado.write(f'{app["description"][lang]}</td></tr>\n')
+                    icon = f'icons/{app["id"]}.png'
+                    if lang == 'en' and icon in icons:
+                        print(f'WARNING: Duplicate use if icon {icon}')
+                    icons.add(icon)
+                    mado.write('<tr><td><a target="_blank"'
+                               ' href="https://f-droid.org/en/packages/'
+                               f'{app["id"]}"><img alt="icon" width="96"'
+                               f' src="{icon}"></a></td>\n')
+                    mado.write('<td valign="top"><a target="_blank"'
+                               ' href="https://f-droid.org/en/packages/'
+                               f'{app["id"]}"><strong>{app["name"]}'
+                               '</strong></a><br>\n')
+                    mado.write(f'{app["description"][lang]}</td>\n')
+                    replaces = app.get('replaces', '')
+                    mado.write(f'<td valign="top"><font color="red"><strong>{replaces}</strong></font></td></tr>\n')
             mado.write('</table>\n\n')
             footer(mado, footers, lang)
+    for file in sorted(glob('../icons/*')):
+        file = file[3:]
+        if file not in icons:
+            print(f'WARNING: Unused icon file {file}')
+
 
 if __name__ == '__main__':
     generate()
