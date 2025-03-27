@@ -5,8 +5,8 @@
         "es": "Para español, ver"
     },
     "headers": {
-        "en": "# F-Droid\n\n**Selection of FOSS Android apps on F-Droid**\n\n> <em>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</em> — Benjamin Franklin (1706 – 1790) American inventor, journalist, printer, diplomat and statesman, Historical Review of Pennsylvania, 1759\n\nSafe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">free and open source software</a> (FOSS) is advised, also for mobile devices such ass smartphones and tablets.\n\nBelow is an overview of free Android apps which can be installed from [F-Droid](https://f-droid.org/). This is a safe app store that respects your privacy. Many app can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind.\n\nSome of the apps listed here cost money in Google Play but are gratis on F-Droid. Good to know is that many of these apps sometimes surpass their commercial counterparts, can offer practical widgets and notification also land on connected WearOS devices.",
-        "nl": "# F-Droid\n\n**Selectie van FOSS Androidapps op F-Droid**\n\n> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759\n\nVeilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target=\"_blank\" href=\"https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware\">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.\n\nHieronder is een overzicht van gratis Anroidapps die vanuit [F-Droid](https://f-droid.org/) zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.\n\nSommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid. Goed te weten is dat veel van deze apps soms beter zijn dan hun commerciele tegenhangers en dat notificaties ook aankomen op apparaten met WearOS die zijn verbonden.",
+        "en": "# F-Droid\n\n**Selection of FOSS Android apps on F-Droid**\n\n> <em>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</em> — Benjamin Franklin (1706 – 1790) American inventor, journalist, printer, diplomat and statesman, Historical Review of Pennsylvania, 1759\n\nSafe mobile apps that respect your privacy and keep unwanted advertisements and trackers at bay, deserve extra attention. Hence, the use of <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Free_and_open-source_software\">free and open source software</a> (FOSS) is advised, also for mobile devices such as smartphones and tablets.\n\nBelow is an overview of free Android apps which can be installed from [F-Droid](https://f-droid.org/). This is a safe app store that respects your privacy. Many apps can also be installed from Google Play, but the versions on F-Droid have tracking software removed. This minimizes the digital trail your online activity leaves behind.\n\nSome of the apps listed here cost money in Google Play but are gratis on F-Droid. Good to know is that many of these apps often surpass their commercial counterparts in terms of functionality and performance.",
+        "nl": "# F-Droid\n\n**Selectie van FOSS Androidapps op F-Droid**\n\n> <em>Zij die essentiële vrijheden opgeven om een beetje tijdelijke veiligheid te kopen, verdienen geen vrijheid noch veiligheid.</em> — Benjamin Franklin (1706 – 1790) Amerikaanse uitvinder, journalist, drukker, diplomaat en staatsman, Historisch overzicht van Pennsylvania, 1759\n\nVeilige mobiele apps die je privacy respecteren en ongewenste reclames en trackers buiten de deur houden verdienen aandacht. Daarom wordt het gebruik van <a target=\"_blank\" href=\"https://nl.wikipedia.org/wiki/Vrije_software_en_opensourcesoftware\">vrije opensourcesoftware</a> (FOSS) aanbevolen, ook voor mobiele apparaten zoals smartphones en tablets.\n\nHieronder is een overzicht van gratis Anroidapps die vanuit [F-Droid](https://f-droid.org/) zijn te installeren. Dit is een veilige appstore die je privacy respecteerd. Veel van deze apps zijn ook van Google Play te installeren, maar de versies op F-Droid is tracking uit software verwijderd. Hierdoor laat je online een zo klein mogelijk digitaal spoor van je activiteiten achter.\n\nSommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid. Goed te weten is dat veel van deze apps vaak beter zijn dan hun commerciele tegenhangers betreft functionaliteit en performance.",
         "es": "# F-Droid\n\nTODO"
     },
     "footers": {
@@ -56,7 +56,7 @@
                     "id": "com.menny.android.anysoftkeyboard",
                     "name": "AnySoftKeyboard",
                     "remark": "advised",
-                    "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey",
+                    "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard",
                     "description": {
                         "en": "type with autocompletion keyboard",
                         "nl": "type met automatisch aanvullend toetsenbord",
@@ -118,7 +118,7 @@
                     "id": "com.nextcloud.client",
                     "name": "Nextcloud",
                     "remark": "nextcloud",
-                    "replaces": "Google Drive",
+                    "replaces": "Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud",
                     "description": {
                         "en": "synchronize files with Nextcloud",
                         "nl": "synchroniseer bestanden met Nextcloud",
@@ -139,7 +139,7 @@
                     "id": "com.github.catfriend1.syncthingandroid",
                     "name": "Syncthing-Fork",
                     "remark": "personal",
-                    "replaces": "Dropbox, Google Drive, Microsoft OneDrive",
+                    "replaces": "Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud",
                     "description": {
                         "en": "synchronize and backup files",
                         "nl": "synchroniseer en back-up bestanden",
@@ -201,10 +201,10 @@
                     "id": "org.mozilla.fennec_fdroid",
                     "name": "Fennec",
                     "remark": "lineageos",
-                    "replaces": "(Mozilla) Firefox, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Instapaper, Pocket",
+                    "replaces": "(Mozilla) Firefox, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket",
                     "description": {
-                        "en": "browse with Firefox Mobile including QR scanner and Firefox Sync for synchronizing passwords, bookmarks, settings, etc.",
-                        "nl": "browse met Firefox Mobile inclusief QR scanner en Firefox Sync voor synchroniseren wachtwoorden, favorieten, instellingen, etc.",
+                        "en": "browse the internet with Firefox Mobile including QR scanner and Firefox Sync for synchronizing passwords, bookmarks, settings, etc.",
+                        "nl": "browse het internet met Firefox Mobile inclusief QR-scanner en Firefox Sync voor synchroniseren wachtwoorden, favorieten, instellingen, etc.",
                         "es": ""
                     }
                 },
@@ -223,7 +223,7 @@
                     "id": "com.kunzisoft.keepass.libre",
                     "name": "KeePassDX",
                     "remark": "optional",
-                    "replaces": "Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager",
+                    "replaces": "Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key",
                     "description": {
                         "en": "manage passwords",
                         "nl": "beheer wachtwoorden",
@@ -234,7 +234,7 @@
                     "id": "com.hegocre.nextcloudpasswords",
                     "name": "Nextcloud Passwords",
                     "remark": "nextcloud",
-                    "replaces": "Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager",
+                    "replaces": "Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key",
                     "description": {
                         "en": "manage and synchronize passwords with Nextcloud",
                         "nl": "beheer en synchroniseer van wachtwoorden met Nextcloud",
@@ -429,8 +429,8 @@
                     "id": "is.xyz.mpv",
                     "name": "MPV",
                     "description": {
-                        "en": "play video or audio from files or streams",
-                        "nl": "speel video of audio af van bestanden of streams",
+                        "en": "play video or audio from files or streams, including dual subtitles",
+                        "nl": "speel video of audio af van bestanden of streams, inclusief dubbele ondertiteling",
                         "es": ""
                     }
                 },
@@ -465,7 +465,7 @@
                     "id": "net.thunderbird.android",
                     "name": "Thunderbird",
                     "remark": "personal",
-                    "replaces": "(Google) Gmail, Microsoft Outlook, Yahoo Mail, Samsung Email",
+                    "replaces": "Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail",
                     "description": {
                         "en": "send and receive emails",
                         "nl": "ontvang en verstuur e-mails",
@@ -495,7 +495,7 @@
                     "id": "org.fossify.calendar",
                     "name": "Fossify Calendar",
                     "remark": "secondary",
-                    "replaces": "Google Calendar, Samsung Calendar, Microsoft Outlook",
+                    "replaces": "Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar",
                     "description": {
                         "en": "manage calendars, also showing holidays and birthdays (see also ICSx⁵ and DAVx⁵)",
                         "nl": "beheer kalenders, ook tonen feestdagen en verjaardagen (zie ook ICSx⁵ en DAVx⁵)",
@@ -653,6 +653,7 @@
                     "id": "de.danoeh.antennapod",
                     "name": "AntennaPod",
                     "remark": "optional",
+                    "replaces": "Yandex Podcasts",
                     "description": {
                         "en": "podcasts",
                         "nl": "podcasts",
@@ -663,6 +664,7 @@
                     "id": "org.y20k.escapepod",
                     "name": "Escapepod",
                     "remark": "secondary",
+                    "replaces": "Yandex Podcasts",
                     "description": {
                         "en": "podcasts",
                         "nl": "podcasts",
@@ -692,7 +694,7 @@
                     "id": "app.organicmaps",
                     "name": "Organic Maps",
                     "remark": "personal",
-                    "replaces": "Google Maps, Waze, TomTom",
+                    "replaces": "Google Maps, Waze, TomTom, Yandex Maps, Yandex Navigator",
                     "description": {
                         "en": "plan routes and navigate with OpenStreetMap for walking, cycling and driving, online and offline",
                         "nl": "plan routes and nagiveer met OpenStreetMap voor lopen, fietsen en autorijden, oline en offline",
@@ -703,7 +705,7 @@
                     "id": "net.osmand.plus",
                     "name": "OsmAnd",
                     "remark": "secondary",
-                    "replaces": "Google Maps, Waze, TomTom",
+                    "replaces": "Google Maps, Waze, TomTom, Yandex Maps, Yandex Navigator",
                     "description": {
                         "en": "plan routes and navigate with OpenStreetMap for walking, cycling, driving and sailing, online and offline",
                         "nl": "plan routes and nagiveer met OpenStreetMap voor lopen, fietsen, autorijden en varen, oline en offline",
@@ -713,7 +715,7 @@
                 {
                     "id": "de.grobox.liberario",
                     "name": "Transportr",
-                    "replaces": "Google Maps, 9292 (Netherlands), NS (Netherlands)",
+                    "replaces": "Google Maps, Yandex Trains, 9292 (Netherlands), NS (Netherlands)",
                     "issue": "https://github.com/grote/Transportr/issues/839",
                     "description": {
                         "en": "plan public transport with NS, 9292, etc.",
@@ -735,7 +737,7 @@
                     "id": "net.gitsaibot.af",
                     "name": "AF Weather Widget",
                     "remark": "personal",
-                    "replaces": "Google Weather, Yahoo Weather, Buienradar (Netherlands), KNMI (Netherlands)",
+                    "replaces": "Google Weather, Yahoo Weather, Yandex Weather, Buienradar (Netherlands), KNMI (Netherlands)",
                     "description": {
                         "en": "view weather graphs in widgets",
                         "nl": "bekijk weersgrafieken in widgets",
@@ -985,7 +987,7 @@
                 {
                     "id": "com.anysoftkeyboard.languagepack.dutch_oss",
                     "name": "AnySoftKeyboard Dutch",
-                    "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey",
+                    "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard",
                     "description": {
                         "en": "Dutch support for AnySoftKeyboard",
                         "nl": "Nederlandse ondersteuning voor AnySoftKeyboard",
@@ -995,7 +997,7 @@
                 {
                     "id": "foss.cnugteren.nlweer",
                     "name": "NLWeer",
-                    "replaces": "Google Weather, Yahoo Weather, Buienradar, KNMI",
+                    "replaces": "Google Weather, Yahoo Weather, Yandex Weather, Buienradar, KNMI",
                     "description": {
                         "en": "Dutch weather and precipitation from KNMI and Buienrader",
                         "nl": "Nederlands weer en neerslag van KNMI en Buienrader",

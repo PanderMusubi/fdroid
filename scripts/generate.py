@@ -72,7 +72,7 @@ def generate() -> None:
                     icons.add(icon)
                     mado.write('<tr><td><a target="_blank"'
                                ' href="https://f-droid.org/en/packages/'
-                               f'{app["id"]}"><img alt="icon" width="96"'
+                               f'{app["id"]}"><img alt="icon" width="128px"'
                                f' src="{icon}"></a></td>\n')
                     mado.write('<td valign="top"><a target="_blank"'
                                ' href="https://f-droid.org/en/packages/'
