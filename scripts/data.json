@@ -26,10 +26,19 @@
                     "id": "org.fdroid.fdroid",
                     "name": "F-Droid",
                     "remark": "essential",
-                    "replaces": "Google Play, Amazon Appstore",
+                    "replaces": "Google Play, Amazon Appstore, (Samsung) Galaxy Store, Huawei AppGallery",
                     "description": {
                         "en": "install apps from the F-Droid app store",
                         "nl": "installeer apps uit de F-Droid appstore",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.fossify.clock",
+                    "name": "Fossify Clock",
+                    "description": {
+                        "en": "manage alarms",
+                        "nl": "beheer alarmen",
                         "es": ""
                     }
                 },
@@ -39,16 +48,6 @@
                     "description": {
                         "en": "manage phone calls",
                         "nl": "beheer telefoongesprekken",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.fossify.contacts",
-                    "name": "Fossify Contacts",
-                    "remark": "lineageos",
-                    "description": {
-                        "en": "manage contacts, also from CardDAV",
-                        "nl": "beheer contacten, ook van CardDAV",
                         "es": ""
                     }
                 },
@@ -105,37 +104,6 @@
             },
             "apps": [
                 {
-                    "id": "org.fossify.filemanager",
-                    "name": "Fossify File Manager",
-                    "remark": "lineageos",
-                    "description": {
-                        "en": "manage files, also viewing PDF files",
-                        "nl": "beheer bestanden, ook bekijken PDF-bestanden",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.nextcloud.client",
-                    "name": "Nextcloud",
-                    "remark": "nextcloud",
-                    "replaces": "Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud",
-                    "description": {
-                        "en": "synchronize files with Nextcloud",
-                        "nl": "synchroniseer bestanden met Nextcloud",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.github.vauvenal5.yaga",
-                    "name": "Yaga",
-                    "remark": "nextcloud",
-                    "description": {
-                        "en": "manage and synchronize picture albums with Nextcloud",
-                        "nl": "beheer en synchroniseer fotoalbums met Nextcloud",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "com.github.catfriend1.syncthingandroid",
                     "name": "Syncthing-Fork",
                     "remark": "personal",
@@ -143,6 +111,17 @@
                     "description": {
                         "en": "synchronize and backup files",
                         "nl": "synchroniseer en back-up bestanden",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.fossify.filemanager",
+                    "name": "Fossify File Manager",
+                    "remark": "lineageos",
+                    "replaces": "",
+                    "description": {
+                        "en": "manage files, also viewing PDF files",
+                        "nl": "beheer bestanden, ook bekijken PDF-bestanden",
                         "es": ""
                     }
                 },
@@ -161,38 +140,7 @@
         },
         {
             "name": {
-                "en": "Peripherals",
-                "nl": "Randapparaten",
-                "es": "dispositivos periféricos"
-            },
-            "apps": [
-                {
-                    "id": "eu.darken.capod",
-                    "name": "CAPod",
-                    "remark": "optional",
-                    "replaces": "Apple Podcast",
-                    "description": {
-                        "en": "use in-ear devices such as AirPods and Beats",
-                        "nl": "gebruik oortjes zoals AirPods en Beats",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "nodomain.freeyourgadget.gadgetbridge",
-                    "name": "Gadgetbridge",
-                    "remark": "optional",
-                    "replaces": "Apple Podcast",
-                    "description": {
-                        "en": "connect with heart rate monitors, ear buds and more",
-                        "nl": "verbind met hartslagmonitors, draadloze oortjes en meer",
-                        "es": ""
-                    }
-                }
-            ]
-        },
-        {
-            "name": {
-                "en": "Web browsers",
+                "en": "Web Browsers",
                 "nl": "Webbrowsers",
                 "es": ""
             },
@@ -229,26 +177,127 @@
                         "nl": "beheer wachtwoorden",
                         "es": ""
                     }
-                },
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Email",
+                "nl": "E-mail",
+                "es": ""
+            },
+            "apps": [
                 {
-                    "id": "com.hegocre.nextcloudpasswords",
-                    "name": "Nextcloud Passwords",
-                    "remark": "nextcloud",
-                    "replaces": "Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key",
+                    "id": "net.thunderbird.android",
+                    "name": "Thunderbird",
+                    "remark": "personal",
+                    "replaces": "Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail",
                     "description": {
-                        "en": "manage and synchronize passwords with Nextcloud",
-                        "nl": "beheer en synchroniseer van wachtwoorden met Nextcloud",
+                        "en": "send and receive emails",
+                        "nl": "ontvang en verstuur e-mails",
                         "es": ""
                     }
                 },
                 {
-                    "id": "org.schabi.nxbookmarks",
-                    "name": "Nextcloud Bookmarks",
-                    "remark": "nextcloud",
-                    "replaces": "Google Chrome, Instapaper, Pocket",
+                    "id": "org.sufficientlysecure.keychain",
+                    "name": "OpenKeychain",
+                    "remark": "personal",
                     "description": {
-                        "en": "manage and synchronize bookmarks with Nextcloud",
-                        "nl": "beheer en synchroniseer favorieten met Nextcloud",
+                        "en": "encrypt and decrypt texts and files (for <strong>Thunderbird</strong>)",
+                        "nl": "versleutel en ontsleutel teksten en bestanden (voor <strong>Thunderbird</strong>)",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Contacts, Calendars and Tasks",
+                "nl": "Contacten, Kalenders en taken",
+                "es": ""
+            },
+            "apps": [
+                {
+                    "id": "org.fossify.contacts",
+                    "name": "Fossify Contacts",
+                    "remark": "lineageos",
+                    "replaces": "",
+                    "description": {
+                        "en": "manage contacts, also from CardDAV",
+                        "nl": "beheer contacten, ook van CardDAV",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.fossify.calendar",
+                    "name": "Fossify Calendar",
+                    "remark": "secondary",
+                    "replaces": "Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar",
+                    "description": {
+                        "en": "manage calendars, also showing holidays and birthdays (see also ICSx⁵ and DAVx⁵)",
+                        "nl": "beheer kalenders, ook tonen feestdagen en verjaardagen (zie ook ICSx⁵ en DAVx⁵)",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "at.bitfire.icsdroid",
+                    "name": "ICSx⁵",
+                    "remark": "personal",
+                    "description": {
+                        "en": "add network calendars in ICS format (to <strong>Fossify Calendar</strong>)",
+                        "nl": "voeg netwerkkalenders in ICS-formaat toe (aan <strong>Fossify Calendar</strong>)",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "at.bitfire.davdroid",
+                    "name": "DAVx⁵",
+                    "remark": "personal",
+                    "description": {
+                        "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (with <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> and <strong>Tasks.org</strong>)",
+                        "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav (met <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> en <strong>Tasks.org</strong>)",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "saschpe.contactevents",
+                    "name": " Birthday Calendar",
+                    "remark": "personal",
+                    "description": {
+                        "en": "show birthdays from <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>,  and <strong>Tasks.org</strong>)",
+                        "nl": "toon verjaardagen van <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>)",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.fossify.notes",
+                    "name": "Fossify Notes",
+                    "remark": "secondary",
+                    "replaces": "Google Keep, Microsoft OneNote, Evernote, Samsung Notes",
+                    "description": {
+                        "en": "manage tasks, only locally",
+                        "nl": "beheer taken, alleen lokaal",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.tasks",
+                    "name": "Tasks.org",
+                    "remark": "personal",
+                    "description": {
+                        "en": "manage tasks in CalDAV (see also <strong>DAVx⁵</strong>)",
+                        "nl": "beheer taken in CalDAV (zie ook <strong>DAVx⁵</strong>)",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "com.ichi2.anki",
+                    "name": "AnkiDroid",
+                    "remark": "personal",
+                    "replaces": "Quizlet, Flashcards World, LingQ",
+                    "description": {
+                        "en": "study and synchronize flashcards in Anki",
+                        "nl": "studeer en synchroniseer flashcards in Anki",
                         "es": ""
                     }
                 }
@@ -273,7 +322,7 @@
                     }
                 },
                 {
-                    "id": "todo",
+                    "id": "com.mattermost.rnbeta",
                     "name": "Mattermost",
                     "remark": "",
                     "replaces": "",
@@ -284,24 +333,10 @@
                     }
                 },
                 {
-                    "id": "com.nextcloud.talk2",
-                    "name": "Nextcloud Talk",
-                    "remark": "nextcloud",
-                    "replaces": "Google Meet, Microsoft Teams",
-                    "description": {
-                        "en": "video conference with Nextcloud",
-                        "nl": "videoconferentie met Nextcloud",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.telegram.messenger",
-                    "name": "Telegram",
+                    "id": "org.forkgram.messenger",
+                    "name": "Forkgram (Telegram)",
                     "remark": "optional",
-                    "replaces": "WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE",
-                    "issues": [
-                        "https://github.com/Telegram-FOSS-Team/Telegram-FOSS/issues/639"
-                    ],
+                    "replaces": "WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE, Viber",
                     "description": {
                         "en": "instant messaging, voice and video calling",
                         "nl": "instant messaging, bellen en videobellen",
@@ -312,6 +347,18 @@
                     "id": "im.vector.app",
                     "name": "Element",
                     "remark": "optional",
+                    "replaces": "Viber",
+                    "description": {
+                        "en": "instant messaging with Matrix",
+                        "nl": "instant messaging met Matrix",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "io.element.android.x",
+                    "name": "Element X",
+                    "remark": "optional",
+                    "replaces": ", Viber",
                     "description": {
                         "en": "instant messaging with Matrix",
                         "nl": "instant messaging met Matrix",
@@ -322,6 +369,7 @@
                     "id": "eu.siacs.conversations",
                     "name": "Conversations",
                     "remark": "optional",
+                    "replaces": "",
                     "description": {
                         "en": "instant messaging with XMPP",
                         "nl": "instant messaging met XMPP",
@@ -332,6 +380,7 @@
                     "id": "io.heckel.ntfy",
                     "name": "nfty",
                     "remark": "optional",
+                    "replaces": "",
                     "description": {
                         "en": "receive push notifications",
                         "nl": "ontvang push-notificaties",
@@ -342,6 +391,7 @@
                     "id": "org.linphone",
                     "name": "Linphone",
                     "remark": "optional",
+                    "replaces": "",
                     "description": {
                         "en": "calling with VOIP",
                         "nl": "bellen met VOIP",
@@ -361,7 +411,7 @@
                     "id": "org.jitsi.meet",
                     "name": "Jitsi Meet",
                     "remark": "personal",
-                    "replaces": "Skype, Zoom",
+                    "replaces": "Zoom, Microsoft Teams, Google Meet, Discord, Skype",
                     "description": {
                         "en": "video conference",
                         "nl": "videoconferentie",
@@ -401,18 +451,10 @@
                 {
                     "id": "org.schabi.newpipe",
                     "name": "NewPipe",
+                    "replaces": "YouTube, SoundCloud, Mixcloud, Bandcamp",
                     "description": {
-                        "en": "play YouTube, SoundCloud, Bandcamp, etc. content as video or audio, also in the background",
-                        "nl": "speel YouTube, SoundCloud, Bandcamp, etc. content af als video of audio, ook in de achtergrond",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "cz.martykan.webtube",
-                    "name": "WebTube",
-                    "description": {
-                        "en": "play YouTube content as video or audio, also in the background and login is possible",
-                        "nl": "speel YouTube-content af als video of audio, ook in de achtergrond en inloggen is mogelijk",
+                        "en": "play YouTube, SoundCloud, Mixcloud, Bandcamp, etc. content as video or audio, also in the background",
+                        "nl": "speel YouTube, SoundCloud, Mixcloud, Bandcamp, etc. content af als video of audio, ook in de achtergrond",
                         "es": ""
                     }
                 },
@@ -449,130 +491,6 @@
                     "description": {
                         "en": "remote control Kodi",
                         "nl": "bedien op afstand Kodi",
-                        "es": ""
-                    }
-                }
-            ]
-        },
-        {
-            "name": {
-                "en": "Email",
-                "nl": "E-mail",
-                "es": ""
-            },
-            "apps": [
-                {
-                    "id": "net.thunderbird.android",
-                    "name": "Thunderbird",
-                    "remark": "personal",
-                    "replaces": "Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail",
-                    "description": {
-                        "en": "send and receive emails",
-                        "nl": "ontvang en verstuur e-mails",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.sufficientlysecure.keychain",
-                    "name": "OpenKeychain",
-                    "remark": "personal",
-                    "description": {
-                        "en": "encrypt and decrypt texts and files (for <strong>Thunderbird</strong>)",
-                        "nl": "versleutel en ontsleutel teksten en bestanden (voor <strong>Thunderbird</strong>)",
-                        "es": ""
-                    }
-                }
-            ]
-        },
-        {
-            "name": {
-                "en": "Calendars and Tasks",
-                "nl": "Kalenders en taken",
-                "es": ""
-            },
-            "apps": [
-                {
-                    "id": "org.fossify.calendar",
-                    "name": "Fossify Calendar",
-                    "remark": "secondary",
-                    "replaces": "Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar",
-                    "description": {
-                        "en": "manage calendars, also showing holidays and birthdays (see also ICSx⁵ and DAVx⁵)",
-                        "nl": "beheer kalenders, ook tonen feestdagen en verjaardagen (zie ook ICSx⁵ en DAVx⁵)",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "at.bitfire.icsdroid",
-                    "name": "ICSx⁵",
-                    "remark": "personal",
-                    "description": {
-                        "en": "add network calendars in ICS format (to <strong>Fossify Calendar</strong>)",
-                        "nl": "voeg netwerkkalenders in ICS-formaat toe (aan <strong>Fossify Calendar</strong>)",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "at.bitfire.davdroid",
-                    "name": "DAVx⁵",
-                    "remark": "personal",
-                    "description": {
-                        "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (with <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> and <strong>Tasks.org</strong>)",
-                        "nl": "synchroniseer kalenders, taken en contacten in CalDAV en CardDav (met <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> en <strong>Tasks.org</strong>)",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.fossify.notes",
-                    "name": "Fossify Notes",
-                    "remark": "secondary",
-                    "replaces": "Google Keep, Microsoft OneNote, Evernote, Samsung Notes",
-                    "description": {
-                        "en": "manage tasks, only locally",
-                        "nl": "beheer taken, alleen lokaal",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.tasks",
-                    "name": "Tasks.org",
-                    "remark": "personal",
-                    "description": {
-                        "en": "manage tasks in CalDAV (see also <strong>DAVx⁵</strong>)",
-                        "nl": "beheer taken in CalDAV (zie ook <strong>DAVx⁵</strong>)",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "it.niedermann.owncloud.notes",
-                    "name": "Notes",
-                    "remark": "nextcloud",
-                    "replaces": "Google Keep, Microsoft OneNote, Evernote, Samsung Notes",
-                    "description": {
-                        "en": "manage and synchronize notes with Nextcloud",
-                        "nl": "beheer en synchroniseer aantekeningen met Nextcloud",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.ichi2.anki",
-                    "name": "AnkiDroid",
-                    "remark": "personal",
-                    "replaces": "Quizlet, Flashcards World, LingQ",
-                    "description": {
-                        "en": "study and synchronize flashcards in Anki",
-                        "nl": "studeer en synchroniseer flashcards in Anki",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "it.niedermann.nextcloud.deck",
-                    "name": "Nextcloud Deck",
-                    "remark": "nextcloud",
-                    "replaces": "Trello",
-                    "description": {
-                        "en": "manage and synchronize kanban cards with Nextcloud",
-                        "nl": "beheer en synchroniseer kanbankaarten met Nextcloud",
                         "es": ""
                     }
                 }
@@ -653,7 +571,7 @@
                     "id": "de.danoeh.antennapod",
                     "name": "AntennaPod",
                     "remark": "optional",
-                    "replaces": "Yandex Podcasts",
+                    "replaces": "Apple Podcast, Yandex Podcasts",
                     "description": {
                         "en": "podcasts",
                         "nl": "podcasts",
@@ -664,7 +582,7 @@
                     "id": "org.y20k.escapepod",
                     "name": "Escapepod",
                     "remark": "secondary",
-                    "replaces": "Yandex Podcasts",
+                    "replaces": "Apple Podcast, Yandex Podcasts",
                     "description": {
                         "en": "podcasts",
                         "nl": "podcasts",
@@ -680,16 +598,6 @@
                 "es": ""
             },
             "apps": [
-                {
-                    "id": "net.eneiluj.nextcloud.phonetrack",
-                    "name": "PhoneTrack",
-                    "remark": "nextcloud",
-                    "description": {
-                        "en": "log and synchronisize geolocations in Nextcloud",
-                        "nl": "log en synchroniseer geolocaties in Nextcloud",
-                        "es": ""
-                    }
-                },
                 {
                     "id": "app.organicmaps",
                     "name": "Organic Maps",
@@ -716,7 +624,6 @@
                     "id": "de.grobox.liberario",
                     "name": "Transportr",
                     "replaces": "Google Maps, Yandex Trains, 9292 (Netherlands), NS (Netherlands)",
-                    "issue": "https://github.com/grote/Transportr/issues/839",
                     "description": {
                         "en": "plan public transport with NS, 9292, etc.",
                         "nl": "plan openbaar vervoer met NS, 9292, etc.",
@@ -760,7 +667,7 @@
         {
             "name": {
                 "en": "Social Media",
-                "nl": "Sociale media",
+                "nl": "Sociale Media",
                 "es": ""
             },
             "apps": [
@@ -843,6 +750,55 @@
         },
         {
             "name": {
+                "en": "Peripherals",
+                "nl": "Randapparaten",
+                "es": "dispositivos periféricos"
+            },
+            "apps": [
+                {
+                    "id": "eu.darken.capod",
+                    "name": "CAPod",
+                    "remark": "optional",
+                    "description": {
+                        "en": "use in-ear devices such as AirPods and Beats",
+                        "nl": "gebruik oortjes zoals AirPods en Beats",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "nodomain.freeyourgadget.gadgetbridge",
+                    "name": "Gadgetbridge",
+                    "remark": "optional",
+                    "description": {
+                        "en": "connect with heart rate monitors, ear buds and more",
+                        "nl": "verbind met hartslagmonitors, draadloze oortjes en meer",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "org.openhab.habdroid",
+                    "name": "openHAB",
+                    "replaces": "SmartThings, Goolge Home, Smart Life, Nest",
+                    "description": {
+                        "en": "remote control home automation",
+                        "nl": "afstandsbediending huisautomatisering",
+                        "es": ""
+                    }
+                },
+                {
+                    "id": "io.homeassistant.companion.android.minimal",
+                    "name": "Home Assistant",
+                    "replaces": "SmartThings, Goolge Home, Smart Life, Nest",
+                    "description": {
+                        "en": "remote control home automation",
+                        "nl": "afstandsbediending huisautomatisering",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
                 "en": "Network",
                 "nl": "Netwerk",
                 "es": ""
@@ -893,26 +849,6 @@
                     "description": {
                         "en": "SSH and Telnet",
                         "nl": "SSH en Telnet",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "org.openhab.habdroid",
-                    "name": "openHAB",
-                    "replaces": "SmartThings, Goolge Home, Smart Life, Nest",
-                    "description": {
-                        "en": "remote control home automation",
-                        "nl": "afstandsbediending huisautomatisering",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "io.homeassistant.companion.android.minimal",
-                    "name": "Home Assistant",
-                    "replaces": "SmartThings, Goolge Home, Smart Life, Nest",
-                    "description": {
-                        "en": "remote control home automation",
-                        "nl": "afstandsbediending huisautomatisering",
                         "es": ""
                     }
                 },

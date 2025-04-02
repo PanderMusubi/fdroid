@@ -19,14 +19,14 @@ Some of the apps listed here cost money in Google Play but are gratis on F-Droid
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><img alt="icon" width="128px" src="icons/org.fdroid.fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><strong>F-Droid</strong></a><br>
 install apps from the F-Droid app store</td>
-<td valign="top"><font color="red"><strong>Google Play, Amazon Appstore</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Google Play, Amazon Appstore, (Samsung) Galaxy Store, Huawei AppGallery</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.clock"><img alt="icon" width="128px" src="icons/org.fossify.clock.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.clock"><strong>Fossify Clock</strong></a><br>
+manage alarms</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><img alt="icon" width="128px" src="icons/org.fossify.phone.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><strong>Fossify Phone</strong></a><br>
 manage phone calls</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="128px" src="icons/org.fossify.contacts.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
-manage contacts, also from CardDAV</td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="128px" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><strong>AnySoftKeyboard</strong></a><br>
@@ -45,36 +45,19 @@ find your mistplaced, lost or stolen device</td>
 send SMS with location after period of inactivity</td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><th colspan="2"><br>Files</th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="128px" src="icons/org.fossify.filemanager.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
-manage files, also viewing PDF files</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="128px" src="icons/com.nextcloud.client.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
-synchronize files with Nextcloud</td>
-<td valign="top"><font color="red"><strong>Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.vauvenal5.yaga"><img alt="icon" width="128px" src="icons/com.github.vauvenal5.yaga.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.vauvenal5.yaga"><strong>Yaga</strong></a><br>
-manage and synchronize picture albums with Nextcloud</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><img alt="icon" width="128px" src="icons/com.github.catfriend1.syncthingandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><strong>Syncthing-Fork</strong></a><br>
 synchronize and backup files</td>
 <td valign="top"><font color="red"><strong>Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="128px" src="icons/org.fossify.filemanager.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
+manage files, also viewing PDF files</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="128px" src="icons/com.google.android.diskusage.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
 manage disk usage</td>
 <td valign="top"><font color="red"><strong>Storage Analyzer & Disk Usage, CCleaner, AVG Cleaner</strong></font></td></tr>
-<tr><th colspan="2"><br>Peripherals</th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="128px" src="icons/eu.darken.capod.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
-use in-ear devices such as AirPods and Beats</td>
-<td valign="top"><font color="red"><strong>Apple Podcast</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><img alt="icon" width="128px" src="icons/nodomain.freeyourgadget.gadgetbridge.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><strong>Gadgetbridge</strong></a><br>
-connect with heart rate monitors, ear buds and more</td>
-<td valign="top"><font color="red"><strong>Apple Podcast</strong></font></td></tr>
-<tr><th colspan="2"><br>Web browsers</th><th><br>Replaces</th></tr>
+<tr><th colspan="2"><br>Web Browsers</th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><img alt="icon" width="128px" src="icons/org.mozilla.fennec_fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><strong>Fennec</strong></a><br>
 browse the internet with Firefox Mobile including QR scanner and Firefox Sync for synchronizing passwords, bookmarks, settings, etc.</td>
@@ -87,35 +70,69 @@ use two-factor authentication (2FA) with import and export</td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.kunzisoft.keepass.libre"><strong>KeePassDX</strong></a><br>
 manage passwords</td>
 <td valign="top"><font color="red"><strong>Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.hegocre.nextcloudpasswords"><img alt="icon" width="128px" src="icons/com.hegocre.nextcloudpasswords.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.hegocre.nextcloudpasswords"><strong>Nextcloud Passwords</strong></a><br>
-manage and synchronize passwords with Nextcloud</td>
-<td valign="top"><font color="red"><strong>Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.nxbookmarks"><img alt="icon" width="128px" src="icons/org.schabi.nxbookmarks.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.nxbookmarks"><strong>Nextcloud Bookmarks</strong></a><br>
-manage and synchronize bookmarks with Nextcloud</td>
-<td valign="top"><font color="red"><strong>Google Chrome, Instapaper, Pocket</strong></font></td></tr>
+<tr><th colspan="2"><br>Email</th><th><br>Replaces</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><img alt="icon" width="128px" src="icons/net.thunderbird.android.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><strong>Thunderbird</strong></a><br>
+send and receive emails</td>
+<td valign="top"><font color="red"><strong>Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><img alt="icon" width="128px" src="icons/org.sufficientlysecure.keychain.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><strong>OpenKeychain</strong></a><br>
+encrypt and decrypt texts and files (for <strong>Thunderbird</strong>)</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><th colspan="2"><br>Contacts, Calendars and Tasks</th><th><br>Replaces</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="128px" src="icons/org.fossify.contacts.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
+manage contacts, also from CardDAV</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="128px" src="icons/org.fossify.calendar.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
+manage calendars, also showing holidays and birthdays (see also ICSx⁵ and DAVx⁵)</td>
+<td valign="top"><font color="red"><strong>Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="128px" src="icons/at.bitfire.icsdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
+add network calendars in ICS format (to <strong>Fossify Calendar</strong>)</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="128px" src="icons/at.bitfire.davdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
+synchronize calendars, tasks and contacts in CalDAV and CardDav (with <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> and <strong>Tasks.org</strong>)</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="128px" src="icons/saschpe.contactevents.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong> Birthday Calendar</strong></a><br>
+show birthdays from <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>,  and <strong>Tasks.org</strong>)</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="128px" src="icons/org.fossify.notes.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
+manage tasks, only locally</td>
+<td valign="top"><font color="red"><strong>Google Keep, Microsoft OneNote, Evernote, Samsung Notes</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="128px" src="icons/org.tasks.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
+manage tasks in CalDAV (see also <strong>DAVx⁵</strong>)</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><img alt="icon" width="128px" src="icons/com.ichi2.anki.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><strong>AnkiDroid</strong></a><br>
+study and synchronize flashcards in Anki</td>
+<td valign="top"><font color="red"><strong>Quizlet, Flashcards World, LingQ</strong></font></td></tr>
 <tr><th colspan="2"><br>Messaging and Communication</th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messages"><img alt="icon" width="128px" src="icons/org.fossify.messages.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messages"><strong>Fossify SMS Messenger</strong></a><br>
 manage SMS/MMS messages</td>
 <td valign="top"><font color="red"><strong>Google Messages</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/todo"><img alt="icon" width="128px" src="icons/todo.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/todo"><strong>Mattermost</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><img alt="icon" width="128px" src="icons/com.mattermost.rnbeta.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><strong>Mattermost</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><img alt="icon" width="128px" src="icons/com.nextcloud.talk2.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><strong>Nextcloud Talk</strong></a><br>
-video conference with Nextcloud</td>
-<td valign="top"><font color="red"><strong>Google Meet, Microsoft Teams</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><img alt="icon" width="128px" src="icons/org.telegram.messenger.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><strong>Telegram</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.forkgram.messenger"><img alt="icon" width="128px" src="icons/org.forkgram.messenger.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.forkgram.messenger"><strong>Forkgram (Telegram)</strong></a><br>
 instant messaging, voice and video calling</td>
-<td valign="top"><font color="red"><strong>WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE, Viber</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><img alt="icon" width="128px" src="icons/im.vector.app.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><strong>Element</strong></a><br>
 instant messaging with Matrix</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Viber</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><img alt="icon" width="128px" src="icons/io.element.android.x.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><strong>Element X</strong></a><br>
+instant messaging with Matrix</td>
+<td valign="top"><font color="red"><strong>, Viber</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><img alt="icon" width="128px" src="icons/eu.siacs.conversations.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><strong>Conversations</strong></a><br>
 instant messaging with XMPP</td>
@@ -135,7 +152,7 @@ stream audio and/or video between two devices</td>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><img alt="icon" width="128px" src="icons/org.jitsi.meet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
 video conference</td>
-<td valign="top"><font color="red"><strong>Skype, Zoom</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Zoom, Microsoft Teams, Google Meet, Discord, Skype</strong></font></td></tr>
 <tr><th colspan="2"><br>Video and Images</th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="128px" src="icons/org.fossify.gallery.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><strong>Fossify Gallery</strong></a><br>
@@ -147,12 +164,8 @@ make photographs and videos</td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><img alt="icon" width="128px" src="icons/org.schabi.newpipe.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><strong>NewPipe</strong></a><br>
-play YouTube, SoundCloud, Bandcamp, etc. content as video or audio, also in the background</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/cz.martykan.webtube"><img alt="icon" width="128px" src="icons/cz.martykan.webtube.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/cz.martykan.webtube"><strong>WebTube</strong></a><br>
-play YouTube content as video or audio, also in the background and login is possible</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
+play YouTube, SoundCloud, Mixcloud, Bandcamp, etc. content as video or audio, also in the background</td>
+<td valign="top"><font color="red"><strong>YouTube, SoundCloud, Mixcloud, Bandcamp</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><img alt="icon" width="128px" src="icons/com.github.niqdev.ipcam.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><strong>IPCam Demo</strong></a><br>
 view IP camera streamss</td>
@@ -169,48 +182,6 @@ play video or audio from files or streams</td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kore"><strong>Kore</strong></a><br>
 remote control Kodi</td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><th colspan="2"><br>Email</th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><img alt="icon" width="128px" src="icons/net.thunderbird.android.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><strong>Thunderbird</strong></a><br>
-send and receive emails</td>
-<td valign="top"><font color="red"><strong>Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><img alt="icon" width="128px" src="icons/org.sufficientlysecure.keychain.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><strong>OpenKeychain</strong></a><br>
-encrypt and decrypt texts and files (for <strong>Thunderbird</strong>)</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><th colspan="2"><br>Calendars and Tasks</th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="128px" src="icons/org.fossify.calendar.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
-manage calendars, also showing holidays and birthdays (see also ICSx⁵ and DAVx⁵)</td>
-<td valign="top"><font color="red"><strong>Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="128px" src="icons/at.bitfire.icsdroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-add network calendars in ICS format (to <strong>Fossify Calendar</strong>)</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="128px" src="icons/at.bitfire.davdroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
-synchronize calendars, tasks and contacts in CalDAV and CardDav (with <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> and <strong>Tasks.org</strong>)</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="128px" src="icons/org.fossify.notes.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
-manage tasks, only locally</td>
-<td valign="top"><font color="red"><strong>Google Keep, Microsoft OneNote, Evernote, Samsung Notes</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="128px" src="icons/org.tasks.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
-manage tasks in CalDAV (see also <strong>DAVx⁵</strong>)</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.owncloud.notes"><img alt="icon" width="128px" src="icons/it.niedermann.owncloud.notes.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.owncloud.notes"><strong>Notes</strong></a><br>
-manage and synchronize notes with Nextcloud</td>
-<td valign="top"><font color="red"><strong>Google Keep, Microsoft OneNote, Evernote, Samsung Notes</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><img alt="icon" width="128px" src="icons/com.ichi2.anki.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><strong>AnkiDroid</strong></a><br>
-study and synchronize flashcards in Anki</td>
-<td valign="top"><font color="red"><strong>Quizlet, Flashcards World, LingQ</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.nextcloud.deck"><img alt="icon" width="128px" src="icons/it.niedermann.nextcloud.deck.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.nextcloud.deck"><strong>Nextcloud Deck</strong></a><br>
-manage and synchronize kanban cards with Nextcloud</td>
-<td valign="top"><font color="red"><strong>Trello</strong></font></td></tr>
 <tr><th colspan="2"><br>Audio</th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><img alt="icon" width="128px" src="icons/org.fossify.voicerecorder.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><strong>Fossify Voice Recorder</strong></a><br>
@@ -239,16 +210,12 @@ remote control for MPD</td>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.danoeh.antennapod"><img alt="icon" width="128px" src="icons/de.danoeh.antennapod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.danoeh.antennapod"><strong>AntennaPod</strong></a><br>
 podcasts</td>
-<td valign="top"><font color="red"><strong>Yandex Podcasts</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Apple Podcast, Yandex Podcasts</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.y20k.escapepod"><img alt="icon" width="128px" src="icons/org.y20k.escapepod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.y20k.escapepod"><strong>Escapepod</strong></a><br>
 podcasts</td>
-<td valign="top"><font color="red"><strong>Yandex Podcasts</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Apple Podcast, Yandex Podcasts</strong></font></td></tr>
 <tr><th colspan="2"><br>Route Planning, Navigation and Travel</th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack"><img alt="icon" width="128px" src="icons/net.eneiluj.nextcloud.phonetrack.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack"><strong>PhoneTrack</strong></a><br>
-log and synchronisize geolocations in Nextcloud</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><img alt="icon" width="128px" src="icons/app.organicmaps.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><strong>Organic Maps</strong></a><br>
 plan routes and navigate with OpenStreetMap for walking, cycling and driving, online and offline</td>
@@ -303,6 +270,23 @@ monitor cryptocurrency prices and trends</td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><strong>Dash Wallet</strong></a><br>
 wallet cryptocurrency Dash</td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><th colspan="2"><br>Peripherals</th><th><br>Replaces</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="128px" src="icons/eu.darken.capod.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
+use in-ear devices such as AirPods and Beats</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><img alt="icon" width="128px" src="icons/nodomain.freeyourgadget.gadgetbridge.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><strong>Gadgetbridge</strong></a><br>
+connect with heart rate monitors, ear buds and more</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><img alt="icon" width="128px" src="icons/org.openhab.habdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><strong>openHAB</strong></a><br>
+remote control home automation</td>
+<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><img alt="icon" width="128px" src="icons/io.homeassistant.companion.android.minimal.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><strong>Home Assistant</strong></a><br>
+remote control home automation</td>
+<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
 <tr><th colspan="2"><br>Network</th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ch.protonvpn.android"><img alt="icon" width="128px" src="icons/ch.protonvpn.android.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ch.protonvpn.android"><strong>ProtonVPN</strong></a><br>
@@ -324,14 +308,6 @@ optimize wifi networks</td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><strong>ConnectBot</strong></a><br>
 SSH and Telnet</td>
 <td valign="top"><font color="red"><strong>Termius, JuiceSSH</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><img alt="icon" width="128px" src="icons/org.openhab.habdroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><strong>openHAB</strong></a><br>
-remote control home automation</td>
-<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><img alt="icon" width="128px" src="icons/io.homeassistant.companion.android.minimal.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><strong>Home Assistant</strong></a><br>
-remote control home automation</td>
-<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><img alt="icon" width="128px" src="icons/com.manimarank.websitemonitor.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><strong>Website Monitor</strong></a><br>
 monitor if websites are online</td>

@@ -11,13 +11,13 @@ TODO
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><img alt="icon" width="128px" src="icons/org.fdroid.fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><strong>F-Droid</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong>Google Play, Amazon Appstore</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><img alt="icon" width="128px" src="icons/org.fossify.phone.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><strong>Fossify Phone</strong></a><br>
+<td valign="top"><font color="red"><strong>Google Play, Amazon Appstore, (Samsung) Galaxy Store, Huawei AppGallery</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.clock"><img alt="icon" width="128px" src="icons/org.fossify.clock.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.clock"><strong>Fossify Clock</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="128px" src="icons/org.fossify.contacts.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><img alt="icon" width="128px" src="icons/org.fossify.phone.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><strong>Fossify Phone</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="128px" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
@@ -37,35 +37,18 @@ TODO
 </td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="128px" src="icons/org.fossify.filemanager.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><img alt="icon" width="128px" src="icons/com.nextcloud.client.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.client"><strong>Nextcloud</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.vauvenal5.yaga"><img alt="icon" width="128px" src="icons/com.github.vauvenal5.yaga.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.vauvenal5.yaga"><strong>Yaga</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><img alt="icon" width="128px" src="icons/com.github.catfriend1.syncthingandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><strong>Syncthing-Fork</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong>Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="128px" src="icons/org.fossify.filemanager.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><img alt="icon" width="128px" src="icons/com.google.android.diskusage.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.google.android.diskusage"><strong>DiskUsage</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong>Storage Analyzer & Disk Usage, CCleaner, AVG Cleaner</strong></font></td></tr>
-<tr><th colspan="2"><br>dispositivos periféricos</th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="128px" src="icons/eu.darken.capod.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Apple Podcast</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><img alt="icon" width="128px" src="icons/nodomain.freeyourgadget.gadgetbridge.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><strong>Gadgetbridge</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Apple Podcast</strong></font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><img alt="icon" width="128px" src="icons/org.mozilla.fennec_fdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><strong>Fennec</strong></a><br>
@@ -79,35 +62,69 @@ TODO
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.kunzisoft.keepass.libre"><strong>KeePassDX</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong>Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.hegocre.nextcloudpasswords"><img alt="icon" width="128px" src="icons/com.hegocre.nextcloudpasswords.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.hegocre.nextcloudpasswords"><strong>Nextcloud Passwords</strong></a><br>
+<tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><img alt="icon" width="128px" src="icons/net.thunderbird.android.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><strong>Thunderbird</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong>Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.nxbookmarks"><img alt="icon" width="128px" src="icons/org.schabi.nxbookmarks.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.nxbookmarks"><strong>Nextcloud Bookmarks</strong></a><br>
+<td valign="top"><font color="red"><strong>Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><img alt="icon" width="128px" src="icons/org.sufficientlysecure.keychain.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><strong>OpenKeychain</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong>Google Chrome, Instapaper, Pocket</strong></font></td></tr>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="128px" src="icons/org.fossify.contacts.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="128px" src="icons/org.fossify.calendar.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong>Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="128px" src="icons/at.bitfire.icsdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="128px" src="icons/at.bitfire.davdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="128px" src="icons/saschpe.contactevents.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong> Birthday Calendar</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="128px" src="icons/org.fossify.notes.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong>Google Keep, Microsoft OneNote, Evernote, Samsung Notes</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="128px" src="icons/org.tasks.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><img alt="icon" width="128px" src="icons/com.ichi2.anki.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><strong>AnkiDroid</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong>Quizlet, Flashcards World, LingQ</strong></font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messages"><img alt="icon" width="128px" src="icons/org.fossify.messages.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messages"><strong>Fossify SMS Messenger</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong>Google Messages</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/todo"><img alt="icon" width="128px" src="icons/todo.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/todo"><strong>Mattermost</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><img alt="icon" width="128px" src="icons/com.mattermost.rnbeta.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><strong>Mattermost</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><img alt="icon" width="128px" src="icons/com.nextcloud.talk2.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nextcloud.talk2"><strong>Nextcloud Talk</strong></a><br>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.forkgram.messenger"><img alt="icon" width="128px" src="icons/org.forkgram.messenger.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.forkgram.messenger"><strong>Forkgram (Telegram)</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong>Google Meet, Microsoft Teams</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><img alt="icon" width="128px" src="icons/org.telegram.messenger.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.telegram.messenger"><strong>Telegram</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE, Viber</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><img alt="icon" width="128px" src="icons/im.vector.app.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><strong>Element</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Viber</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><img alt="icon" width="128px" src="icons/io.element.android.x.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><strong>Element X</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong>, Viber</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><img alt="icon" width="128px" src="icons/eu.siacs.conversations.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><strong>Conversations</strong></a><br>
 </td>
@@ -127,7 +144,7 @@ TODO
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><img alt="icon" width="128px" src="icons/org.jitsi.meet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong>Skype, Zoom</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Zoom, Microsoft Teams, Google Meet, Discord, Skype</strong></font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="128px" src="icons/org.fossify.gallery.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><strong>Fossify Gallery</strong></a><br>
@@ -140,11 +157,7 @@ TODO
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><img alt="icon" width="128px" src="icons/org.schabi.newpipe.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><strong>NewPipe</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/cz.martykan.webtube"><img alt="icon" width="128px" src="icons/cz.martykan.webtube.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/cz.martykan.webtube"><strong>WebTube</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<td valign="top"><font color="red"><strong>YouTube, SoundCloud, Mixcloud, Bandcamp</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><img alt="icon" width="128px" src="icons/com.github.niqdev.ipcam.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><strong>IPCam Demo</strong></a><br>
 </td>
@@ -161,48 +174,6 @@ TODO
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kore"><strong>Kore</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><img alt="icon" width="128px" src="icons/net.thunderbird.android.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><strong>Thunderbird</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><img alt="icon" width="128px" src="icons/org.sufficientlysecure.keychain.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><strong>OpenKeychain</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="128px" src="icons/org.fossify.calendar.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="128px" src="icons/at.bitfire.icsdroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="128px" src="icons/at.bitfire.davdroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="128px" src="icons/org.fossify.notes.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Google Keep, Microsoft OneNote, Evernote, Samsung Notes</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="128px" src="icons/org.tasks.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.owncloud.notes"><img alt="icon" width="128px" src="icons/it.niedermann.owncloud.notes.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.owncloud.notes"><strong>Notes</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Google Keep, Microsoft OneNote, Evernote, Samsung Notes</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><img alt="icon" width="128px" src="icons/com.ichi2.anki.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><strong>AnkiDroid</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Quizlet, Flashcards World, LingQ</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.nextcloud.deck"><img alt="icon" width="128px" src="icons/it.niedermann.nextcloud.deck.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/it.niedermann.nextcloud.deck"><strong>Nextcloud Deck</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>Trello</strong></font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><img alt="icon" width="128px" src="icons/org.fossify.voicerecorder.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.voicerecorder"><strong>Fossify Voice Recorder</strong></a><br>
@@ -231,16 +202,12 @@ TODO
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/de.danoeh.antennapod"><img alt="icon" width="128px" src="icons/de.danoeh.antennapod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.danoeh.antennapod"><strong>AntennaPod</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong>Yandex Podcasts</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Apple Podcast, Yandex Podcasts</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.y20k.escapepod"><img alt="icon" width="128px" src="icons/org.y20k.escapepod.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.y20k.escapepod"><strong>Escapepod</strong></a><br>
 </td>
-<td valign="top"><font color="red"><strong>Yandex Podcasts</strong></font></td></tr>
+<td valign="top"><font color="red"><strong>Apple Podcast, Yandex Podcasts</strong></font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack"><img alt="icon" width="128px" src="icons/net.eneiluj.nextcloud.phonetrack.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack"><strong>PhoneTrack</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong></strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><img alt="icon" width="128px" src="icons/app.organicmaps.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><strong>Organic Maps</strong></a><br>
 </td>
@@ -295,6 +262,23 @@ Mastodon</td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><strong>Dash Wallet</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><th colspan="2"><br>dispositivos periféricos</th><th><br>Replaces</th></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="128px" src="icons/eu.darken.capod.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><strong>CAPod</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><img alt="icon" width="128px" src="icons/nodomain.freeyourgadget.gadgetbridge.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/nodomain.freeyourgadget.gadgetbridge"><strong>Gadgetbridge</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong></strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><img alt="icon" width="128px" src="icons/org.openhab.habdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><strong>openHAB</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
+<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><img alt="icon" width="128px" src="icons/io.homeassistant.companion.android.minimal.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><strong>Home Assistant</strong></a><br>
+</td>
+<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/ch.protonvpn.android"><img alt="icon" width="128px" src="icons/ch.protonvpn.android.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ch.protonvpn.android"><strong>ProtonVPN</strong></a><br>
@@ -316,14 +300,6 @@ Mastodon</td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><strong>ConnectBot</strong></a><br>
 </td>
 <td valign="top"><font color="red"><strong>Termius, JuiceSSH</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><img alt="icon" width="128px" src="icons/org.openhab.habdroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.openhab.habdroid"><strong>openHAB</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
-<tr><td><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><img alt="icon" width="128px" src="icons/io.homeassistant.companion.android.minimal.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal"><strong>Home Assistant</strong></a><br>
-</td>
-<td valign="top"><font color="red"><strong>SmartThings, Goolge Home, Smart Life, Nest</strong></font></td></tr>
 <tr><td><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><img alt="icon" width="128px" src="icons/com.manimarank.websitemonitor.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><strong>Website Monitor</strong></a><br>
 </td>
