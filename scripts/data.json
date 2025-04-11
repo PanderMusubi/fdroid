@@ -23,8 +23,8 @@
             },
             "apps": [
                 {
-                    "id": "org.fdroid.fdroid",
                     "name": "F-Droid",
+                    "id": "org.fdroid.fdroid",
                     "remark": "essential",
                     "replaces": "Google Play, Amazon Appstore, (Samsung) Galaxy Store, Huawei AppGallery",
                     "description": {
@@ -34,8 +34,8 @@
                     }
                 },
                 {
-                    "id": "org.fossify.clock",
                     "name": "Fossify Clock",
+                    "id": "org.fossify.clock",
                     "description": {
                         "en": "manage alarms",
                         "nl": "beheer alarmen",
@@ -43,8 +43,8 @@
                     }
                 },
                 {
-                    "id": "org.fossify.phone",
                     "name": "Fossify Phone",
+                    "id": "org.fossify.phone",
                     "description": {
                         "en": "manage phone calls",
                         "nl": "beheer telefoongesprekken",
@@ -52,8 +52,8 @@
                     }
                 },
                 {
-                    "id": "com.menny.android.anysoftkeyboard",
                     "name": "AnySoftKeyboard",
+                    "id": "com.menny.android.anysoftkeyboard",
                     "remark": "advised",
                     "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard",
                     "description": {
@@ -63,8 +63,8 @@
                     }
                 },
                 {
-                    "id": "de.nulide.findmydevice",
                     "name": "FindMyDevice",
+                    "id": "de.nulide.findmydevice",
                     "remark": "essential",
                     "replaces": "Google Find My Device, Samsung Find",
                     "description": {
@@ -74,8 +74,8 @@
                     }
                 },
                 {
-                    "id": "ru.seva.finder",
                     "name": "Finder",
+                    "id": "ru.seva.finder",
                     "remark": "essential",
                     "replaces": "Google Find My Device, Samsung Find",
                     "description": {
@@ -85,8 +85,8 @@
                     }
                 },
                 {
-                    "id": "io.keepalive.android",
                     "name": "Keep Alive",
+                    "id": "io.keepalive.android",
                     "remark": "essential",
                     "description": {
                         "en": "send SMS with location after period of inactivity",
@@ -104,9 +104,11 @@
             },
             "apps": [
                 {
-                    "id": "com.github.catfriend1.syncthingandroid",
                     "name": "Syncthing-Fork",
+                    "id": "com.github.catfriend1.syncthingandroid",
+                    "desktop": "syncthing",
                     "remark": "personal",
+                    "alternativeto": "syncthing",
                     "replaces": "Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud",
                     "description": {
                         "en": "synchronize and backup files",
@@ -115,8 +117,8 @@
                     }
                 },
                 {
-                    "id": "org.fossify.filemanager",
                     "name": "Fossify File Manager",
+                    "id": "org.fossify.filemanager",
                     "remark": "lineageos",
                     "replaces": "",
                     "description": {
@@ -126,8 +128,8 @@
                     }
                 },
                 {
-                    "id": "com.google.android.diskusage",
                     "name": "DiskUsage",
+                    "id": "com.google.android.diskusage",
                     "remark": "essential",
                     "replaces": "Storage Analyzer & Disk Usage, CCleaner, AVG Cleaner",
                     "description": {
@@ -146,8 +148,10 @@
             },
             "apps": [
                 {
-                    "id": "org.mozilla.fennec_fdroid",
                     "name": "Fennec",
+                    "id": "org.mozilla.fennec_fdroid",
+                    "alternativeto": "firefox",
+                    "desktop": "firefox",
                     "remark": "lineageos",
                     "replaces": "(Mozilla) Firefox, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket",
                     "description": {
@@ -157,8 +161,8 @@
                     }
                 },
                 {
-                    "id": "org.liberty.android.freeotpplus",
                     "name": "FreeOTP+",
+                    "id": "org.liberty.android.freeotpplus",
                     "remark": "essential",
                     "replaces": "Google Authenticator, Microsoft Authenticator, Authy",
                     "description": {
@@ -168,8 +172,8 @@
                     }
                 },
                 {
-                    "id": "com.kunzisoft.keepass.libre",
                     "name": "KeePassDX",
+                    "id": "com.kunzisoft.keepass.libre",
                     "remark": "optional",
                     "replaces": "Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key",
                     "description": {
@@ -188,8 +192,10 @@
             },
             "apps": [
                 {
-                    "id": "net.thunderbird.android",
                     "name": "Thunderbird",
+                    "id": "net.thunderbird.android",
+                    "alternativeto": "mozilla-thunderbird",
+                    "desktop": "thunderbird",
                     "remark": "personal",
                     "replaces": "Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail",
                     "description": {
@@ -199,8 +205,8 @@
                     }
                 },
                 {
-                    "id": "org.sufficientlysecure.keychain",
                     "name": "OpenKeychain",
+                    "id": "org.sufficientlysecure.keychain",
                     "remark": "personal",
                     "description": {
                         "en": "encrypt and decrypt texts and files (for <strong>Thunderbird</strong>)",
@@ -218,8 +224,9 @@
             },
             "apps": [
                 {
-                    "id": "org.fossify.contacts",
                     "name": "Fossify Contacts",
+                    "id": "org.fossify.contacts",
+                    "desktop": "thunderbird",
                     "remark": "lineageos",
                     "replaces": "",
                     "description": {
@@ -229,8 +236,9 @@
                     }
                 },
                 {
-                    "id": "org.fossify.calendar",
                     "name": "Fossify Calendar",
+                    "id": "org.fossify.calendar",
+                    "desktop": "thunderbird",
                     "remark": "secondary",
                     "replaces": "Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar",
                     "description": {
@@ -240,8 +248,9 @@
                     }
                 },
                 {
-                    "id": "at.bitfire.icsdroid",
                     "name": "ICSx⁵",
+                    "id": "at.bitfire.icsdroid",
+                    "desktop": "thunderbird",
                     "remark": "personal",
                     "description": {
                         "en": "add network calendars in ICS format (to <strong>Fossify Calendar</strong>)",
@@ -250,8 +259,9 @@
                     }
                 },
                 {
-                    "id": "at.bitfire.davdroid",
                     "name": "DAVx⁵",
+                    "id": "at.bitfire.davdroid",
+                    "desktop": "thunderbird",
                     "remark": "personal",
                     "description": {
                         "en": "synchronize calendars, tasks and contacts in CalDAV and CardDav (with <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> and <strong>Tasks.org</strong>)",
@@ -260,8 +270,9 @@
                     }
                 },
                 {
-                    "id": "saschpe.contactevents",
                     "name": " Birthday Calendar",
+                    "id": "saschpe.contactevents",
+                    "desktop": "thunderbird",
                     "remark": "personal",
                     "description": {
                         "en": "show birthdays from <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>,  and <strong>Tasks.org</strong>)",
@@ -270,8 +281,9 @@
                     }
                 },
                 {
-                    "id": "org.fossify.notes",
                     "name": "Fossify Notes",
+                    "id": "org.fossify.notes",
+                    "desktop": "thunderbird",
                     "remark": "secondary",
                     "replaces": "Google Keep, Microsoft OneNote, Evernote, Samsung Notes",
                     "description": {
@@ -281,8 +293,9 @@
                     }
                 },
                 {
-                    "id": "org.tasks",
                     "name": "Tasks.org",
+                    "id": "org.tasks",
+                    "desktop": "thunderbird",
                     "remark": "personal",
                     "description": {
                         "en": "manage tasks in CalDAV (see also <strong>DAVx⁵</strong>)",
@@ -291,8 +304,9 @@
                     }
                 },
                 {
-                    "id": "com.ichi2.anki",
                     "name": "AnkiDroid",
+                    "id": "com.ichi2.anki",
+                    "desktop": "yes",
                     "remark": "personal",
                     "replaces": "Quizlet, Flashcards World, LingQ",
                     "description": {
@@ -311,8 +325,8 @@
             },
             "apps": [
                 {
-                    "id": "org.fossify.messages",
                     "name": "Fossify SMS Messenger",
+                    "id": "org.fossify.messages",
                     "remark": "todo",
                     "replaces": "Google Messages",
                     "description": {
@@ -322,19 +336,23 @@
                     }
                 },
                 {
-                    "id": "com.mattermost.rnbeta",
-                    "name": "Mattermost",
-                    "remark": "",
-                    "replaces": "",
+                    "name": "Signal",
+                    "url": "https://signal.org/",
+                    "id": "signal",
+                    "alternativeto": "signal-private-messenger",
+                    "desktop": "signal",
+                    "replaces": "WhatsApp, Facebook Messenger, Zoom, Discord, Google Meet, Google Hangouts, Instagram, Snapchat, LINE, Skype",
                     "description": {
-                        "en": "",
-                        "nl": "",
+                        "en": "instant messaging, voice and video calling",
+                        "nl": "instant messaging, bellen en videobellen",
                         "es": ""
                     }
                 },
                 {
-                    "id": "org.forkgram.messenger",
                     "name": "Forkgram (Telegram)",
+                    "id": "org.forkgram.messenger",
+                    "alternativeto": "telegram",
+                    "desktop": "telegram",
                     "remark": "optional",
                     "replaces": "WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE, Viber",
                     "description": {
@@ -344,8 +362,35 @@
                     }
                 },
                 {
+                    "name": "Briar",
+                    "id": "org.briarproject.briar.android",
+                    "alternativeto": "briar",
+                    "mobile": "briar",
+                    "replaces": "WhatsApp, Facebook Messenger, Zoom, Discord, Google Meet, Google Hangouts, Instagram, Snapchat, LINE, Skype",
+                    "description": {
+                        "en": "peer-to-peer messaging",
+                        "nl": "peer-to-peer messaging",
+                        "es": ""
+                    }
+                },
+                {
+                    "name": "Mattermost",
+                    "id": "com.mattermost.rnbeta",
+                    "alternativeto": "mattermost",
+                    "desktop": "mattermost",
+                    "remark": "",
+                    "replaces": "",
+                    "description": {
+                        "en": "",
+                        "nl": "",
+                        "es": ""
+                    }
+                },
+                {
                     "id": "im.vector.app",
                     "name": "Element",
+                    "alternativeto": "element-app",
+                    "desktop": "element",
                     "remark": "optional",
                     "replaces": "Viber",
                     "description": {
@@ -357,8 +402,9 @@
                 {
                     "id": "io.element.android.x",
                     "name": "Element X",
+                    "desktop": "element-x",
                     "remark": "optional",
-                    "replaces": ", Viber",
+                    "replaces": "Viber",
                     "description": {
                         "en": "instant messaging with Matrix",
                         "nl": "instant messaging met Matrix",
@@ -410,6 +456,7 @@
                 {
                     "id": "org.jitsi.meet",
                     "name": "Jitsi Meet",
+                    "desktop": "jitsi-meet",
                     "remark": "personal",
                     "replaces": "Zoom, Microsoft Teams, Google Meet, Discord, Skype",
                     "description": {
@@ -470,6 +517,7 @@
                 {
                     "id": "is.xyz.mpv",
                     "name": "MPV",
+                    "desktop": "mpv",
                     "description": {
                         "en": "play video or audio from files or streams, including dual subtitles",
                         "nl": "speel video of audio af van bestanden of streams, inclusief dubbele ondertiteling",
@@ -479,6 +527,7 @@
                 {
                     "id": "org.xbmc.kodi",
                     "name": "Kodi",
+                    "desktop": "kodi",
                     "description": {
                         "en": "play video or audio from files or streams",
                         "nl": "speel video of audio af van bestanden of streams",
@@ -740,6 +789,7 @@
                 {
                     "id": "hashengineering.darkcoin.wallet",
                     "name": "Dash Wallet",
+                    "desktop": "dash",
                     "description": {
                         "en": "wallet cryptocurrency Dash",
                         "nl": "portemonnee cryptovaluta Dash",
