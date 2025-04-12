@@ -70,7 +70,7 @@ def generate() -> None:
                     if lang == 'en' and icon in icons:
                         print(f'WARNING: Duplicate use if icon {icon}')
                     icons.add(icon)
-                    mado.write('f<tr id="{app["id"]}"><td><a target="_blank"'
+                    mado.write(f'<tr id="{app["id"]}"><td><a target="_blank"'
                                ' href="https://f-droid.org/en/packages/'
                                f'{app["id"]}"><img alt="icon" width="128px"'
                                f' src="{icon}"></a></td>\n')
