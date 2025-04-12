@@ -70,7 +70,7 @@ def generate() -> None:
                     if lang == 'en' and icon in icons:
                         print(f'WARNING: Duplicate use if icon {icon}')
                     icons.add(icon)
-                    mado.write('<tr><td><a target="_blank"'
+                    mado.write('f<tr id="{app["id"]}"><td><a target="_blank"'
                                ' href="https://f-droid.org/en/packages/'
                                f'{app["id"]}"><img alt="icon" width="128px"'
                                f' src="{icon}"></a></td>\n')
@@ -83,8 +83,8 @@ def generate() -> None:
                         links.append(f'<a target="_blank" href="https://github.com/PanderMusubi/fdroid/blob/main/README.md#{app["mobile"]}">MB</a>')
                     if 'desktop' in app:
                         links.append(f'<a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#{app["desktop"]}">DT</a>')
-                    if 'ppa' in app:
-                        links.append(f'<a target="_blank" href="{app["ppa"]}">PP</a>')
+                    if 'apt' in app:
+                        links.append(f'<a target="_blank" href="{app["apt"]}">AP</a>')
                     if 'flathub' in app:
                         links.append(f'<a target="_blank" href="https://flathub.org/apps/{app["flathub"]}">FH</a>')
                     if 'snapcraft' in app:
