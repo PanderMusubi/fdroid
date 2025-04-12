@@ -93,7 +93,7 @@ def generate() -> None:
                         links.append(f'<a target="_blank" href="https://alternativeto.net/software/{app["alternativeto"]}/about/">AT</a>')
                     mado.write(f'{app["description"][lang]}<br><small>{" ".join(links)}</small></td>\n')
                     replaces = app.get('replaces', '')
-                    mado.write(f'<td valign="top"><font color="red"><strong>{replaces}</strong></font></td></tr>\n')
+                    mado.write(f'<td valign="top"><font color="red">{replaces}</font></td></tr>\n')
             mado.write('</table>\n\n')
             footer(mado, footers, lang)
     for file in sorted(glob('../icons/*')):
