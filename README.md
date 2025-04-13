@@ -72,7 +72,7 @@ use two-factor authentication (2FA) with import and export<br><small></small></t
 <td valign="top"><font color="red">Google Authenticator, Microsoft Authenticator, Authy</font></td></tr>
 <tr id="com.kunzisoft.keepass.libre"><td><a target="_blank" href="https://f-droid.org/en/packages/com.kunzisoft.keepass.libre"><img alt="icon" width="128px" src="icons/com.kunzisoft.keepass.libre.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.kunzisoft.keepass.libre"><strong>KeePassDX</strong></a><br>
-manage passwords<br><small></small></td>
+manage passwords<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#keepassxc">DT</a></small></td>
 <td valign="top"><font color="red">Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key</font></td></tr>
 <tr><th colspan="2"><br>Email</th><th><br>Replaces</th></tr>
 <tr id="net.thunderbird.android"><td><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><img alt="icon" width="128px" src="icons/net.thunderbird.android.png"></a></td>
@@ -131,7 +131,7 @@ instant messaging, voice and video calling<br><small><a target="_blank" href="ht
 <td valign="top"><font color="red">WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE, Viber</font></td></tr>
 <tr id="org.briarproject.briar.android"><td><a target="_blank" href="https://f-droid.org/en/packages/org.briarproject.briar.android"><img alt="icon" width="128px" src="icons/org.briarproject.briar.android.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.briarproject.briar.android"><strong>Briar</strong></a><br>
-peer-to-peer messaging<br><small><a target="_blank" href="https://github.com/PanderMusubi/fdroid/blob/main/README.md#briar">MB</a> <a target="_blank" href="https://alternativeto.net/software/briar/about/">AT</a></small></td>
+peer-to-peer messaging<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#briar">DT</a> <a target="_blank" href="https://alternativeto.net/software/briar/about/">AT</a></small></td>
 <td valign="top"><font color="red">WhatsApp, Facebook Messenger, Zoom, Discord, Google Meet, Google Hangouts, Instagram, Snapchat, LINE, Skype</font></td></tr>
 <tr id="com.mattermost.rnbeta"><td><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><img alt="icon" width="128px" src="icons/com.mattermost.rnbeta.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><strong>Mattermost</strong></a><br>
@@ -143,7 +143,7 @@ instant messaging with Matrix<br><small><a target="_blank" href="https://github.
 <td valign="top"><font color="red">Viber</font></td></tr>
 <tr id="io.element.android.x"><td><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><img alt="icon" width="128px" src="icons/io.element.android.x.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><strong>Element X</strong></a><br>
-instant messaging with Matrix<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#element-x">DT</a></small></td>
+instant messaging with Matrix<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#element">DT</a> <a target="_blank" href="https://alternativeto.net/software/element-x/about/">AT</a></small></td>
 <td valign="top"><font color="red">Viber</font></td></tr>
 <tr id="eu.siacs.conversations"><td><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><img alt="icon" width="128px" src="icons/eu.siacs.conversations.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><strong>Conversations</strong></a><br>
@@ -151,11 +151,11 @@ instant messaging with XMPP<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="io.heckel.ntfy"><td><a target="_blank" href="https://f-droid.org/en/packages/io.heckel.ntfy"><img alt="icon" width="128px" src="icons/io.heckel.ntfy.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.heckel.ntfy"><strong>nfty</strong></a><br>
-receive push notifications<br><small></small></td>
+receive push notifications<br><small><a target="_blank" href="https://alternativeto.net/software/ntfy/about/">AT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.linphone"><td><a target="_blank" href="https://f-droid.org/en/packages/org.linphone"><img alt="icon" width="128px" src="icons/org.linphone.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.linphone"><strong>Linphone</strong></a><br>
-calling with VOIP<br><small></small></td>
+calling with VOIP<br><small><a target="_blank" href="https://alternativeto.net/software/linphone/about/">AT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.avmedia.remotevideocam"><td><a target="_blank" href="https://f-droid.org/en/packages/org.avmedia.remotevideocam"><img alt="icon" width="128px" src="icons/org.avmedia.remotevideocam.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.avmedia.remotevideocam"><strong>Remote Video Camera</strong></a><br>
@@ -163,7 +163,7 @@ stream audio and/or video between two devices<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.jitsi.meet"><td><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><img alt="icon" width="128px" src="icons/org.jitsi.meet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
-video conference<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#jitsi-meet">DT</a></small></td>
+video conference<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#jitsi-meet">DT</a> <a target="_blank" href="https://alternativeto.net/software/jitsi-meet/about/">AT</a></small></td>
 <td valign="top"><font color="red">Zoom, Microsoft Teams, Google Meet, Discord, Skype</font></td></tr>
 <tr><th colspan="2"><br>Video and Images</th><th><br>Replaces</th></tr>
 <tr id="org.fossify.gallery"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="128px" src="icons/org.fossify.gallery.png"></a></td>
@@ -176,7 +176,7 @@ make photographs and videos<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.schabi.newpipe"><td><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><img alt="icon" width="128px" src="icons/org.schabi.newpipe.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.schabi.newpipe"><strong>NewPipe</strong></a><br>
-play YouTube, SoundCloud, Mixcloud, Bandcamp, etc. content as video or audio, also in the background<br><small></small></td>
+play YouTube, SoundCloud, Mixcloud, Bandcamp, etc. content as video or audio, also in the background<br><small><a target="_blank" href="https://alternativeto.net/software/newpipe/about/">AT</a></small></td>
 <td valign="top"><font color="red">YouTube, SoundCloud, Mixcloud, Bandcamp</font></td></tr>
 <tr id="com.github.niqdev.ipcam"><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><img alt="icon" width="128px" src="icons/com.github.niqdev.ipcam.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.niqdev.ipcam"><strong>IPCam Demo</strong></a><br>
