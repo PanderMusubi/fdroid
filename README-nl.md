@@ -14,6 +14,11 @@ Hieronder is een overzicht van gratis Anroidapps die vanuit [F-Droid](https://f-
 
 Sommige van de apps in dit overzicht kosten geld op Google Play maar zijn gratis op F-Droid. Goed te weten is dat veel van deze apps vaak beter zijn dan hun commerciele tegenhangers betreft functionaliteit en performance.
 
+De extra links onder de beschrijving van de app zijn
+- DT voor desktopapplicatie
+- AT voor alternative.to
+- OA voor os.alternative.to
+
 <table>
 <tr><th colspan="2"><br>Basis</th><th><br>Vervangt</th></tr>
 <tr id="org.fdroid.fdroid"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><img alt="icon" width="128px" src="icons/org.fdroid.fdroid.png"></a></td>

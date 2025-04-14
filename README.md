@@ -14,7 +14,8 @@ Below is an overview of free Android apps which can be installed from [F-Droid](
 
 Some of the apps listed here cost money in Google Play but are gratis on F-Droid. Good to know is that many of these apps often surpass their commercial counterparts in terms of functionality and performance.
 
-The additional links under the application description are:
+The additional links under the app description are:
+- DT for desktop application
 - AT for alternative.to
 - OA for os.alternative.to
 
