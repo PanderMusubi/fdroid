@@ -62,6 +62,14 @@ TODO
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.kunzisoft.keepass.libre"><strong>KeePassDX</strong></a><br>
 <br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#keepassxc">DT</a></small></td>
 <td valign="top"><font color="red">Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key</font></td></tr>
+<tr id="com.nononsenseapps.feeder"><td><a target="_blank" href="https://f-droid.org/en/packages/com.nononsenseapps.feeder"><img alt="icon" width="128px" src="icons/com.nononsenseapps.feeder.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nononsenseapps.feeder"><strong>Feeder</strong></a><br>
+<br><small></small></td>
+<td valign="top"><font color="red">Google News, Samsung upday news, Opera News, Flipboard, Feedly, Inoreader, Instapaper, Pocket</font></td></tr>
+<tr id="com.capyreader.app"><td><a target="_blank" href="https://f-droid.org/en/packages/com.capyreader.app"><img alt="icon" width="128px" src="icons/com.capyreader.app.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.capyreader.app"><strong>Capy Reader</strong></a><br>
+<br><small></small></td>
+<td valign="top"><font color="red">Google News, Samsung upday news, Opera News, Flipboard, Feedly, Inoreader, Instapaper, Pocket</font></td></tr>
 <tr><th colspan="2"><br></th><th><br>Replaces</th></tr>
 <tr id="net.thunderbird.android"><td><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><img alt="icon" width="128px" src="icons/net.thunderbird.android.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><strong>Thunderbird</strong></a><br>

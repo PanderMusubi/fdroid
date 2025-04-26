@@ -182,6 +182,28 @@
                         "nl": "beheer wachtwoorden",
                         "es": ""
                     }
+                },
+                {
+                    "name": "Feeder",
+                    "id": "com.nononsenseapps.feeder",
+                    "remark": "optional",
+                    "replaces": "Google News, Samsung upday news, Opera News, Flipboard, Feedly, Inoreader, Instapaper, Pocket",
+                    "description": {
+                        "en": "news feed reader",
+                        "nl": "nieuwsfeedlezer",
+                        "es": ""
+                    }
+                },
+                {
+                    "name": "Capy Reader",
+                    "id": "com.capyreader.app",
+                    "remark": "optional",
+                    "replaces": "Google News, Samsung upday news, Opera News, Flipboard, Feedly, Inoreader, Instapaper, Pocket",
+                    "description": {
+                        "en": "news feed reader",
+                        "nl": "nieuwsfeedlezer",
+                        "es": ""
+                    }
                 }
             ]
         },
