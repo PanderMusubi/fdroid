@@ -148,15 +148,15 @@
             },
             "apps": [
                 {
-                    "name": "Fennec",
-                    "id": "org.mozilla.fennec_fdroid",
-                    "alternativeto": "firefox",
+                    "name": "IronFox",
+                    "id": "org.ironfoxoss.ironfox",
+                    "alternativeto": "ironfox",
                     "desktop": "firefox",
                     "remark": "lineageos",
-                    "replaces": "(Mozilla) Firefox, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket",
+                    "replaces": "(Mozilla) Firefox, Fennec, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket",
                     "description": {
-                        "en": "browse the internet with Firefox Mobile including QR scanner and Firefox Sync for synchronizing passwords, bookmarks, settings, etc.",
-                        "nl": "browse het internet met Firefox Mobile inclusief QR-scanner en Firefox Sync voor synchroniseren wachtwoorden, favorieten, instellingen, etc.",
+                        "en": "browse the internet with secure version of Firefox Mobile including QR scanner and Firefox Sync for synchronizing passwords, bookmarks, settings, etc.",
+                        "nl": "browse het internet met veilige versie van Firefox Mobile inclusief QR-scanner en Firefox Sync voor synchroniseren wachtwoorden, favorieten, instellingen, etc.",
                         "es": ""
                     }
                 },
@@ -680,8 +680,8 @@
             },
             "apps": [
                 {
-                    "id": "app.organicmaps",
-                    "name": "Organic Maps",
+                    "id": "app.comaps.fdroid",
+                    "name": "CoMaps",
                     "remark": "personal",
                     "replaces": "Google Maps, Waze, TomTom, Yandex Maps, Yandex Navigator",
                     "description": {

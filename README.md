@@ -63,10 +63,10 @@ manage files, also viewing PDF files<br><small></small></td>
 manage disk usage<br><small></small></td>
 <td valign="top"><font color="red">Storage Analyzer & Disk Usage, CCleaner, AVG Cleaner</font></td></tr>
 <tr><th colspan="2"><br>Web Browsers</th><th><br>Replaces</th></tr>
-<tr id="org.mozilla.fennec_fdroid"><td><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><img alt="icon" width="128px" src="icons/org.mozilla.fennec_fdroid.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid"><strong>Fennec</strong></a><br>
-browse the internet with Firefox Mobile including QR scanner and Firefox Sync for synchronizing passwords, bookmarks, settings, etc.<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#firefox">DT</a> <a target="_blank" href="https://alternativeto.net/software/firefox/about/">AT</a></small></td>
-<td valign="top"><font color="red">(Mozilla) Firefox, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket</font></td></tr>
+<tr id="org.ironfoxoss.ironfox"><td><a target="_blank" href="https://f-droid.org/en/packages/org.ironfoxoss.ironfox"><img alt="icon" width="128px" src="icons/org.ironfoxoss.ironfox.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.ironfoxoss.ironfox"><strong>IronFox</strong></a><br>
+browse the internet with secure version of Firefox Mobile including QR scanner and Firefox Sync for synchronizing passwords, bookmarks, settings, etc.<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#firefox">DT</a> <a target="_blank" href="https://alternativeto.net/software/ironfox/about/">AT</a></small></td>
+<td valign="top"><font color="red">(Mozilla) Firefox, Fennec, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket</font></td></tr>
 <tr id="org.liberty.android.freeotpplus"><td><a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus"><img alt="icon" width="128px" src="icons/org.liberty.android.freeotpplus.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus"><strong>FreeOTP+</strong></a><br>
 use two-factor authentication (2FA) with import and export<br><small></small></td>
@@ -237,8 +237,8 @@ podcasts<br><small></small></td>
 podcasts<br><small></small></td>
 <td valign="top"><font color="red">Apple Podcast, Yandex Podcasts</font></td></tr>
 <tr><th colspan="2"><br>Route Planning, Navigation and Travel</th><th><br>Replaces</th></tr>
-<tr id="app.organicmaps"><td><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><img alt="icon" width="128px" src="icons/app.organicmaps.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/app.organicmaps"><strong>Organic Maps</strong></a><br>
+<tr id="app.comaps.fdroid"><td><a target="_blank" href="https://f-droid.org/en/packages/app.comaps.fdroid"><img alt="icon" width="128px" src="icons/app.comaps.fdroid.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/app.comaps.fdroid"><strong>CoMaps</strong></a><br>
 plan routes and navigate with OpenStreetMap for walking, cycling and driving, online and offline<br><small></small></td>
 <td valign="top"><font color="red">Google Maps, Waze, TomTom, Yandex Maps, Yandex Navigator</font></td></tr>
 <tr id="net.osmand.plus"><td><a target="_blank" href="https://f-droid.org/en/packages/net.osmand.plus"><img alt="icon" width="128px" src="icons/net.osmand.plus.png"></a></td>
