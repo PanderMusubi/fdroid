@@ -821,7 +821,7 @@
                 },
                 {
                     "id": "hashengineering.darkcoin.wallet",
-                    "name": "Dash Wallet",
+                    "name": "DashPay Wallet",
                     "desktop": "dash",
                     "description": {
                         "en": "wallet cryptocurrency Dash",

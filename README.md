@@ -288,7 +288,7 @@ find where to spend bitcoins<br><small></small></td>
 monitor cryptocurrency prices and trends<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="hashengineering.darkcoin.wallet"><td><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><img alt="icon" width="128px" src="icons/hashengineering.darkcoin.wallet.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><strong>Dash Wallet</strong></a><br>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><strong>DashPay Wallet</strong></a><br>
 wallet cryptocurrency Dash<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#dash">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr><th colspan="2"><br>Peripherals</th><th><br>Replaces</th></tr>
