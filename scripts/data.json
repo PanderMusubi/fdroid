@@ -149,6 +149,7 @@
             "apps": [
                 {
                     "name": "IronFox",
+                    "url": "https://ironfoxoss.org/",
                     "id": "org.ironfoxoss.ironfox",
                     "alternativeto": "ironfox",
                     "desktop": "firefox",
@@ -360,7 +361,7 @@
                 },
                 {
                     "name": "Signal",
-                    "url": "https://signal.org/",
+                    "url": "https://signal.org/android/apk/",
                     "id": "signal",
                     "alternativeto": "signal-private-messenger",
                     "osalternative": "signal-android",

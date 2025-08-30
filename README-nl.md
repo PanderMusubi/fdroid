@@ -63,8 +63,8 @@ beheer bestanden, ook bekijken PDF-bestanden<br><small></small></td>
 beheer diskgebruik<br><small></small></td>
 <td valign="top"><font color="red">Storage Analyzer & Disk Usage, CCleaner, AVG Cleaner</font></td></tr>
 <tr><th colspan="2"><br>Webbrowsers</th><th><br>Vervangt</th></tr>
-<tr id="org.ironfoxoss.ironfox"><td><a target="_blank" href="https://f-droid.org/en/packages/org.ironfoxoss.ironfox"><img alt="icon" width="128px" src="icons/org.ironfoxoss.ironfox.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.ironfoxoss.ironfox"><strong>IronFox</strong></a><br>
+<tr id="org.ironfoxoss.ironfox"><td><a target="_blank" href="https://ironfoxoss.org/"><img alt="icon" width="128px" src="icons/org.ironfoxoss.ironfox.png"></a></td>
+<td valign="top"><a target="_blank" href="https://ironfoxoss.org/"><strong>IronFox</strong></a><br>
 browse het internet met veilige versie van Firefox Mobile inclusief QR-scanner en Firefox Sync voor synchroniseren wachtwoorden, favorieten, instellingen, etc.<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#firefox">DT</a> <a target="_blank" href="https://alternativeto.net/software/ironfox/about/">AT</a></small></td>
 <td valign="top"><font color="red">(Mozilla) Firefox, Fennec, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket</font></td></tr>
 <tr id="org.liberty.android.freeotpplus"><td><a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus"><img alt="icon" width="128px" src="icons/org.liberty.android.freeotpplus.png"></a></td>
@@ -130,8 +130,8 @@ studeer en synchroniseer flashcards in Anki<br><small><a target="_blank" href="h
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messages"><strong>Fossify SMS Messenger</strong></a><br>
 beheer sms/mms-berichten<br><small></small></td>
 <td valign="top"><font color="red">Google Messages</font></td></tr>
-<tr id="signal"><td><a target="_blank" href="https://f-droid.org/en/packages/signal"><img alt="icon" width="128px" src="icons/signal.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/signal"><strong>Signal</strong></a><br>
+<tr id="signal"><td><a target="_blank" href="https://signal.org/android/apk/"><img alt="icon" width="128px" src="icons/signal.png"></a></td>
+<td valign="top"><a target="_blank" href="https://signal.org/android/apk/"><strong>Signal</strong></a><br>
 instant messaging, bellen en videobellen<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#signal">DT</a> <a target="_blank" href="https://alternativeto.net/software/signal-private-messenger/about/">AT</a></small></td>
 <td valign="top"><font color="red">WhatsApp, Facebook Messenger, Zoom, Discord, Google Meet, Google Hangouts, Instagram, Snapchat, LINE, Skype</font></td></tr>
 <tr id="org.forkgram.messenger"><td><a target="_blank" href="https://f-droid.org/en/packages/org.forkgram.messenger"><img alt="icon" width="128px" src="icons/org.forkgram.messenger.png"></a></td>
