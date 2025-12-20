@@ -22,3 +22,20 @@ pip install -Ur requirements.txt
 
 and then run `./build.sh`.
 
+## TODO
+
+https://get.alternative.to/
+
+spotube
+
+comaps (setting)
+
+signal
+
+firefox plugins
+
+https://f-droid.org/en/packages/com.vladpen.cams/
+
+https://github.com/LukeStonehm/LogicalDefence/issues/79
+https://f-droid.org/en/packages/za.co.lukestonehm.logicaldefence/
+
