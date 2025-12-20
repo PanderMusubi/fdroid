@@ -1,6 +1,6 @@
-_🇬🇧 For English, see [README.md](README.md)_
+_🇬🇧 For English, see [overview-en.md](overview-en.md)_
 
-_🇪🇸 Para español, ver [README-es.md](README-es.md)_
+_🇪🇸 Para español, ver [overview-es.md](overview-es.md)_
 
 # F-Droid
 
@@ -25,6 +25,10 @@ De extra links onder de beschrijving van de app zijn
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fdroid.fdroid"><strong>F-Droid</strong></a><br>
 installeer apps uit de F-Droid appstore<br><small></small></td>
 <td valign="top"><font color="red">Google Play, Amazon Appstore, (Samsung) Galaxy Store, Huawei AppGallery</font></td></tr>
+<tr id="com.menny.android.anysoftkeyboard"><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="128px" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><strong>AnySoftKeyboard</strong></a><br>
+type met automatisch aanvullend toetsenbord<br><small></small></td>
+<td valign="top"><font color="red">GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard</font></td></tr>
 <tr id="org.fossify.clock"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.clock"><img alt="icon" width="128px" src="icons/org.fossify.clock.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.clock"><strong>Fossify Clock</strong></a><br>
 beheer alarmen<br><small></small></td>
@@ -33,16 +37,8 @@ beheer alarmen<br><small></small></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.phone"><strong>Fossify Phone</strong></a><br>
 beheer telefoongesprekken<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
-<tr id="com.menny.android.anysoftkeyboard"><td><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><img alt="icon" width="128px" src="icons/com.menny.android.anysoftkeyboard.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard"><strong>AnySoftKeyboard</strong></a><br>
-type met automatisch aanvullend toetsenbord<br><small></small></td>
-<td valign="top"><font color="red">GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard</font></td></tr>
 <tr id="de.nulide.findmydevice"><td><a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice"><img alt="icon" width="128px" src="icons/de.nulide.findmydevice.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.nulide.findmydevice"><strong>FindMyDevice</strong></a><br>
-vind je misplaatste, verloren of gestolen apparaat<br><small></small></td>
-<td valign="top"><font color="red">Google Find My Device, Samsung Find</font></td></tr>
-<tr id="ru.seva.finder"><td><a target="_blank" href="https://f-droid.org/en/packages/ru.seva.finder"><img alt="icon" width="128px" src="icons/ru.seva.finder.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/ru.seva.finder"><strong>Finder</strong></a><br>
 vind je misplaatste, verloren of gestolen apparaat<br><small></small></td>
 <td valign="top"><font color="red">Google Find My Device, Samsung Find</font></td></tr>
 <tr id="io.keepalive.android"><td><a target="_blank" href="https://f-droid.org/en/packages/io.keepalive.android"><img alt="icon" width="128px" src="icons/io.keepalive.android.png"></a></td>
@@ -52,7 +48,7 @@ verstuur sms met locatie na periode van inactiviteit<br><small></small></td>
 <tr><th colspan="2"><br>Bestanden</th><th><br>Vervangt</th></tr>
 <tr id="com.github.catfriend1.syncthingandroid"><td><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><img alt="icon" width="128px" src="icons/com.github.catfriend1.syncthingandroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid"><strong>Syncthing-Fork</strong></a><br>
-synchroniseer en back-up bestanden<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#syncthing">DT</a> <a target="_blank" href="https://alternativeto.net/software/syncthing/about/">AT</a></small></td>
+synchroniseer en back-up bestanden<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#syncthing">DT</a> <a target="_blank" href="https://alternativeto.net/software/syncthing/about/">AT</a></small></td>
 <td valign="top"><font color="red">Dropbox, Google Drive, Microsoft OneDrive, Yandex Disk, Yandex Cloud</font></td></tr>
 <tr id="org.fossify.filemanager"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><img alt="icon" width="128px" src="icons/org.fossify.filemanager.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.filemanager"><strong>Fossify File Manager</strong></a><br>
@@ -65,7 +61,7 @@ beheer diskgebruik<br><small></small></td>
 <tr><th colspan="2"><br>Webbrowsers</th><th><br>Vervangt</th></tr>
 <tr id="org.ironfoxoss.ironfox"><td><a target="_blank" href="https://ironfoxoss.org/"><img alt="icon" width="128px" src="icons/org.ironfoxoss.ironfox.png"></a></td>
 <td valign="top"><a target="_blank" href="https://ironfoxoss.org/"><strong>IronFox</strong></a><br>
-browse het internet met veilige versie van Firefox Mobile inclusief QR-scanner en Firefox Sync voor synchroniseren wachtwoorden, favorieten, instellingen, etc.<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#firefox">DT</a> <a target="_blank" href="https://alternativeto.net/software/ironfox/about/">AT</a></small></td>
+browse het internet met veilige versie van Firefox Mobile inclusief QR-scanner en Firefox Sync voor synchroniseren wachtwoorden, favorieten, instellingen, etc.<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#firefox">DT</a> <a target="_blank" href="https://alternativeto.net/software/ironfox/about/">AT</a></small></td>
 <td valign="top"><font color="red">(Mozilla) Firefox, Fennec, Google Chrome, Microsoft Edge, Opera, Samsung Internet Browser, Yandex Browser, Instapaper, Pocket</font></td></tr>
 <tr id="org.liberty.android.freeotpplus"><td><a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus"><img alt="icon" width="128px" src="icons/org.liberty.android.freeotpplus.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.liberty.android.freeotpplus"><strong>FreeOTP+</strong></a><br>
@@ -73,7 +69,7 @@ gebruik two-factor authenticatie (2FA) met import en export<br><small></small></
 <td valign="top"><font color="red">Google Authenticator, Microsoft Authenticator, Authy</font></td></tr>
 <tr id="com.kunzisoft.keepass.libre"><td><a target="_blank" href="https://f-droid.org/en/packages/com.kunzisoft.keepass.libre"><img alt="icon" width="128px" src="icons/com.kunzisoft.keepass.libre.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.kunzisoft.keepass.libre"><strong>KeePassDX</strong></a><br>
-beheer wachtwoorden<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#keepassxc">DT</a></small></td>
+beheer wachtwoorden<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#keepassxc">DT</a></small></td>
 <td valign="top"><font color="red">Google Password Manager, Microsoft Authenticator, LastPass, 1Password, Bitwarden Password Manager, Yandex Key</font></td></tr>
 <tr id="com.nononsenseapps.feeder"><td><a target="_blank" href="https://f-droid.org/en/packages/com.nononsenseapps.feeder"><img alt="icon" width="128px" src="icons/com.nononsenseapps.feeder.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.nononsenseapps.feeder"><strong>Feeder</strong></a><br>
@@ -86,7 +82,7 @@ nieuwsfeedlezer<br><small></small></td>
 <tr><th colspan="2"><br>E-mail</th><th><br>Vervangt</th></tr>
 <tr id="net.thunderbird.android"><td><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><img alt="icon" width="128px" src="icons/net.thunderbird.android.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.thunderbird.android"><strong>Thunderbird</strong></a><br>
-ontvang en verstuur e-mails<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a> <a target="_blank" href="https://alternativeto.net/software/mozilla-thunderbird/about/">AT</a></small></td>
+ontvang en verstuur e-mails<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a> <a target="_blank" href="https://alternativeto.net/software/mozilla-thunderbird/about/">AT</a></small></td>
 <td valign="top"><font color="red">Microsoft Outlook, (Google) Gmail, Yahoo Mail, Samsung Email, Yandex Mail</font></td></tr>
 <tr id="org.sufficientlysecure.keychain"><td><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><img alt="icon" width="128px" src="icons/org.sufficientlysecure.keychain.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.sufficientlysecure.keychain"><strong>OpenKeychain</strong></a><br>
@@ -95,35 +91,39 @@ versleutel en ontsleutel teksten en bestanden (voor <strong>Thunderbird</strong>
 <tr><th colspan="2"><br>Contacten, Kalenders en taken</th><th><br>Vervangt</th></tr>
 <tr id="org.fossify.contacts"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><img alt="icon" width="128px" src="icons/org.fossify.contacts.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.contacts"><strong>Fossify Contacts</strong></a><br>
-beheer contacten, ook van CardDAV<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a></small></td>
+beheer contacten, ook van CardDAV<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.fossify.calendar"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><img alt="icon" width="128px" src="icons/org.fossify.calendar.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.calendar"><strong>Fossify Calendar</strong></a><br>
-beheer kalenders, ook tonen feestdagen en verjaardagen (zie ook ICSx⁵ en DAVx⁵)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a></small></td>
+beheer kalenders, ook tonen feestdagen en verjaardagen (zie ook ICSx⁵ en DAVx⁵)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a></small></td>
 <td valign="top"><font color="red">Google Calendar, Samsung Calendar, Microsoft Outlook, Yandex Calendar</font></td></tr>
 <tr id="at.bitfire.icsdroid"><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><img alt="icon" width="128px" src="icons/at.bitfire.icsdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.icsdroid"><strong>ICSx⁵</strong></a><br>
-voeg netwerkkalenders in ICS-formaat toe (aan <strong>Fossify Calendar</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a></small></td>
+voeg netwerkkalenders in ICS-formaat toe (aan <strong>Fossify Calendar</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="at.bitfire.davdroid"><td><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><img alt="icon" width="128px" src="icons/at.bitfire.davdroid.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/at.bitfire.davdroid"><strong>DAVx⁵</strong></a><br>
-synchroniseer kalenders, taken en contacten in CalDAV en CardDav (met <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> en <strong>Tasks.org</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a></small></td>
+synchroniseer kalenders, taken en contacten in CalDAV en CardDav (met <strong>Fossify Calendar</strong>, <strong>Fossify Contacts</strong> en <strong>Tasks.org</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="saschpe.contactevents"><td><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><img alt="icon" width="128px" src="icons/saschpe.contactevents.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/saschpe.contactevents"><strong> Birthday Calendar</strong></a><br>
-toon verjaardagen van <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a></small></td>
+toon verjaardagen van <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a></small></td>
+<td valign="top"><font color="red"></font></td></tr>
+<tr id="org.birthdayadapter"><td><a target="_blank" href="https://f-droid.org/en/packages/org.birthdayadapter"><img alt="icon" width="128px" src="icons/org.birthdayadapter.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.birthdayadapter"><strong> Birthday Adapter</strong></a><br>
+toon verjaardagen van <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a> <a target="_blank" href="https://alternativeto.net/software/birthday-adapter/about/">AT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.fossify.notes"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><img alt="icon" width="128px" src="icons/org.fossify.notes.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.notes"><strong>Fossify Notes</strong></a><br>
-beheer taken, alleen lokaal<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a></small></td>
+beheer taken, alleen lokaal<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a></small></td>
 <td valign="top"><font color="red">Google Keep, Microsoft OneNote, Evernote, Samsung Notes</font></td></tr>
 <tr id="org.tasks"><td><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><img alt="icon" width="128px" src="icons/org.tasks.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.tasks"><strong>Tasks.org</strong></a><br>
-beheer taken in CalDAV (zie ook <strong>DAVx⁵</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#thunderbird">DT</a></small></td>
+beheer taken in CalDAV (zie ook <strong>DAVx⁵</strong>)<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#thunderbird">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="com.ichi2.anki"><td><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><img alt="icon" width="128px" src="icons/com.ichi2.anki.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.ichi2.anki"><strong>AnkiDroid</strong></a><br>
-studeer en synchroniseer flashcards in Anki<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#yes">DT</a></small></td>
+studeer en synchroniseer flashcards in Anki<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#yes">DT</a></small></td>
 <td valign="top"><font color="red">Quizlet, Flashcards World, LingQ</font></td></tr>
 <tr><th colspan="2"><br>Messaging en communicatie</th><th><br>Vervangt</th></tr>
 <tr id="org.fossify.messages"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.messages"><img alt="icon" width="128px" src="icons/org.fossify.messages.png"></a></td>
@@ -132,27 +132,27 @@ beheer sms/mms-berichten<br><small></small></td>
 <td valign="top"><font color="red">Google Messages</font></td></tr>
 <tr id="signal"><td><a target="_blank" href="https://signal.org/android/apk/"><img alt="icon" width="128px" src="icons/signal.png"></a></td>
 <td valign="top"><a target="_blank" href="https://signal.org/android/apk/"><strong>Signal</strong></a><br>
-instant messaging, bellen en videobellen<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#signal">DT</a> <a target="_blank" href="https://alternativeto.net/software/signal-private-messenger/about/">AT</a></small></td>
+instant messaging, bellen en videobellen<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#signal">DT</a> <a target="_blank" href="https://alternativeto.net/software/signal-private-messenger/about/">AT</a></small></td>
 <td valign="top"><font color="red">WhatsApp, Facebook Messenger, Zoom, Discord, Google Meet, Google Hangouts, Instagram, Snapchat, LINE, Skype</font></td></tr>
 <tr id="org.forkgram.messenger"><td><a target="_blank" href="https://f-droid.org/en/packages/org.forkgram.messenger"><img alt="icon" width="128px" src="icons/org.forkgram.messenger.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.forkgram.messenger"><strong>Forkgram (Telegram)</strong></a><br>
-instant messaging, bellen en videobellen<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#telegram">DT</a> <a target="_blank" href="https://alternativeto.net/software/telegram/about/">AT</a></small></td>
+instant messaging, bellen en videobellen<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#telegram">DT</a> <a target="_blank" href="https://alternativeto.net/software/telegram/about/">AT</a></small></td>
 <td valign="top"><font color="red">WhatsApp, Skype, Facebook Messenger, Discord, Google Hangouts, Instagram, Snapchat, LINE, Viber</font></td></tr>
 <tr id="org.briarproject.briar.android"><td><a target="_blank" href="https://f-droid.org/en/packages/org.briarproject.briar.android"><img alt="icon" width="128px" src="icons/org.briarproject.briar.android.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.briarproject.briar.android"><strong>Briar</strong></a><br>
-peer-to-peer messaging<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#briar">DT</a> <a target="_blank" href="https://alternativeto.net/software/briar/about/">AT</a></small></td>
+peer-to-peer messaging<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#briar">DT</a> <a target="_blank" href="https://alternativeto.net/software/briar/about/">AT</a></small></td>
 <td valign="top"><font color="red">WhatsApp, Facebook Messenger, Zoom, Discord, Google Meet, Google Hangouts, Instagram, Snapchat, LINE, Skype</font></td></tr>
 <tr id="com.mattermost.rnbeta"><td><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><img alt="icon" width="128px" src="icons/com.mattermost.rnbeta.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.mattermost.rnbeta"><strong>Mattermost</strong></a><br>
-<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#mattermost">DT</a> <a target="_blank" href="https://alternativeto.net/software/mattermost/about/">AT</a></small></td>
+<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#mattermost">DT</a> <a target="_blank" href="https://alternativeto.net/software/mattermost/about/">AT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="im.vector.app"><td><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><img alt="icon" width="128px" src="icons/im.vector.app.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/im.vector.app"><strong>Element</strong></a><br>
-instant messaging met Matrix<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#element">DT</a> <a target="_blank" href="https://alternativeto.net/software/element-app/about/">AT</a></small></td>
+instant messaging met Matrix<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#element">DT</a> <a target="_blank" href="https://alternativeto.net/software/element-app/about/">AT</a></small></td>
 <td valign="top"><font color="red">Viber</font></td></tr>
 <tr id="io.element.android.x"><td><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><img alt="icon" width="128px" src="icons/io.element.android.x.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/io.element.android.x"><strong>Element X</strong></a><br>
-instant messaging met Matrix<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#element">DT</a> <a target="_blank" href="https://alternativeto.net/software/element-x/about/">AT</a></small></td>
+instant messaging met Matrix<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#element">DT</a> <a target="_blank" href="https://alternativeto.net/software/element-x/about/">AT</a></small></td>
 <td valign="top"><font color="red">Viber</font></td></tr>
 <tr id="eu.siacs.conversations"><td><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><img alt="icon" width="128px" src="icons/eu.siacs.conversations.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/eu.siacs.conversations"><strong>Conversations</strong></a><br>
@@ -172,7 +172,7 @@ stream audio en/of video tussen twee apparaten<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.jitsi.meet"><td><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><img alt="icon" width="128px" src="icons/org.jitsi.meet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.jitsi.meet"><strong>Jitsi Meet</strong></a><br>
-videoconferentie<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#jitsi-meet">DT</a> <a target="_blank" href="https://alternativeto.net/software/jitsi-meet/about/">AT</a></small></td>
+videoconferentie<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#jitsi-meet">DT</a> <a target="_blank" href="https://alternativeto.net/software/jitsi-meet/about/">AT</a></small></td>
 <td valign="top"><font color="red">Zoom, Microsoft Teams, Google Meet, Discord, Skype</font></td></tr>
 <tr><th colspan="2"><br>Video en afbeeldingen</th><th><br>Vervangt</th></tr>
 <tr id="org.fossify.gallery"><td><a target="_blank" href="https://f-droid.org/en/packages/org.fossify.gallery"><img alt="icon" width="128px" src="icons/org.fossify.gallery.png"></a></td>
@@ -193,11 +193,11 @@ bekijk IP=camerastreams<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="is.xyz.mpv"><td><a target="_blank" href="https://f-droid.org/en/packages/is.xyz.mpv"><img alt="icon" width="128px" src="icons/is.xyz.mpv.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/is.xyz.mpv"><strong>MPV</strong></a><br>
-speel video of audio af van bestanden of streams, inclusief dubbele ondertiteling<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#mpv">DT</a></small></td>
+speel video of audio af van bestanden of streams, inclusief dubbele ondertiteling<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#mpv">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.xbmc.kodi"><td><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kodi"><img alt="icon" width="128px" src="icons/org.xbmc.kodi.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kodi"><strong>Kodi</strong></a><br>
-speel video of audio af van bestanden of streams<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#kodi">DT</a></small></td>
+speel video of audio af van bestanden of streams<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#kodi">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr id="org.xbmc.kore"><td><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kore"><img alt="icon" width="128px" src="icons/org.xbmc.kore.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.xbmc.kore"><strong>Kore</strong></a><br>
@@ -249,10 +249,6 @@ plan routes and nagiveer met OpenStreetMap voor lopen, fietsen, autorijden en va
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/de.grobox.liberario"><strong>Transportr</strong></a><br>
 plan openbaar vervoer met NS, 9292, etc.<br><small></small></td>
 <td valign="top"><font color="red">Google Maps, Yandex Trains, 9292 (Netherlands), NS (Netherlands)</font></td></tr>
-<tr id="net.vonforst.evmap"><td><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><img alt="icon" width="128px" src="icons/net.vonforst.evmap.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.vonforst.evmap"><strong>EVMap</strong></a><br>
-vind opladers voor elektrische auto's op OpenStreetMap<br><small></small></td>
-<td valign="top"><font color="red"></font></td></tr>
 <tr id="net.gitsaibot.af"><td><a target="_blank" href="https://f-droid.org/en/packages/net.gitsaibot.af"><img alt="icon" width="128px" src="icons/net.gitsaibot.af.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/net.gitsaibot.af"><strong>AF Weather Widget</strong></a><br>
 bekijk weersgrafieken in widgets<br><small></small></td>
@@ -283,13 +279,9 @@ Facebook<br><small></small></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.btcmap"><strong>BTC Map</strong></a><br>
 vindt waar bitcoins uit te geven<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
-<tr id="com.cointrend"><td><a target="_blank" href="https://f-droid.org/en/packages/com.cointrend"><img alt="icon" width="128px" src="icons/com.cointrend.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.cointrend"><strong>CoinTrend</strong></a><br>
-bekijk cryptovalutaprijzen en - trends<br><small></small></td>
-<td valign="top"><font color="red"></font></td></tr>
 <tr id="hashengineering.darkcoin.wallet"><td><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><img alt="icon" width="128px" src="icons/hashengineering.darkcoin.wallet.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/hashengineering.darkcoin.wallet"><strong>DashPay Wallet</strong></a><br>
-portemonnee cryptovaluta Dash<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/README.md#dash">DT</a></small></td>
+portemonnee cryptovaluta Dash<br><small><a target="_blank" href="https://github.com/PanderMusubi/foss/blob/main/overview-nl.md#dash">DT</a></small></td>
 <td valign="top"><font color="red"></font></td></tr>
 <tr><th colspan="2"><br>Randapparaten</th><th><br>Vervangt</th></tr>
 <tr id="eu.darken.capod"><td><a target="_blank" href="https://f-droid.org/en/packages/eu.darken.capod"><img alt="icon" width="128px" src="icons/eu.darken.capod.png"></a></td>
@@ -321,18 +313,10 @@ gebruik gratis VPN zonder handmatige instellingen<br><small></small></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.aaronjwood.portauthority"><strong>Port Authority</strong></a><br>
 scan LAN en poorten<br><small></small></td>
 <td valign="top"><font color="red"></font></td></tr>
-<tr id="com.vrem.wifianalyzer"><td><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><img alt="icon" width="128px" src="icons/com.vrem.wifianalyzer.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.vrem.wifianalyzer"><strong>WiFiAnalyzer</strong></a><br>
-optimaliseer wifinetwerken<br><small></small></td>
-<td valign="top"><font color="red"></font></td></tr>
 <tr id="org.connectbot"><td><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><img alt="icon" width="128px" src="icons/org.connectbot.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/org.connectbot"><strong>ConnectBot</strong></a><br>
 SSH en Telnet<br><small></small></td>
 <td valign="top"><font color="red">Termius, JuiceSSH</font></td></tr>
-<tr id="com.manimarank.websitemonitor"><td><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><img alt="icon" width="128px" src="icons/com.manimarank.websitemonitor.png"></a></td>
-<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.manimarank.websitemonitor"><strong>Website Monitor</strong></a><br>
-monitor of websites online zijn<br><small></small></td>
-<td valign="top"><font color="red"></font></td></tr>
 <tr><th colspan="2"><br>Gezondheid</th><th><br>Vervangt</th></tr>
 <tr id="com.health.openscale"><td><a target="_blank" href="https://f-droid.org/en/packages/com.health.openscale"><img alt="icon" width="128px" src="icons/com.health.openscale.png"></a></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.health.openscale"><strong>openScale</strong></a><br>
@@ -359,6 +343,11 @@ Nederlandse ondersteuning voor AnySoftKeyboard<br><small></small></td>
 <td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/foss.cnugteren.nlweer"><strong>NLWeer</strong></a><br>
 Nederlands weer en neerslag van KNMI en Buienrader<br><small></small></td>
 <td valign="top"><font color="red">Google Weather, Yahoo Weather, Yandex Weather, Buienradar, KNMI</font></td></tr>
+<tr><th colspan="2"><br>Spaans</th><th><br>Vervangt</th></tr>
+<tr id="com.anysoftkeyboard.languagepack.spain"><td><a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.spain"><img alt="icon" width="128px" src="icons/com.anysoftkeyboard.languagepack.spain.png"></a></td>
+<td valign="top"><a target="_blank" href="https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.spain"><strong>AnySoftKeyboard Spanish</strong></a><br>
+Spaanse ondersteuning voor AnySoftKeyboard<br><small></small></td>
+<td valign="top"><font color="red">GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard</font></td></tr>
 </table>
 
 Als je nog een stap verder wil gaan, overweeg om [LineageOS](https://en.wikipedia.org/wiki/LineageOS) op je apparaat te installeren. Dit is Android zonder voorgeïnstalleerde apps van Google, zonder voorgeïnstalleerde apps van de fabrikant van je apparaat en zonder voorgeïnstalleerde apps van je provider. Door ook Open GApps pico te installeren heb je alsnog de mogelijkheid apps van Google Play te installeren, maar alleen die apps waar jij zelf voor kiest zoals Signal Private Messenger.

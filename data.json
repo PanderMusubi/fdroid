@@ -34,6 +34,17 @@
                     }
                 },
                 {
+                    "name": "AnySoftKeyboard",
+                    "id": "com.menny.android.anysoftkeyboard",
+                    "remark": "advised",
+                    "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard",
+                    "description": {
+                        "en": "type with autocompletion keyboard",
+                        "nl": "type met automatisch aanvullend toetsenbord",
+                        "es": ""
+                    }
+                },
+                {
                     "name": "Fossify Clock",
                     "id": "org.fossify.clock",
                     "description": {
@@ -52,30 +63,8 @@
                     }
                 },
                 {
-                    "name": "AnySoftKeyboard",
-                    "id": "com.menny.android.anysoftkeyboard",
-                    "remark": "advised",
-                    "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard",
-                    "description": {
-                        "en": "type with autocompletion keyboard",
-                        "nl": "type met automatisch aanvullend toetsenbord",
-                        "es": ""
-                    }
-                },
-                {
                     "name": "FindMyDevice",
                     "id": "de.nulide.findmydevice",
-                    "remark": "essential",
-                    "replaces": "Google Find My Device, Samsung Find",
-                    "description": {
-                        "en": "find your mistplaced, lost or stolen device",
-                        "nl": "vind je misplaatste, verloren of gestolen apparaat",
-                        "es": ""
-                    }
-                },
-                {
-                    "name": "Finder",
-                    "id": "ru.seva.finder",
                     "remark": "essential",
                     "replaces": "Google Find My Device, Samsung Find",
                     "description": {
@@ -296,6 +285,18 @@
                 {
                     "name": " Birthday Calendar",
                     "id": "saschpe.contactevents",
+                    "desktop": "thunderbird",
+                    "remark": "personal",
+                    "description": {
+                        "en": "show birthdays from <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>,  and <strong>Tasks.org</strong>)",
+                        "nl": "toon verjaardagen van <strong>Fossify Contacts</strong> in <strong>Fossify Calendar</strong>)",
+                        "es": ""
+                    }
+                },
+                {
+                    "name": " Birthday Adapter",
+                    "id": "org.birthdayadapter",
+                    "alternativeto": "birthday-adapter",
                     "desktop": "thunderbird",
                     "remark": "personal",
                     "description": {
@@ -713,16 +714,6 @@
                     }
                 },
                 {
-                    "id": "net.vonforst.evmap",
-                    "name": "EVMap",
-                    "remark": "optional",
-                    "description": {
-                        "en": "find electric vehicle chargers on OpenStreetMap",
-                        "nl": "vind opladers voor elektrische auto's op OpenStreetMap",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "net.gitsaibot.af",
                     "name": "AF Weather Widget",
                     "remark": "personal",
@@ -806,16 +797,6 @@
                     "description": {
                         "en": "find where to spend bitcoins",
                         "nl": "vindt waar bitcoins uit te geven",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.cointrend",
-                    "name": "CoinTrend",
-                    "remark": "personal",
-                    "description": {
-                        "en": "monitor cryptocurrency prices and trends",
-                        "nl": "bekijk cryptovalutaprijzen en - trends",
                         "es": ""
                     }
                 },
@@ -916,15 +897,6 @@
                     }
                 },
                 {
-                    "id": "com.vrem.wifianalyzer",
-                    "name": "WiFiAnalyzer",
-                    "description": {
-                        "en": "optimize wifi networks",
-                        "nl": "optimaliseer wifinetwerken",
-                        "es": ""
-                    }
-                },
-                {
                     "id": "org.connectbot",
                     "name": "ConnectBot",
                     "remark": "personal",
@@ -932,16 +904,6 @@
                     "description": {
                         "en": "SSH and Telnet",
                         "nl": "SSH en Telnet",
-                        "es": ""
-                    }
-                },
-                {
-                    "id": "com.manimarank.websitemonitor",
-                    "name": "Website Monitor",
-                    "remark": "personal",
-                    "description": {
-                        "en": "monitor if websites are online",
-                        "nl": "monitor of websites online zijn",
                         "es": ""
                     }
                 }
@@ -1020,6 +982,25 @@
                     "description": {
                         "en": "Dutch weather and precipitation from KNMI and Buienrader",
                         "nl": "Nederlands weer en neerslag van KNMI en Buienrader",
+                        "es": ""
+                    }
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Spanish",
+                "nl": "Spaans",
+                "es": ""
+            },
+            "apps": [
+                {
+                    "id": "com.anysoftkeyboard.languagepack.spain",
+                    "name": "AnySoftKeyboard Spanish",
+                    "replaces": "GBoard (Google Keyboard), Microsoft SwiftKey, Yandex Keyboard",
+                    "description": {
+                        "en": "Spanish support for AnySoftKeyboard",
+                        "nl": "Spaanse ondersteuning voor AnySoftKeyboard",
                         "es": ""
                     }
                 }
