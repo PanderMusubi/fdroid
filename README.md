@@ -39,3 +39,14 @@ https://f-droid.org/en/packages/com.vladpen.cams/
 https://github.com/LukeStonehm/LogicalDefence/issues/79
 https://f-droid.org/en/packages/za.co.lukestonehm.logicaldefence/
 
+## Development
+
+Install
+
+```sh
+. .venv/bin/activate
+pip install -Ur requirements-dev.txt
+```
+
+Run the linters with `./lint.sh`.
+
